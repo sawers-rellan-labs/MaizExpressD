@@ -1,0 +1,61 @@
+/* MaizExpressD: quiet laboratory notebook, as MaizExpressC. Ink on white, one deep leaf-green accent;
+   tissues and subpopulations carry the colour (Okabe-Ito based). */
+:root {
+  --ink: #22303A; --ink-2: #4A5866; --muted: #6B7884; --line: #E1E5E8;
+  --wash: #F5F7F6; --accent: #2F5D3A; --accent-wash: #E8F0E6; --warn: #9A5B00;
+}
+body { color: var(--ink); background: #FFFFFF; }
+.navbar .brand { font-family: Spectral, Georgia, serif; font-weight: 600; font-size: 1.35rem; letter-spacing: 0.01em; }
+.built { color: var(--muted); font-size: 0.8rem; }
+.bslib-sidebar-layout > .sidebar { background: var(--wash); border-right: 1px solid var(--line); }
+.sidebar .control-label, .sidebar .form-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+.sidebar .checkbox label, .sidebar .radio label { font-size: 0.88rem; }
+.sidebar .shiny-input-container { margin-bottom: 0.6rem; }
+.card { border-color: var(--line); box-shadow: none; }
+.card-header { background: #FFFFFF; font-family: Spectral, Georgia, serif; font-weight: 600; font-size: 1.05rem;
+  display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; border-bottom-color: var(--line); }
+.hint { color: var(--muted); font-size: 0.8rem; font-family: "IBM Plex Sans", system-ui, sans-serif; font-weight: 400; }
+.lede { color: var(--ink-2); max-width: 70ch; }
+.muted { color: var(--muted); }
+.mono { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 0.86em; }
+.warn { color: var(--warn); }
+.tag { display: inline-block; margin-left: 6px; padding: 0 6px; border: 1px solid var(--line); border-radius: 999px;
+  font-size: 0.72rem; color: var(--muted); vertical-align: 1px; }
+.searchcard .selectize-input { font-size: 1rem; padding: 10px 12px; border-radius: 8px; }
+.genecard { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 440px); gap: 12px 24px; align-items: start; margin-top: 8px; }
+.genecard .sym { font-family: Spectral, Georgia, serif; font-size: 2rem; font-weight: 600; line-height: 1.1; }
+.genecard .ids { display: flex; gap: 14px; flex-wrap: wrap; color: var(--ink-2); margin: 2px 0 8px; }
+.genecard dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 3px 14px; margin: 0; font-size: 0.88rem; }
+.genecard dt { color: var(--muted); font-weight: 500; }
+.genecard dd { margin: 0; overflow-wrap: anywhere; }
+.stats, .kpis { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.kpis { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); margin-bottom: 12px; }
+.stat { border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--wash); min-width: 0; }
+.stat .v { font-size: 1.3rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.stat .l { font-size: 0.76rem; color: var(--muted); }
+.methods { max-width: 82ch; }
+.methods h2 { font-family: Spectral, Georgia, serif; }
+.methods h3 { font-size: 1rem; margin-top: 1.2rem; font-weight: 600; }
+table.dataTable { font-variant-numeric: tabular-nums; font-size: 0.84rem; }
+@media (max-width: 900px) { .genecard { grid-template-columns: minmax(0, 1fr); } }
+.legendrow { margin: -4px 0 4px; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 0.78rem; color: var(--ink-2); }
+.legend .lg { display: inline-flex; align-items: center; gap: 5px; }
+.legend .sw { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.legend .sw.open { border: 1.6px solid var(--muted); background: #FFFFFF; }
+.legend .sw.x { border-radius: 0; width: auto; height: auto; font-size: 1rem; line-height: 10px; color: var(--muted); font-weight: 700; }
+.pt-tables table.dataTable { font-size: 0.82rem; }
+.pt-tables table.dataTable tbody tr { cursor: pointer; }
+.genecard details.more { display: inline; margin-left: 6px; }
+.genecard details.more summary { display: inline; cursor: pointer; color: var(--muted); text-decoration: underline dotted; }
+.genecard details.more[open] { display: block; margin: 4px 0 0; }
+.genecard .tag.lof { margin-left: 0; color: var(--warn); border-color: var(--warn); }
+.genecard .pw-go { color: var(--accent); text-decoration: none; white-space: nowrap; }
+.genecard .pg-strip { display: inline-flex; gap: 1px; vertical-align: middle; margin-left: 4px; }
+.genecard .pg-cell { width: 6px; height: 12px; border-radius: 1px; border: 1px solid var(--accent); }
+.genecard .pg-cell.on { background: var(--accent); }
+.genecard .pg-cell.off { background: transparent; border-color: var(--muted); }
+.genecard .sym .tag.warn { font-family: "IBM Plex Sans", system-ui, sans-serif; font-size: 0.74rem; font-weight: 500;
+  vertical-align: middle; margin-left: 10px; color: var(--warn); border-color: var(--warn); }
+.legend .sw.dia { border-radius: 0; width: 8px; height: 8px; background: var(--ink); transform: rotate(45deg); }
+.kpis + .hint { margin-top: -4px; }

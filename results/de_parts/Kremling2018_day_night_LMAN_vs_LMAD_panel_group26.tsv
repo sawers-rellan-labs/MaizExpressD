@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds	note
+Kremling2018_day_night_LMAN_vs_LMAD_panel_group26	day_night	panel	edgeR QL ~ pair + tissue	115	115	115	16	18123	1309	1570	14698	18	1448	prior QL df median 9.1

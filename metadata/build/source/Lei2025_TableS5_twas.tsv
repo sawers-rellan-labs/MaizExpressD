@@ -1,0 +1,94 @@
+gene_v3	tissue_lei	traits	category	annotation
+AC207722.2_FG009	LD	DTSGDD, DTAGDD, DTS, DTA, EH	Category 1	Light-Harvesting Chlorophyll A/B protein （LHCP）
+GRMZM2G002756	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	 ATP-dependent Clp protease adaptor protein ClpS containing protein
+GRMZM2G003318	LD	DTSGDD, DTS, DTA	Category 2	Fibrillin1
+GRMZM2G014653	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	NAC domain-containing protein 48
+GRMZM2G016622	LD	DTAGDD, DTS, DTA	Category 1	Photosystem I reaction center subunit IV
+GRMZM2G022926	LN	DTSGDD	Category 1	OSJNBa0070C17.17-like protein
+GRMZM2G025882	LD	EH, EP	Category 1	Beta-propeller domain of methanol dehydrogenase type 
+GRMZM2G026371	LD	DTSGDD, DTAGDD, DTS, DTA	Category 2	DEAD-box ATP-dependent RNA helicase 25, p-loop containing nucleoside triphosphate hydrolase superfamily protein
+GRMZM2G027166	LN	DTSGDD, DTS	Category 1	Genetic modifier
+GRMZM2G033885	LD	DTAGDD, DTS, DTA	Category 1	photosystem II subunit29, Chlorophyll a-b binding protein, chloroplastic
+GRMZM2G043075	LN	EP	Category 2	MATE efflux pseudogene, Protein DETOXIFICATION
+GRMZM2G035557	LN	DTSGDD, DTA	Category 2	
+GRMZM2G035749	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	Beta-amylase 3 chloroplastic, EC:3.2.1.2 
+GRMZM2G047954	LD	DTSGDD, DTAGDD, DTS, DTA	Category 1	Oxygen-evolving enhancer protein 2-1 chloroplastic 
+GRMZM2G057243	LB	EH	Category 2	Carotenoid 910（9'10'）-cleavage dioxygenase 1 
+GRMZM2G060114	LN	EP	Category 1	Mitochondrial transcription termination factor family protein 
+GRMZM2G060742	LD	PH, EH	Category 1	Citrate transporter family protein 
+GRMZM2G071166	LT	DTAGDD, DTA	Category 1	DUF309 domain protein
+GRMZM2G077541	LD	EH, EP	Category 1	Protein DJ-1 homolog D 
+GRMZM2G086835	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	Zinc finger protein 7
+GRMZM2G086935	RT	DTSGDD, DTAGDD, DTS, DTA	Category 1	
+GRMZM2G088088	LB	DTSGDD, DTAGDD, DTS, DTA	Category 1	Importin subunit alpha
+GRMZM2G090738	LN	PE	Category 2	
+GRMZM2G092793	LN	DTAGDD, DTA	Category 1	Sialin
+GRMZM2G093210	LD	ASI	Category 1	
+GRMZM2G098606	RT	DTSGDD, DTAGDD, DTS, DTA	Category 2	
+GRMZM2G111872	LN	DTSGDD, DTS, DTA	Category 1	Farnesylated protein 3
+GRMZM2G116689	LD	DTSGDD, DTAGDD, DTS, DTA	Category 2	Ubiquitin-NEDD8-like protein RUB1 
+GRMZM2G118462	LN	DTSGDD, DTAGDD	Category 1	Probable alpha, alpha-trehalose-phosphate synthase [UDP-forming] 7, Trehalose-6-phosphate synthase15
+GRMZM2G120942	LB	DTA	Category 2	Transcription initiation factor TFIID subunit 10
+GRMZM2G125635	LD	EH	Category 1	S-adenosylmethionine decarboxylase proenzyme, EC:4.1.1.50
+GRMZM2G132633	LN	DTSGDD	Category 1	Transcription factor IIA alpha/beta subunit 
+GRMZM2G136344	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	Zeaxanthin epoxidase, chloroplastic
+GRMZM2G142836	LN	DTA	Category 1	Quinolinate synthase, chloroplastic, EC:2.5.1.72
+GRMZM2G150697	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	
+GRMZM2G326270	LN	PH	Category 1	Haloacid dehalogenase-like hydrolase domain-containing protein 3, Rhythmically expressed protein
+GRMZM2G345039	LD	DTSGDD, DTAGDD, DTS, DTA	Category 1	RNase PH-like protein
+GRMZM2G372632	LN	DTSGDD, DTAGDD, DTS, DTA	Category 1	Pentatricopeptide repeat-containing protein At4g31850, chloroplastic, Proton RTadient regulation3-like protein 
+GRMZM2G381129	LD	DTSGDD, DTS, DTA	Category 1	Pyridoxal phosphate homeostasis protein
+GRMZM2G403828	LT	DTSGDD, DTS	Category 2	Putative calmodulin-binding family protein, IQ domain-containing protein IQM3
+GRMZM2G568636	LD	DTSGDD, DTAGDD, DTS, DTA	Category 1	Nitrate reductase [NADH]-like, Cofactor FAD 1、Mo-molybdopterin 
+GRMZM2G430526	RT	DTSGDD, DTAGDD, DTS, DTA, PH, EH, EHdivPH	Category 2	
+GRMZM2G430526	SH	DTSGDD, DTAGDD, DTS, DTA, EH, EHdivPH	Category 2	
+GRMZM2G430526	LB	DTSGDD, DTAGDD, DTS, DTA, EH	Category 2	
+GRMZM2G010095	RT	EH	Category 2	C2 NT-type domain-containing protein
+GRMZM2G171650	SH	DTSGDD, DTS, DTA	Category 2	MADS-box transcription factor 56 
+GRMZM2G171650	RT	PH	Category 2	
+GRMZM2G060940	LD	20KernelWeight	Category 2	
+GRMZM2G118950	RT	20KernelWeight	Category 1	
+GRMZM2G123986	LD	20KernelWeight	Category 1	
+GRMZM2G427054	LD	20KernelWeight	Category 1	
+GRMZM2G117513	LT	UpperLeafAngle	Category 1	
+GRMZM2G138496	SH	UpperLeafAngle	Category 2	
+GRMZM2G428356	LD	UpperLeafAngle	Category 2	
+GRMZM2G428356	LN	UpperLeafAngle	Category 2	
+GRMZM2G168002	LN	TotalKernelVolume	Category 1	
+GRMZM2G328742	SH	TotalKernelVolume	Category 1	
+GRMZM2G000764	LB	TilleringIndex	Category 1	
+GRMZM2G048277	RT	TasselPrimaryBranches	Category 1	
+GRMZM2G092923	SH	TasselLength	Category 2	
+GRMZM2G092923	LB	TasselLength	Category 2	
+GRMZM2G039895	RT	TasselBranchLength	Category 2	
+GRMZM2G704347	RT	TasselBranchLength	Category 2	
+GRMZM2G083076	LD	SpikeletsPrimaryBranch	Category 1	
+GRMZM2G106190	LD	SouthernLeafBlight	Category 1	
+GRMZM2G130678	LD	SouthernLeafBlight	Category 2	
+GRMZM2G428168	LN	SouthernLeafBlight	Category 1	
+GRMZM2G012891	LD	SecondaryBranchNumber	Category 1	
+GRMZM2G025966	LD	SecondaryBranchNumber	Category 1	
+GRMZM2G094017	LD	SecondaryBranchNumber	Category 1	
+GRMZM2G162537	LT	SecondaryBranchNumber	Category 2	
+GRMZM2G000909	LN	NIRProtein	Category 1	
+GRMZM2G111225	LB	NIRProtein	Category 2	
+GRMZM2G003640	LT	NIROil	Category 2	
+GRMZM5G865298	LN	MiddleLeafAngle	Category 1	
+GRMZM2G012601	RT	LeafWidth	Category 1	
+GRMZM2G045987	LD	LeafWidth	Category 1	
+GRMZM2G117854	LD	LeafWidth	Category 2	
+GRMZM2G031941	SH	LeafLength	Category 1	
+GRMZM2G149717	LD	LeafLength	Category 1	
+GRMZM2G338693	SH	LeafLength	Category 1	
+GRMZM2G103666	LN	LeafLength	Category 1	
+GRMZM2G083301	SH	EarWeight	Category 2	
+GRMZM2G130101	RT	EarWeight	Category 2	
+GRMZM2G160231	RT	EarWeight	Category 1	
+GRMZM2G048928	RT	EarRowNumber	Category 1	
+GRMZM2G080917	LN	EarRowNumber	Category 1	
+GRMZM2G092459	RT	EarLength,SeedSetLength	Category 2	
+GRMZM2G092459	LB	EarLength,SeedSetLength	Category 2	
+GRMZM2G087655	LT	EarLength	Category 1	
+GRMZM2G054548	LB	EarDiameter	Category 2	
+GRMZM2G100419	LB	EarDiameter	Category 2	
+GRMZM2G027021	LT	CobWeight	Category 1	

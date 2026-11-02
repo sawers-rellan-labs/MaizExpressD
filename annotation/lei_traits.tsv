@@ -1,0 +1,88 @@
+trait	description	trait_group
+DTSGDD	growing degree days to silking	agronomic
+DTAGDD	growing degree days to anthesis	agronomic
+ASIGDD	growing degree days to anthesis-silking interval	agronomic
+DTS	days to silking	agronomic
+DTA	days to anthesis	agronomic
+ASI	anthesis-silking interval	agronomic
+PH	plant height	agronomic
+EH	ear height	agronomic
+PE	PH minus EH	agronomic
+EP	EH divided by PH	agronomic
+PD	PH divided by days to anthesis	agronomic
+20KernelWeight	weight of 20 kernels	agronomic
+CobDiameter	diameter of cob at halfway point of length, no kernels	agronomic
+CobWeight	mass of cob only, no kernels	agronomic
+EarDiameter	diameter of ear at 1/5 length point with kernels on it or the widest point	agronomic
+EarLength	length of cob from base to tip	agronomic
+EarRankNumber	number of rows along length	agronomic
+EarRowNumber	number of rows around circumference	agronomic
+EarWeight	mass of cob + kernels	agronomic
+GerminationCount	GerminationCount	agronomic
+LeafLength	leaf below the last large ear, distance from base to tip of the leaf	agronomic
+LeafWidth	leaf below the last large ear, at the widest section of the leaf	agronomic
+MainSpikeLength	length from the main spike above highest tassel branch	agronomic
+MiddleLeafAngle	leaf below the last large ear, place the tool directly behind the stalk and leaf, take the angle that the midrib of the leaf projects on the tool near where leaf attaches to the stalk, NOT at the end of the leaf; Vertical = 90 and Horizontal = 0	agronomic
+NIROil	Oil measured by NIR	agronomic
+NIRProtein	Protein measured by NIR	agronomic
+NIRStarch	Starch measured by NIR	agronomic
+NorthernLeafBlight(Percentage)	Percentage of leaf area affected	agronomic
+NR	nitrate reductase (EC 1.7.1.1)	agronomic
+NumberofTilleringPlants	Number of tillering plants per row	agronomic
+RowQuality	Index 1-5 of overall believability of trait measurement	agronomic
+SecondaryBranchNumber	NULL	agronomic
+SeedSetLength	length of kernels from base to where kernels end on ear	agronomic
+SouthernLeafBlight	1 is unaffected 9 is dead but most pathologists reverse the scale	agronomic
+Spikelets-MainSpike	number of spikelet pairs per 4 cm of central spike	agronomic
+Spikelets-PrimaryBranch	number of spikelet pairs per 6 cm of lowermost primary branch	agronomic
+StandCount	NULL	agronomic
+TasselBranchLength	NULL	agronomic
+TasselLength	Length from the bottom brach to the tip of the tassel	agronomic
+TasselPrimaryBranches	number of branches coming off main spike	agronomic
+TilleringIndex	Number of tillers per plant.	agronomic
+TotalKernelVolume	volume of all kernels poured into a cylinder	agronomic
+UpperLeafAngle	leaf immediately below the flag leaf, place the tool directly behind the stalk and leaf, take the angle that the midrib of the leaf projects on the tool; Vertical = 90 and Horizontal = 0 degrees	agronomic
+Δ-Tocotrienol （dT3）		tocochromanol
+γ-Tocotrienol（gT3）		tocochromanol
+α-Tocotrienol （aT3）		tocochromanol
+Δ-Tocopherol（dT）		tocochromanol
+γ-Tocopherol （gT）		tocochromanol
+α-Tocopherol（aT）		tocochromanol
+Total Tocotrienols		tocochromanol
+Total Tocopherols		tocochromanol
+Total Tocopherols/Total Tocotrienols		tocochromanol
+Total Tocochromanols		tocochromanol
+dT/(gT+aT)		tocochromanol
+dT/gT		tocochromanol
+dT/aT		tocochromanol
+gT/(gT+aT)		tocochromanol
+dT3/(gT3+aT3)		tocochromanol
+dT3/gT3		tocochromanol
+dT3/aT3		tocochromanol
+gT3/(gT3+aT3)		tocochromanol
+aT/gT		tocochromanol
+aT3/gT3		tocochromanol
+Acyclic/Monocyclic		carotenoid
+Acyclic/ Cyclic		carotenoid
+Lutein		carotenoid
+Phytoene		carotenoid
+ProvitaminA		carotenoid
+ProvitaminA/Total Carotenoids		carotenoid
+Tetrahydrolycopene		carotenoid
+Total Carotenes/Total Xanthophylls		carotenoid
+Total Carotenoids		carotenoid
+Total α-Xanthophylls		carotenoid
+Total β-Xanthophylls		carotenoid
+Zeaxanthin		carotenoid
+Zeinoxanthin		carotenoid
+Zeinoxanthin/Lutein		carotenoid
+α-Carotene		carotenoid
+α-Carotene/Zeinoxanthin		carotenoid
+β-Carotene		carotenoid
+β-Carotene/(β-Cryptoxanthin+Zeaxanthin)		carotenoid
+β-Carotene/β-Cryptoxanthin		carotenoid
+β-Carotenes/α-Carotenes		carotenoid
+β-Cryptoxanthin		carotenoid
+β-Cryptoxanthin/Zeaxanthin		carotenoid
+β-Xanthophylls/α-Xanthophylls		carotenoid
+ζ-Carotene		carotenoid

@@ -1,0 +1,32 @@
+eqtl_v3	eqtl_v5	qtl_v3	qtl_v5	gene_v3	trait	tissue_lei
+Chromosome 3: 229990404bp	Chromosome 3: 235699762bp	Chromosome 3: 229990451bp	Chromosome 3: 235699809bp	GRMZM2G458888	EP	RT
+				GRMZM2G075884		LD
+Chromosome 8: 131332055bp	Chromosome 8: 135404353bp	Chromosome 8: 131726695bp	Chromosome 8: 135819107bp	AC214648.3_FG003	EH	LD
+Chromosome 8: 130707896bp	Chromosome 8: 134761044bp	Chromosome 8: 130707910bp	Chromosome 8: 134761058bp		DTA	SH
+Chromosome 2: 214697903bp	Chromosome 2: 220816891bp	Chromosome 2: 214697974bp	Chromosome 2: 220816962bp	GRMZM2G040209	TL	SH LT LD
+Chromosome 8: 131726719bp	Chromosome 8: 135819131bp	Chromosome 8: 131726695bp	Chromosome 8: 135819107bp	GRMZM2G474726	EH	SH
+Chromosome 7: 19634000bp	Chromosome 7: 20299748bp	Chromosome 7: 19634030bp	Chromosome 7: 20299718bp	GRMZM2G105996	LW	LB
+Chromosome 9: 26561761bp	Chromosome 9: 28558124bp	Chromosome 9: 26561830bp	Chromosome 9: 28558193bp	GRMZM2G152373	DTA	LB LT
+				GRMZM2G393146		LT
+Chromosome 4: 15711349bp	Chromosome 4: 17019965bp	Chromosome 4: 15711413bp	Chromosome 4: 17020029bp	GRMZM2G017865	Node number below ear Genetic value	LN
+					Node number below ear Linear plasticity	
+Chromosome 8: 130423386bp	Chromosome 8: 134488730bp	Chromosome 8: 130423462bp	Chromosome 8: 134488806bp	GRMZM2G034043	DTA	LN
+				GRMZM2G020096	DTA	SH
+Chromosome 6: 121207024bp	Chromosome 6: 131817469bp	Chromosome 6: 121206947bp	Chromosome 6: 131817392bp	GRMZM2G046576	TBN	LN
+Chromosome 7: 143333389bp	Chromosome 7: 149437444bp	Chromosome 7: 143333360bp	Chromosome 7: 149437415bp	GRMZM2G109448	Kernel length Genetic value	LN
+					Kernel length Linear plasticity	
+Chromosome 1: 86775549bp	Chromosome 1: 87808526bp	Chromosome 1: 86775549bp	Chromosome 1: 87808526bp	GRMZM2G143202	Zeinoxanthin/lutein	LD
+					Zeinoxanthin	
+					α-carotene/zeinoxanthin	
+Chromosome 8: 131596242bp	Chromosome 8: 135673295bp	Chromosome 8: 131596218bp	Chromosome 8: 135673271bp	GRMZM2G700665	EH	RT
+		Chromosome 8: 131596224bp	Chromosome 8: 135673277bp		EP	
+Chromosome 8: 131599752bp	Chromosome 8: 135676805bp	Chromosome 8: 131599699bp, Chromosome 8: 131599716bp, Chromosome 8: 131599745bp, Chromosome 8: 131599752bp, Chromosome 8: 131599815bp	Chromosome 8: 135676752bp		DTA	SH
+		Chromosome 8: 131599815bp	Chromosome 8: 135676868bp		EH	
+		Chromosome 8: 131599675bp, Chromosome 8: 131599699bp, Chromosome 8: 131599716bp, Chromosome 8: 131599745bp, Chromosome 8: 131599752bp, Chromosome 8: 131599815bp	Chromosome 8: 135676728bp		EP	
+Chromosome 8: 131598307bp	Chromosome 8: 135675360bp	Chromosome 8: 131598303bp	Chromosome 8: 135675356bp		DTA	LB
+					EH	
+					EP	
+Chromosome 8: 123040122bp	Chromosome 8: 126688423bp	Chromosome 8: 123040078bp, Chromosome 8: 123041229bp, Chromosome 8: 123041235bp, Chromosome 8: 123041300bp	Chromosome 8: 126688379bp, Chromosome 8: 126689530bp, Chromosome 8: 126689536bp, Chromosome 8: 126689601bp	GRMZM2G479987	DTS	SH LB LD LN
+Chromosome 8: 123040078bp	Chromosome 8: 126688379bp	Chromosome 8: 123040044bp, Chromosome 8: 123040122bp, Chromosome 8: 123041229bp, Chromosome 8: 123041232bp, Chromosome 8: 123041235bp, Chromosome 8: 123041300bp	Chromosome 8: 126688345bp, Chromosome 8: 126688423bp, Chromosome 8: 126689530bp, Chromosome 8: 126689533bp, Chromosome 8: 126689536bp, Chromosome 8: 126689601bp		DTA	
+Chromosome 8: 123040122bp	Chromosome 8: 126688423bp	Chromosome 8: 123040122bp, Chromosome 8: 123041174bp, Chromosome 8: 123041229bp, Chromosome 8: 123041232bp, Chromosome 8: 123041235bp, Chromosome 8: 123041300bp	Chromosome 8: 126688423bp, Chromosome 8: 126689475bp, Chromosome 8: 126689530bp, Chromosome 8: 126689533bp, Chromosome 8: 126689536bp, Chromosome 8: 126689601bp		EH	
+Chromosome 8: 123041229bp	Chromosome 8: 126689530bp	Chromosome 8: 123040044bp, Chromosome 8: 123040078bp, Chromosome 8: 123040122bp, Chromosome 8: 123041174bp, Chromosome 8: 123041229bp, Chromosome 8: 123041232bp, Chromosome 8: 123041235bp, Chromosome 8: 123041300bp	Chromosome 8: 126688345bp, Chromosome 8: 126688379bp, Chromosome 8: 126688423bp, Chromosome 8: 126689475bp, Chromosome 8: 126689530bp, Chromosome 8: 126689533bp, Chromosome 8: 126689536bp, Chromosome 8: 126689601bp		EP	

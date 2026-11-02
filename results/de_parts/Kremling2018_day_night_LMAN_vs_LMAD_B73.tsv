@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds
+Kremling2018_day_night_LMAN_vs_LMAD_B73	day_night	B73	~ tissue		6	6	1	17388	1295	1430	5748	1	28

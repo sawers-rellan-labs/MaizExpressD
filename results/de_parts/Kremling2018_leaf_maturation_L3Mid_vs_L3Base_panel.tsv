@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds	note
+Kremling2018_leaf_maturation_L3Mid_vs_L3Base_panel	leaf_maturation	panel	edgeR QL ~ pair + tissue	24	24	24	4	18987	4057	5273	15323	10	34	prior QL df median 6.0

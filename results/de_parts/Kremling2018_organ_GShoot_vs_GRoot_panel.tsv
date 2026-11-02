@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds	note
+Kremling2018_organ_GShoot_vs_GRoot_panel	organ	panel	edgeR QL ~ pair + tissue	217	218	217	92	20634	4112	4173	19278	21	48578	prior QL df median 5.9

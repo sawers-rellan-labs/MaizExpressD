@@ -1,0 +1,3 @@
+run_accession	label_in_name	label_used	evidence
+SRR5911344	LMAD8	LMAN8	library 10343927_LMAD8_CML505_AACGCC scores +0.87 on the day/night expression score (LMAD median -1.17, LMAN median +1.17), and CML505's LMAN8 library SRR5911345 on the same flowcell (HJ2HWBGXX) scores -1.20: labels swapped (M3 library QC; Rubén, 30 Oct 2026)
+SRR5911345	LMAN8	LMAD8	library 10343927_LMAN8_CML505_CAACAG scores -1.20 on the day/night expression score (LMAD median -1.17, LMAN median +1.17), and CML505's LMAD8 library SRR5911344 on the same flowcell (HJ2HWBGXX) scores +0.87: labels swapped (M3 library QC; Rubén, 30 Oct 2026)

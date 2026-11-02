@@ -1,0 +1,45 @@
+11:29:02 start Kremling2018_day_night_LMAN_vs_LMAD_B73
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_day_night_LMAN_vs_LMAD_B73              17388 genes  1295 up  1430 down      28 s
+11:29:46 start Kremling2018_leaf_stage_LMAD_vs_L3Tip_B73
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_leaf_stage_LMAD_vs_L3Tip_B73            16600 genes  2610 up  2704 down      20 s
+11:30:17 start Kremling2018_organ_GShoot_vs_GRoot_B73
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_organ_GShoot_vs_GRoot_B73               19755 genes  4466 up  3580 down      18 s
+11:30:46 start Kremling2018_leaf_maturation_L3Tip_vs_L3Base_B73
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_leaf_maturation_L3Tip_vs_L3Base_B73     18886 genes  4829 up  6520 down      18 s
+11:31:16 start Kremling2018_leaf_maturation_L3Mid_vs_L3Base_panel
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_leaf_maturation_L3Mid_vs_L3Base_panel   18987 genes  3816 up  5498 down      27 s
+11:31:54 start Kremling2018_leaf_maturation_L3Tip_vs_L3Mid_panel
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_leaf_maturation_L3Tip_vs_L3Mid_panel    16910 genes   907 up  1664 down      25 s
+11:32:30 start Kremling2018_day_night_LMAN_vs_LMAD_panel_group8
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_day_night_LMAN_vs_LMAD_panel_group8     17570 genes  1502 up  1402 down     108 s
+11:34:29 start Kremling2018_day_night_LMAN_vs_LMAD_panel_group26
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_day_night_LMAN_vs_LMAD_panel_group26    18123 genes  1396 up  1533 down     416 s
+11:41:36 start Kremling2018_leaf_stage_LMAD_vs_L3Tip_panel
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_leaf_stage_LMAD_vs_L3Tip_panel          17356 genes  2369 up  2112 down    2727 s
+12:27:17 start Kremling2018_day_night_LMAN_vs_LMAD_panel
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+Kremling2018_day_night_LMAN_vs_LMAD_panel            17961 genes  1254 up  1281 down    3011 s
+13:17:43 start Kremling2018_organ_GShoot_vs_GRoot_panel
+- The project is out-of-sync -- use `renv::status()` for details.
+converting counts to integer mode
+15:17:58 all panel contrasts done
+06:18:56 all panel contrasts done

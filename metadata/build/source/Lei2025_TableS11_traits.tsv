@@ -1,0 +1,44 @@
+agronomic_trait	trait_protocol	tocochromanol_trait	carotenoid_trait
+DTSGDD	growing degree days to silking	Δ-Tocotrienol （dT3）	Acyclic/Monocyclic
+DTAGDD	growing degree days to anthesis	γ-Tocotrienol（gT3）	Acyclic/ Cyclic
+ASIGDD	growing degree days to anthesis-silking interval	α-Tocotrienol （aT3）	Lutein
+DTS	days to silking	Δ-Tocopherol（dT）	Phytoene
+DTA	days to anthesis	γ-Tocopherol （gT）	ProvitaminA
+ASI	anthesis-silking interval	α-Tocopherol（aT）	ProvitaminA/Total Carotenoids
+PH	plant height	Total Tocotrienols	Tetrahydrolycopene
+EH	ear height	Total Tocopherols	Total Carotenes/Total Xanthophylls
+PE	PH minus EH	Total Tocopherols/Total Tocotrienols	Total Carotenoids
+EP	EH divided by PH	Total Tocochromanols	Total α-Xanthophylls
+PD	PH divided by days to anthesis	dT/(gT+aT)	Total β-Xanthophylls
+20KernelWeight	weight of 20 kernels	dT/gT	Zeaxanthin
+CobDiameter	diameter of cob at halfway point of length, no kernels	dT/aT	Zeinoxanthin
+CobWeight	mass of cob only, no kernels	gT/(gT+aT)	Zeinoxanthin/Lutein
+EarDiameter	diameter of ear at 1/5 length point with kernels on it or the widest point	dT3/(gT3+aT3)	α-Carotene
+EarLength	length of cob from base to tip	dT3/gT3	α-Carotene/Zeinoxanthin
+EarRankNumber	number of rows along length	dT3/aT3	β-Carotene
+EarRowNumber	number of rows around circumference	gT3/(gT3+aT3)	β-Carotene/(β-Cryptoxanthin+Zeaxanthin)
+EarWeight	mass of cob + kernels	aT/gT	β-Carotene/β-Cryptoxanthin
+GerminationCount	GerminationCount	aT3/gT3	β-Carotenes/α-Carotenes
+LeafLength	leaf below the last large ear, distance from base to tip of the leaf		β-Cryptoxanthin
+LeafWidth	leaf below the last large ear, at the widest section of the leaf		β-Cryptoxanthin/Zeaxanthin
+MainSpikeLength	length from the main spike above highest tassel branch		β-Xanthophylls/α-Xanthophylls
+MiddleLeafAngle	leaf below the last large ear, place the tool directly behind the stalk and leaf, take the angle that the midrib of the leaf projects on the tool near where leaf attaches to the stalk, NOT at the end of the leaf; Vertical = 90 and Horizontal = 0		ζ-Carotene
+NIROil	Oil measured by NIR		
+NIRProtein	Protein measured by NIR		
+NIRStarch	Starch measured by NIR		
+NorthernLeafBlight(Percentage)	Percentage of leaf area affected		
+NR	nitrate reductase (EC 1.7.1.1)		
+NumberofTilleringPlants	Number of tillering plants per row		
+RowQuality	Index 1-5 of overall believability of trait measurement		
+SecondaryBranchNumber	NULL		
+SeedSetLength	length of kernels from base to where kernels end on ear		
+SouthernLeafBlight	1 is unaffected 9 is dead but most pathologists reverse the scale		
+Spikelets-MainSpike	number of spikelet pairs per 4 cm of central spike		
+Spikelets-PrimaryBranch	number of spikelet pairs per 6 cm of lowermost primary branch		
+StandCount	NULL		
+TasselBranchLength	NULL		
+TasselLength	Length from the bottom brach to the tip of the tassel		
+TasselPrimaryBranches	number of branches coming off main spike		
+TilleringIndex	Number of tillers per plant.		
+TotalKernelVolume	volume of all kernels poured into a cylinder		
+UpperLeafAngle	leaf immediately below the flag leaf, place the tool directly behind the stalk and leaf, take the angle that the midrib of the leaf projects on the tool; Vertical = 90 and Horizontal = 0 degrees		

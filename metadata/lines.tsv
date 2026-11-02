@@ -1,0 +1,314 @@
+genotype	genotype_sra_spellings	genotype_lei	lei_match	genotype_class	subpopulation	origin	pedigree	n_libraries	tissues_with_data	adult_leaf_group	note
+33-16	33-16	282set_33-16	direct	other inbred	nss	Indiana	Lux Johnson Country white	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+38-11	38-11	282set_38-11Goodman-Buckler	direct	other inbred	nss	Indiana	Outcross in line from 176A	5	L3Base:1;L3Tip:1;LMAN:1;Kern:2	8	
+4226	4226	282set_4226	direct	other inbred	nss	Illinois	Funk 90 Day	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+4722	4722	282set_4722	direct	other inbred	popcorn	Indiana	SA x Ohio yel.	4	L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+A188	A188	282set_A188	direct	other inbred	nss	Minnesota	[(4-29*64)4-29(4)]	6	GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A214N	A214N	282set_A214NGoodman-Buckler	direct	other inbred	mixed	South Africa	(B68*HtN)B68(Hanson and Gregory)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+A239	A239	282set_A239	direct	other inbred	nss	Minnesota	A73*A347	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+A272	A272	A272	direct	other inbred	ts	South Africa	Yellow Boesman	5	GRoot:1;GShoot:1;LMAD:1;LMAN:1;Kern:1	8	
+A441-5	A441-5	282set_A441-5	direct	other inbred	mixed	South Africa	Robyn*Leamming yellow dent	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+A554	A554	282set_A554	direct	other inbred	nss	Minnesota	[(WD*Wf9)WD(2))]	5	GRoot:1;GShoot:1;L3Base:1;LMAD:1;LMAN:1	8	
+A556	A556	282set_A556	direct	other inbred	nss	Minnesota	B164-886*A237	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A6	A6	282set_A6	direct	other inbred	ts	Pioneer	Cuban Flint	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+A619	A619	282set_A619	direct	other inbred	nss	Minnesota	[(A171*Oh43)Oh43]	6	GRoot:1;GShoot:1;L3Base:1;LMAD:1;LMAN:1;Kern:1	8	
+A632	A632	282set_A632	direct	other inbred	ss	Minnesota	[(Mt42*B14)B14(Hanson and Gregory)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A634	A634	282set_A634	direct	other inbred	ss	Minnesota	[(Mt42*B14)B14(2)]	5	GRoot:1;GShoot:1;L3Base:1;LMAN:1;Kern:1	8	
+A635	A635	282set_A635	direct	other inbred	ss	Minnesota	ND203xB14(Hanson and Gregory)	5	GRoot:1;GShoot:1;L3Base:1;LMAN:1;Kern:1	8	
+A641	A641	282set_A641	direct	other inbred	mixed	Minnesota	ND203*B14	6	GRoot:1;GShoot:1;L3Base:1;LMAD:1;LMAN:1;Kern:1	8	
+A654	A654	282set_A654	direct	other inbred	nss	Minnesota	A116*Wf9	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A659	A659	282set_A659	direct	other inbred	nss	Minnesota	Minnesota Synthetic 3	6	GRoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A661	A661	282set_A661	direct	other inbred	nss	Minnesota	Minnesota Synthetic AS-A	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A679	A679	282set_A679	direct	other inbred	ss	Minnesota	[(A662*B73) B73(Hanson and Gregory)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+A680	A680	282set_A680	direct	other inbred	ss	Minnesota	[(A662*B73) B73(Hanson and Gregory)]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+A682	A682	282set_A682	direct	other inbred	nss	Minnesota	[(AS-D*Mo17) Mo17 (2)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Ab28A	Ab28A	282set_Ab28A	direct	other inbred	mixed	Alabama	GT152*38-11	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+B10	B10	282set_B10	direct	other inbred	mixed	Iowa	Iowa Stiff Stalk Synthetic	3	L3Tip:1;LMAN:1;Kern:1	8	
+B103	B103	282set_B103	direct	other inbred	nss	Iowa	CIMMYT Pool 41 [Northern Temperate Ranges -1 (NTR-1)]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	8	
+B104	B104	282set_B104	direct	other inbred	mixed	lowa	BS13(S)C5	4	GRoot:1;GShoot:1;LMAN:1;Kern:1	8	
+B105	B105	282set_B105	direct	other inbred	mixed	lowa	BSSS®C9	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B109	B109	282set_B109	direct	other inbred	ss	Iowa	[B73 * BS20(S)C1]B73	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1	8	
+B14A	B14A	282set_B14A	direct	other inbred	ss	Iowa	Cuzco*B14(8)	5	GRoot:1;GShoot:1;L3Tip:1;LMAN:1;Kern:1	8	
+B164	B164	282set_B164	direct	other inbred	mixed	Minnesota	Indiana Reid (Pioneer)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B2	B2	282set_B2	direct	other inbred	mixed	Missouri	Reid Yellow Dent	5	GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B37	B37	282set_B37	direct	other inbred	ss	Iowa	Iowa Stiff Stalk Synthetic	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B46	B46	282set_B46	direct	other inbred	mixed	Iowa	41.2504B*B14(Hanson and Gregory)	6	GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1	26	
+B52	B52	282set_B52	direct	other inbred	nss	Iowa	Segregating material from a private breeder	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+B57	B57	282set_B57	direct	other inbred	nss	Iowa	Midland	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B64	B64	282set_B64	direct	other inbred	ss	Iowa	41.2504B*B14(Hanson and Gregory)	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	26	
+B68	B68	282set_B68	direct	other inbred	ss	Iowa	41.2504B*B14(Hanson and Gregory)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B73	B73	282set_B73	direct	B73	ss	Iowa	Iowa Stiff Stalk Synthetic C5	111	GRoot:17;GShoot:8;L3Base:27;L3Tip:26;LMAD:6;LMAN:14;Kern:11;LMid:2	8;26	
+B73-10	B73-10		none	NR	NR			7	GShoot:7		
+B73Htrhm	B73Htrhm		none	other inbred	NR			6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B75	B75	282set_B75	direct	other inbred	nss	Iowa	Iowa Corn Borer Synthetic No. 3 (BSCB3)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B76	B76	282set_B76	direct	other inbred	ss	Iowa	[(CI.31A*B37)B37]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	8	
+B77	B77	282set_B77	direct	other inbred	nss	Iowa	Pioneer Two-Ear composite(BS11)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+B79	B79	282set_B79	direct	other inbred	mixed	Iowa	Iowa Two-Ear Synthetic No.1(BSTE)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+B84	B84	282set_B84	direct	other inbred	ss	Iowa	BS13(S2)C0	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+B97	B97	B97	direct	other inbred	nss	Iowa	BSCB1®C9	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1	8	
+C103	C103	282set_C103	direct	other inbred	nss	Connecticut	Lancaster Surecrop (from Noah Hershey)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+C123	C123	282set_C123	direct	other inbred	nss	Connecticut	C102*C103	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+C49A	C49A	282set_C49A	direct	other inbred	nss	Minnesota	Minn 13	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CH701-30	CH701-30	282set_CH701-30	direct	other inbred	nss	Canada - Harrow	unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CH9	CH9	282set_CH9	direct	other inbred	nss	Canada - Harrow	Funk’s G176	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+CI187-2	CI187-2	282set_CI187-2	direct	other inbred	nss	USDA	Krug	6	GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAN:1;Kern:1	8	
+CI21E	CI21E	282set_CI21E	direct	other inbred	nss	USDA	Hy*C.I.21	6	GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CI28A	CI28A	282set_CI28AGoodman-Buckler	direct	other inbred	mixed	USDA	Recovered Blight Resistance B2	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CI31A	CI31A	282set_CI31A	direct	other inbred	nss	USDA	Midland OP	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	26	
+CI3A	CI3A	282set_CI3A	direct	other inbred	nss	USDA	[(C.I.3*related inbred) C.I.3 (2)]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+CI64	CI64	282set_CI64	direct	other inbred	nss	USDA	K64*Mo21A	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CI66	CI66	282set_CI66	direct	other inbred	nss	USDA	L97*K55 (2)	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	26	
+CI7	CI7	282set_Ci7Goodman-Buckler	direct	other inbred	nss	USDA	[(L317*33-16)33-16(2)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CI90C	CI90C	282set_Ci90CGoodman-Buckler	direct	other inbred	mixed	USDA	CI90A = L97*M14	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CI91B	CI91B	282set_Ci91BGoodman-Buckler	direct	other inbred	nss	USDA	L97*A71	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CM105	CM105	282set_CM105	direct	other inbred	ss	Canada-Morden	CMV3xB14(2)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CM37	CM37	282set_CM37	direct	other inbred	nss	Unknown	Unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CM7	CM7	282set_CM7	direct	other inbred	nss	Canada-Morden	W85*CMV3	6	GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CML10	CML10	282set_CML10	direct	other inbred	ts	Mexico	Pop.21 = Tuxpeño	4	GRoot:1;GShoot:1;LMAD:1;LMAN:1	26	
+CML103	CML103	CML103	direct	other inbred	ts	Mexico	Pop. 44	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML108	CML108	282set_CML108	direct	other inbred	ts	Mexico	Pop. 44	8	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;LMid:1	26	
+CML11	CML11	282set_CML11	direct	other inbred	ts	Mexico	Pop. 21	6	GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML133	CML133	CML133	direct	other inbred	ts	Unknown	P44C4F182‐2‐1‐2‐2#B1#B1‐2‐2‐8‐B1‐B1#B1	2	GRoot:1;GShoot:1		
+CML14	CML14	282set_CML14	direct	other inbred	ts	Mexico	Pop. 21 = Tuxpeño Sequia	4	GRoot:1;GShoot:1;L3Base:1;L3Tip:1		
+CML154Q	CML154Q	282set_CML154Q	direct	other inbred	ts	Mexico	Pop. 62	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML157Q	CML157Q	282set_CML157Q	direct	other inbred	ts	Mexico	Pop. 62	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML158Q	CML158Q	282set_CML158Q	direct	other inbred	ts	Mexico	Pop. 62	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML192	CML192	CML192	direct	other inbred	ts	Unknown	G34QH174‐3‐1‐2‐BB	2	GRoot:1;GShoot:1		
+CML202	CML202	CML202	direct	other inbred	ts	Unknown	ZSR923S4BULK‐5‐1‐BB	2	GRoot:1;GShoot:1		
+CML206	CML206	CML206	direct	other inbred	ts	Unknown	[EV7992#/EVPO44SRBC3]#BF37SR‐2‐3SR‐2‐4‐3‐BB	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML218	CML218	282set_CML218	direct	other inbred	mixed	Mexico	EV = Streak resist. source	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML220	CML220	282set_CML220	direct	other inbred	ts	Mexico	EV = Streak resist. source	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML228	CML228	282set_CML228	direct	other inbred	ts	Mexico	Suwan-1/SR	9	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	26	
+CML238	CML238	282set_CML238	direct	other inbred	ts	Mexico	LB/SR	5	GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML247	CML247	282set_CML247	direct	other inbred	ts	Mexico	Pool 24 (Tuxpeño)	4	GRoot:1;GShoot:1;L3Base:1;L3Tip:1		
+CML254	CML254	282set_CML254	direct	other inbred	ts	Mexico	Pop. 21 = Tuxpeño Sequia	4	GRoot:1;GShoot:1;L3Base:1;L3Tip:1		
+CML258	CML258	282set_CML258	direct	other inbred	ts	Mexico	Pop. 21	4	GRoot:1;GShoot:1;L3Base:1;L3Tip:1		
+CML261	CML261	282set_CML261	direct	other inbred	ts	Mexico	Pop. 21	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML264	CML264	282set_CML264	direct	other inbred	ts	Mexico	Pop. 21 (related to CML10, CML11)	2	GRoot:1;GShoot:1		
+CML277	CML277	282set_CML277	direct	other inbred	ts	Mexico	Pop. 43 = La Posta (Tux.)	7	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML281	CML281	282set_CML281	direct	other inbred	ts	Mexico	Pop. 43 = La Posta (Tux.)	3	GShoot:1;L3Base:1;L3Tip:1		
+CML287	CML287	282set_CML287	direct	other inbred	ts	Mexico	Pop. 24 = Antigua-Ven. (Tuson/Tux.)	1	GShoot:1		
+CML311	CML311	282set_CML311	direct	other inbred	ts	Mexico	Pop. 500 = Inter. Mat. Wh. Dent Mix	4	GShoot:1;L3Base:1;L3Mid:1;L3Tip:1		
+CML314	CML314	282set_CML314	direct	other inbred	ts	Mexico	Pop. 600 = Late Mat. Wh. Dent Mix	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML321	CML321	282set_CML321	direct	other inbred	ts	Mexico	Pop. 502 = Mex. DK + US	5	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1		
+CML322	CML322	282set_CML322	direct	other inbred	ts	Mexico	Recyc. US + Mex	6	GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML323	CML323	282set_CML323	direct	other inbred	mixed	Mexico	Pop. 33 Amar. Subtrop. Mix	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	26	
+CML328	CML328	282set_CML328	direct	other inbred	mixed	Mexico	Recycled Lines	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1	8	
+CML330	CML330	CML330	direct	other inbred	ts	Unknown	89[SUWAN8422]/[P47S3/MP78:518]#‐7‐1‐1‐1‐1‐1‐B‐#‐BB	7	GRoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML331	CML331	282set_CML331	direct	other inbred	ts	Mexico	Suwan/Pop.47 * Mp78:518	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML332	CML332	282set_CML332	direct	other inbred	ts	Mexico	Suwan/Pop.47 * Mp78:518	5	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1		
+CML333	CML333	282set_CML333	direct	other inbred	ts	Mexico	Pop. 590	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML341	CML341	282set_CML341	direct	other inbred	ts	Mexico	Pop. 43 = La Posta (Tux.)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML38	CML38	282set_CML38	direct	other inbred	ts	Mexico	Pop. 32	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML411	CML411	CML411	direct	other inbred	ts	Unknown	P28C7‐S4‐#‐BBBBBBBBBBB	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML418	CML418	CML418	direct	other inbred	ts	Unknown	G15C22H100#‐2‐2‐6‐1‐2‐BBBBB	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+CML45	CML45	282set_CML45	direct	other inbred	ts	Mexico	Pop. 43 = La Posta (Tux.)	5	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1		
+CML479	CML479	CML479	direct	other inbred	NR	Unknown	Unknown	1	GShoot:1		
+CML5	CML5	282set_CML5	direct	other inbred	ts	Mexico	Pop. 21	3	GShoot:1;L3Base:1;L3Tip:1		
+CML504	CML504	CML504	direct	other inbred	ts	Unknown	[COMPE2/P43SR//COMPE2]F#‐20‐1‐1‐B‐1‐BB‐6‐BB	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML505	CML505	CML505	direct	other inbred	NR	Unknown	Unknown	5	L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CML511	CML511	CML511	direct	other inbred	ts	Unknown	[CML389/CML176]‐B‐29‐2‐2‐B*5	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+CML52	CML52	282set_CML52	direct	other inbred	ts	Mexico	Pop. 79 = STA ROSA	1	GShoot:1		
+CML61	CML61	282set_CML61	direct	other inbred	ts	Mexico	Pop. 21	3	GShoot:1;L3Base:1;L3Tip:1		
+CML69	CML69	282set_CML69	direct	other inbred	ts	Mexico	Pop. 36 = Cogollero (Caribbean)	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML77	CML77	282set_CML77	direct	other inbred	mixed	Mexico	Pool 32 = Subtrop. Wh. Mix	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML84	CML84	CML84	direct	other inbred	ts	Unknown	G32C19H512‐2‐#1‐B‐####‐6‐B	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML85	CML85	CML85	direct	other inbred	ts	Unknown	P34C5F21‐2‐#1‐2‐2‐#	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML91	CML91	282set_CML91	direct	other inbred	mixed	Mexico	Pop. 42 Northern Temp./German Mix	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CML92	CML92	282set_CML92	direct	other inbred	mixed	Mexico	Pop. 42 Northern Temp./German Mix	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	26	
+CML96	CML96	CML96	direct	other inbred	ts	Unknown	P42C4F233‐1‐#2‐B‐#*6‐2‐B	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+CMV3	CMV3	282set_CMV3	direct	other inbred	nss	Minnesota	A21*W185	6	GRoot:1;GShoot:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CO106	CO106	282set_CO106	direct	other inbred	nss	Canada-Ottawa	University of Wisconsin CR11	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CO125	CO125	282set_CO125	direct	other inbred	nss	Canada-Ontario	unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+CO255	CO255	282set_CO255	direct	other inbred	mixed	Canada-Ottawa	INRA 258	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+D940Y	D940Y	282set_D940Y	direct	other inbred	mixed	South Africa	BO60W(A166NxB566Y-B560Y)B557Y	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+DE1	DE1	282set_DE1	direct	other inbred	nss	Delaware B	P3140*P3751	7	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAN:1;Kern:1	8	
+DE811	DE811	282set_DE811	direct	other inbred	mixed	Delaware	[B68*[B37Ht*(C103*Mp3204 double cross) Selection]]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+E2558W	E2558W	282set_E2558W	direct	other inbred	nss	South Africa	N6*M162W^3	6	GRoot:1;GShoot:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+EP1	EP1	282set_EP1	direct	other inbred	mixed	Spain	Spanish population ‘Lizargarate’	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+F2834T	F2834T	282set_F2834T	direct	other inbred	mixed	South Africa	Teko Yellow	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+F6	F6	282set_F6	direct	other inbred	mixed	Florida	Hastings white Prolific * Florida flint	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+F7	F7	282set_F7	direct	other inbred	mixed	France-Peronne	OP Lacaune	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+GA209	GA209	282set_GA209	direct	other inbred	nss	Georgia	T61*NC37	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+GT112	GT112	282set_GT112	direct	other inbred	nss	Georgia	Multiple cross (includes Whatley, Cuban, Garrick, Creole, and 12% other)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+H105W	H105W	282set_H105W	direct	other inbred	mixed	Indiana	33-16*A632(Hanson and Gregory)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+H49	H49	282set_H49	direct	other inbred	nss	Indiana	[(Wf9*L97)Wf9]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+H84	H84	282set_H84	direct	other inbred	mixed	Indiana	[B37*GE440)Ht Ht	5	GRoot:1;GShoot:1;L3Tip:1;LMAN:1;Kern:1	8	
+H91	H91	282set_H91	direct	other inbred	ss	Indiana	[B37*GE440)B14(4)]Ht Ht	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+H95	H95	282set_H95	direct	other inbred	nss	Indiana	Oh43*C.I.90A	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+H99	H99	282set_H99	direct	other inbred	nss	Indiana	Illinois Synthetic 60C	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Hi27	Hi27	282set_Hi27Goodman-Buckler	direct	other inbred	mixed	Hawaii	[CM104(India)*MV source]BC6	10	GRoot:2;GShoot:1;L3Base:2;L3Tip:2;LMAD:1;LMAN:1;Kern:1	26	
+HP301	HP301	282set_HP301	direct	other inbred	popcorn	Indiana	Supergold	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+I137TN	I137TN	282set_I137TN	direct	other inbred	mixed	South Africa	Natal Yellow Horsetooth x Teko Yellow	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+I205	I205	282set_I205	direct	other inbred	mixed	Iowa	Iodent	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+I29	I29	282set_I29	direct	other inbred	popcorn	Iowa	unknown white pearl popcorn; Received from Ashman as I29	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+IA2132	IA2132	282set_IA2132Goodman-Buckler	direct	other inbred	sweet	Iowa	[(TSR * 45 ) * 4329 ]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Ia5125	Ia5125	282set_Ia5125	direct	other inbred	sweet	Iowa	[(IP39*Tendermost)*IP39]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	8	
+IDS28	IDS28	282set_IDS28	direct	other inbred	popcorn	Iowa	Yellow Pearl	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+IDS69	IDS69	282set_IDS69	direct	other inbred	popcorn	Iowa	South American Popcorn	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	8	
+IDS91	IDS91	282set_IDS91	direct	other inbred	popcorn	Iowa	South American Popcorn	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Il101T	Il101T	282set_Il101	alias	other inbred	sweet	Illinois	Il14 x unknown yellow sweet	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Il14H	Il14H	282set_Il14H	direct	other inbred	sweet	Illinois	White Narrow Grain Evergreen	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	8	
+Il677a	Il677a	282set_i1677a	alias	other inbred	sweet	Illinois	[(Bolivia 1035*IL44b)*IL422a]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Ill_Hy	IllHy;Ill_Hy	282set_ILLHy	spelling	other inbred	nss	Unknown	Unknown	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+K148	K148	282set_K148	direct	other inbred	nss	Unknown	Unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+K4	K4	282set_K4	direct	other inbred	nss	Kansas	Kansas Sunflower	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+K55	K55	282set_K55	direct	other inbred	nss	Kansas	Pride of Saline	10	GRoot:1;GShoot:2;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	8	
+K64	K64	282set_K64	direct	other inbred	nss	Kansas	Pride of Saline	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Ki11	Ki11	282set_Ki11	direct	other inbred	ts	Thailand	Suwan 1(S)C4-S8-18-7	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+Ki14	Ki14	282set_Ki14	direct	other inbred	ts	Thailand	Suwan 1(S)C4-S8-19-5	4	GRoot:1;GShoot:1;LMAD:1;LMAN:1	26	
+Ki21	Ki21	282set_Ki21	direct	other inbred	mixed	Thailand	Pacific 9-S8-45	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Ki3	Ki3	KI3	direct	other inbred	ts	Thailand	Suwan 1(S)C4-S8-5-3	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Ki43	Ki43	282set_Ki43	direct	other inbred	ts	Thailand	Suwan 3(S)C3-S7-138	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;Kern:1		
+Ki44	Ki44	282set_Ki44	direct	other inbred	ts	Thailand	KS 6(S)C2-S7-366	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	26	
+KUI2021	KUI2021	282set_Ki2021	alias	other inbred	ts	Thailand	DK version of Ki9; Suwan 1(S)C4-S8-16-7	3	GRoot:1;GShoot:2		
+Ky21	Ky21	282set_Ky21	direct	other inbred	nss	Kentucky	Boone County White	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Ky226	Ky226	282set_KY226	direct	other inbred	mixed	Kentucky	NCLauDA*Coahuila 8	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Ky228	Ky228	282set_KY228	direct	other inbred	mixed	Kentucky	Pride of Saline	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+L317	L317	282set_L317	direct	other inbred	nss	Iowa	Lancaster surecrop (from Noah Hershey)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+L578	L578	282set_L578	direct	other inbred	mixed	Louisiana	Unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+M14	M14	282set_M14	direct	other inbred	nss	Illinois C	Lancaster * A, where A is a line from Funk’s Yellow Dent	7	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAN:1;Kern:1	8	
+M162W	M162W	282set_M162W	direct	other inbred	nss	South Africa	K64R**2 x B1138T	6	GRoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+M37W	M37W	282set_M37W	direct	other inbred	mixed	South Africa	21A**2 x Jellicorse	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+MEF156-55-2	MEF156-55-2	282set_MEF156-55-2	direct	other inbred	nss	Unknown	Unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Mo17	Mo17	282set_Mo17	direct	other inbred	nss	Missouri	C.I.187-2*C103	7	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAN:1;Kern:1	8	
+Mo18W	Mo18W	282set_Mo18W	direct	other inbred	mixed	Missouri	Wf9*Mo22(2)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Mo1W	Mo1W	282set_MO1W	direct	other inbred	nss	Missouri	[Mo22*Wf9(2)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Mo24W	Mo24W	282set_Mo24W	direct	other inbred	mixed	Missouri	(K10*K49/Ziler Hi-cob) (pipe corn)	2	L3Base:1;L3Tip:1		
+Mo44	Mo44	282set_Mo44	direct	other inbred	nss	Missouri	Mo22*Pioneer Mexican Synthetic 17	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Mo45	Mo45	282set_Mo45	direct	other inbred	mixed	Missouri	Race Negro de Tierra Caliente (Guatemala)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Mo46	Mo46	282set_Mo46	direct	other inbred	nss	Missouri	Race Cravo Paulista (Brazil)	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1	8	
+Mo47	Mo47	282set_Mo47	direct	other inbred	mixed	Missouri	Race Candela (Ecuador)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Mo_G	Mo_G	282set_MoG	direct	other inbred	nss	Missouri	Mastadon variety from Pennsylvania	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;Kern:1		
+Mp339	Mp339	282set_Mp339	direct	other inbred	mixed	Mississippi	T61*Hill Yellow Dent	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+MR01	MR01		none	landrace	NR			1	GRoot:1		
+MR02_Assiniboine	MR02_Assiniboine		none	landrace	NR			2	GRoot:1;GShoot:1		
+MR06	MR06		none	landrace	NR			1	GRoot:1		
+MR08	MR08		none	landrace	NR			2	GRoot:1;GShoot:1		
+MR09	MR09		none	landrace	NR			2	GRoot:1;GShoot:1		
+MR10	MR10		none	landrace	NR			2	GRoot:1;GShoot:1		
+MR11	MR11		none	landrace	NR			2	GRoot:1;GShoot:1		
+MR12	MR12		none	landrace	NR			2	GRoot:1;GShoot:1		
+MR18	MR18		none	landrace	NR			1	GRoot:1		
+MR19_Santo_Domingo	MR19_Santo_Domingo		none	landrace	NR			6	GRoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+MR20_Shoepeg	MR20_Shoepeg		none	landrace	NR			7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+MR21	MR21		none	landrace	NR			1	GRoot:1		
+MS1334	MS1334	282set_MS1334	direct	other inbred	nss	Michigan	[(Golden glow * Maize Amargo)*Golden Glow]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+MS153	MS153	282set_MS153	direct	other inbred	nss	Michigan	Iowa stiff stalk synthetic	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+MS71	MS71;Ms71	MS71	direct;spelling	other inbred	nss	Michigan	A619*R168	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	8	
+Mt42	Mt42	282set_Mt42	direct	other inbred	mixed	Minnesota	Minnesota No.13 (Owen’s)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+N192	N192	282set_N192	direct	other inbred	ss	Nebraska	CM105*B73	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	8	
+N28Ht	N28Ht	282set_N28Ht	direct	other inbred	mixed	Nebraska	N28= BSSS	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+N6	N6	N6	direct	other inbred	nss	Nebraska	Hays Golden	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1	8	
+NC222	NC222	282set_NC222	direct	other inbred	nss	North Carolina	Jarvis Golden Prolific	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC230	NC230	282set_NC230	direct	other inbred	nss	North Carolina	K55*Yellow line or inbred	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC232	NC232	282set_NC232	direct	other inbred	nss	North Carolina	[(T204*Low Ear outcross) T204 (2)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC236	NC236	282set_NC236	direct	other inbred	nss	North Carolina	[NC7 (Huffman Variety*Illinois Low Ear)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC238	NC238	282set_NC238	direct	other inbred	nss	North Carolina	[(GT112*NC601)GT112]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC250	NC250	282set_NC250	direct	other inbred	ss	North Carolina	[(Nigeria Composite ARb*B37)B37)	10	GRoot:1;GShoot:1;L3Base:2;L3Tip:2;LMAD:1;LMAN:1;Kern:2	26	
+NC258	NC258	282set_NC258	direct	other inbred	nss	North Carolina	TZ(2)*[(NC248*246)*C103]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC260	NC260	282set_NC260	direct	other inbred	nss	North Carolina	[(Mo44*Mo17)Mo44(Hanson and Gregory)]	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+NC262	NC262	282set_NC262	direct	other inbred	nss	North Carolina	TZ (TZ=McNair 14*18)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC264	NC264	282set_NC264	direct	other inbred	ts	North Carolina	[(SC76*Gaspe)Gaspe]SC76(Hanson and Gregory)	6	GRoot:1;GShoot:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC290A	NC290A	282set_NC290A	direct	other inbred	nss	North Carolina	McNair inbred lines 14*18 (largely of C103 origin); sister line of NC290	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC294	NC294	282set_NC294	direct	other inbred	ss	North Carolina	[(B73*NC250) B73]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC296	NC296	282set_NC296	direct	other inbred	ts	North Carolina	PioneerX105A * H-5	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC296A	NC296A	282set_NC296A	direct	other inbred	ts	North Carolina	PioneerX105A * H-5	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC298	NC298	282set_NC298	direct	other inbred	ts	North Carolina	PioneerX105A * H-5 * Agroceres155	2	L3Base:1;L3Tip:1		
+NC300	NC300	282set_NC300	direct	other inbred	ts	North Carolina	PioneerX105A * H-5 * PioneerX306B	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC302	NC302	282set_NC302	direct	other inbred	ts	North Carolina	(PioneerX105A*H5)*H101	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC304	NC304	282set_NC304	direct	other inbred	ts	North Carolina	(H5*PioneerX105A)*H101	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC306	NC306	282set_NC306	direct	other inbred	ss	North Carolina	(B73*NC250)*B73	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC310	NC310	282set_NC310	direct	other inbred	ss	North Carolina	improved B73-type derived from NC250*B73^3	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+NC314	NC314	282set_NC314	direct	other inbred	ss	North Carolina	B73*NC250	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC318	NC318	282set_NC318	direct	other inbred	ts	North Carolina	[(SC76*B52)SC76(Hanson and Gregory)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC320	NC320	282set_NC320	direct	other inbred	ts	North Carolina	[(SC76*B52)SC76(Hanson and Gregory)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC324	NC324	282set_NC324	direct	other inbred	ss	North Carolina	B73*NC250	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC326	NC326	282set_NC326	direct	other inbred	ss	North Carolina	[(B73*NC250)*B73(Hanson and Gregory)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC328	NC328	282set_NC328	direct	other inbred	ss	North Carolina	[(B73*NC250)*B73(Hanson and Gregory)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC33	NC33	282set_NC33	direct	other inbred	nss	North Carolina	Weekley’s Improved	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC336	NC336	282set_NC336	direct	other inbred	ts	North Carolina	PioneerX105A*H5	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC338	NC338	282set_NC338	direct	other inbred	ts	North Carolina	[PioneerX105A*H5] * [Pioneer304B*Agroceres504]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC340	NC340	282set_NC340	direct	other inbred	ts	North Carolina	PioneerX105A * [Pioneer306B*H5]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC342	NC342	282set_NC342	direct	other inbred	nss	North Carolina	McNair inbreds 14*18(of Coker 811A x C103 origin)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+NC344	NC344	282set_NC344	direct	other inbred	nss	North Carolina	TZ(2)*[(NC248*246)*C103]; Sister line of NC258	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC346	NC346	282set_NC346	direct	other inbred	ts	North Carolina	PioneerX105A*H5	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC348	NC348	282set_NC348	direct	other inbred	ts	North Carolina	PioneerX105A * H-5 * Agroceres155	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC350	NC350	282set_NC350	direct	other inbred	ts	North Carolina	(H5*PioneerX105A)*H101	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+NC352	NC352	282set_NC352	direct	other inbred	ts	North Carolina	PioneerX105A*H5	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC354	NC354	282set_NC354	direct	other inbred	ts	North Carolina	[PioneerX105A*H5] * [PioneerX304A*H101]	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC356	NC356	282set_NC356	direct	other inbred	ts	North Carolina	TROPHY SYN	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC358	NC358	282set_NC358	direct	other inbred	ts	North Carolina	TROPHY SYN	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+NC360	NC360	282set_NC360	direct	other inbred	mixed	North Carolina	Agroceres155*PioneerX105A/NC262	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC362	NC362	282set_NC362	direct	other inbred	mixed	North Carolina	Agroceres155*PioneerX105A/NC262	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+NC364	NC364	282set_NC364	direct	other inbred	mixed	North Carolina	Agroceres155*PioneerX105A/NC262	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+NC366	NC366	282set_NC366	direct	other inbred	mixed	North Carolina	FLA Syn	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+NC368	NC368	282set_NC368	direct	other inbred	ss	North Carolina	[B73*NC250]/[(B73*NC250)*B73]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+ND246	ND246	282set_ND246	direct	other inbred	mixed	North Dakota	W755*W770	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Oh40B	Oh40B	282set_Oh40B	direct	other inbred	nss	Ohio	Eight line composite of Lancaster Surecrop lines	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Oh43	Oh43	Oh43	direct	other inbred	nss	Ohio	Oh40B*W8	6	GRoot:1;GShoot:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Oh43E	Oh43E	282set_Oh43E	direct	other inbred	nss	Ohio	ERF/Oh43; ERF=LeamingxReid + other Pioneer inbreds	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Oh603	Oh603	282set_Oh603	direct	other inbred	mixed	Ohio	« Syn of Va58, OhS3267, H95, Va26, Coas. Trop. FL. »	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Oh7B	Oh7B	282set_OH7B	direct	other inbred	nss	Ohio	[(Oh07*38-11)Oh07]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Os420	Os420	282set_Os420	direct	other inbred	nss	Iowa	Osterland yellow dent	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+P39	P39	282set_P39Goodman-Buckler	direct	other inbred	sweet	Indiana	Purdue Bantam	5	L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Pa762	Pa762	282set_Pa762	direct	other inbred	nss	Pennsylvania	Oh43*Pa70L	5	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1	8	
+Pa875	Pa875	282set_Pa875	direct	other inbred	nss	Pennsylvania	Wf9 Synthetic (original)	5	GRoot:1;GShoot:1;LMAD:1;LMAN:1;Kern:1	8	
+Pa880	Pa880	282set_Pa880	direct	other inbred	nss	Pennsylvania	Wf9 Synthetic C3	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Pa91	Pa91	282set_Pa91	direct	other inbred	nss	Pennsylvania	(Wf9*Oh43)S4*[(38-11*L317)38-11]S4	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+R168	R168	282set_R168	direct	other inbred	nss	Illinois	Illinois Synthetic 60C	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+R177	R177	282set_R177	direct	other inbred	nss	Illinois	Germplasm 230B(Snelling Corn Borer Synthetic)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+R229	R229	282set_R229	direct	other inbred	ss	Illinois	[(479*B73)B73(2)]S6; 479 is a Brazilian inbred of Tuxpeño type	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	8	
+R4	R4	282set_R4	direct	other inbred	nss	Illinois	Funk Yellow dent	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+SA24	SA24	282set_SA24	direct	other inbred	popcorn	Indiana	South American Popcorn	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+SC213R	SC213R	282set_SC213R	direct	other inbred	mixed	South Carolina	(GT112*NC33)GT112] backcrossed with a CMS-T restorer	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+SC357	SC357	282set_SC357	direct	other inbred	mixed	South Carolina	[(Whately yellow * Tennessee Redcob) Young]	4	GRoot:1;GShoot:1;LMAD:1;LMAN:1	26	
+SC55	SC55	282set_SC55	direct	other inbred	mixed	South Carolina	[(L501*L503)*(L548*L569)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+SD40	SD40	282set_SD40	direct	other inbred	mixed	South Dakota	Pioneer hybrid 3709	7	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAN:1;Kern:1	8	
+SD44	SD44	282set_SD44	direct	other inbred	nss	South Dakota	SDp309*SD30	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	8	
+Sg1533	Sg1533	282set_Sg1533	direct	other inbred	popcorn	Indiana	Super gold	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+SG18	SG18	282set_Sg18	direct	other inbred	popcorn	Indiana	Super gold	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:2;LMAD:1;LMAN:1;Kern:1	8	
+T232	T232	282set_T232	direct	other inbred	mixed	Tennessee	Jellicorse*Teko yellow	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+T234	T234	282set_T234	direct	other inbred	nss	Tennessee	[T111*RB.L*III.A)]T111(4)	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+T8	T8	282set_T8	direct	other inbred	nss	Tennessee	Jarvis Golden Prolific	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Tx303	Tx303	282set_Tx303	direct	other inbred	mixed	Texas	Yellow Surcropper	5	GRoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1	26	
+Tx601	Tx601	282set_Tx601	direct	other inbred	ts	Texas	Yellow Tuxpan	2	GRoot:1;GShoot:1		
+Tzi10	Tzi10	282set_Tzi10	direct	other inbred	ts	Nigeria	Tlaltizapan 7844 x TZSR	3	GRoot:1;GShoot:1;LMid:1		
+Tzi11	Tzi11	282set_Tzi11	direct	other inbred	ts	Nigeria	Mo17 x RppSR	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Tzi16	Tzi16	282set_Tzi16	direct	other inbred	mixed	Nigeria	PI 540747 = N28/RPPTZSR-Y	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Tzi18	Tzi18	282set_Tzi18	direct	other inbred	ts	Nigeria	Sete Lagoas 7728 x TZSR	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Tzi25	Tzi25	282set_Tzi25	direct	other inbred	mixed	Nigeria	[(B73*RPPSR-TZ)*B73(2)]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Tzi9	Tzi9	282set_Tzi9	direct	other inbred	ts	Nigeria	SIDS7734/TZSR	6	GRoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+U267Y	U267Y	282set_U267Y	direct	other inbred	mixed	South Africa	WF9r*Mex.155^3	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	26	
+Va102	Va102	282set_VA102	direct	other inbred	nss	Virginia	Va59*Va60	7	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAN:1;Kern:1	8	
+Va14	Va14	282set_Va14	direct	other inbred	nss	Virginia	[(VaCBS selection*Va17)Va17]	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1;LMid:1	8	
+Va17	Va17	282set_Va17	direct	other inbred	nss	Virginia	Wf9*T8	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Va22	Va22	282set_Va22	direct	other inbred	nss	Virginia	Va17*C103 backcross	8	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Va26	Va26	282set_Va26	direct	other inbred	nss	Virginia	Oh43*K155	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Va35	Va35	282set_Va35	direct	other inbred	nss	Virginia	[(C103*T8)T8]	6	GRoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:2	8	
+Va59	Va59	282set_Va59	direct	other inbred	nss	Virginia	[(C103*T8(2))*(K4*C103(2))]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+Va85	Va85	282set_Va85	direct	other inbred	nss	Virginia	Virginia Long Ear Synthetic	8	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:2	26	
+Va99	Va99	282set_Va99	direct	other inbred	nss	Virginia	Oh07B*Pa91	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+VaW6	VaW6	282set_VaW6	direct	other inbred	mixed	Virginia	unknown	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:2	8	
+W117HT	W117HT	282set_W117Ht	direct	other inbred	mixed	Wisconsin	W117=643*Minnesota No.13	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+W153R	W153R	282set_W153R	direct	other inbred	nss	Wisconsin	[(la153*W8)la153]	7	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAD:1;LMAN:1;Kern:1	8	
+W182B	W182B	282set_W182B	direct	other inbred	nss	Wisconsin	WD*W22	9	GRoot:1;GShoot:1;L3Base:2;L3Tip:2;LMAD:1;Kern:2	8	
+W22	W22	W22	direct	other inbred	nss	Wisconsin	III.B10*W25	7	GRoot:1;GShoot:1;L3Base:1;L3Mid:1;L3Tip:1;LMAN:1;Kern:1	8	
+W22R-rstd	W22R-rstd		none	other inbred	NR			5	LMAD:2;LMAN:2;Kern:1	8;26	
+W64A	W64A	W64A	direct	other inbred	nss	Wisconsin	Wf9*CI.187-2	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Wf9	Wf9	282set_Wf9	direct	other inbred	nss	Indiana	Reid yellow dent (Indiana station strain)	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+Yu796NS	Yu796NS	282set_Yu796	alias	other inbred	mixed	Unknown	Unknown	6	GRoot:1;GShoot:1;L3Base:1;L3Tip:1;LMAN:1;Kern:1	8	
+		BKN011	none		NR	Unknown	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN014	none		landrace	USA	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN015	none		landrace	SW USA	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN017	none		landrace	SW USA	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN018	none		landrace	USA	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN020	none		landrace	Cuba	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN022	none		landrace	Mexico	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN023	none		landrace	Venezuela	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN027	none		landrace	Chile	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN029	none		NR	Unknown	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN032	none		landrace	Brazil	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN033	none		landrace	Mexico	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN034	none		landrace	Venezuela	Unknown	0			in Lei et al. 2025 Table S1; no library name matches
+		BKN035	none		landrace	Mexico	Unknown	0			in Lei et al. 2025 Table S1; no library name matches

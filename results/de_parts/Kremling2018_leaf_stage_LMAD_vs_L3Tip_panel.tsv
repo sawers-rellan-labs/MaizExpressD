@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds	note
+Kremling2018_leaf_stage_LMAD_vs_L3Tip_panel	leaf_stage	panel	edgeR QL ~ pair + tissue	180	180	182	30	17356	2524	2274	15185	32	19178	prior QL df median 6.9

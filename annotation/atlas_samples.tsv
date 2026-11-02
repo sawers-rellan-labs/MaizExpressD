@@ -1,0 +1,116 @@
+sample	organ_group	tissue	stage	order
+B73_BraceRoot_Node6_abvgrnd_V13	Root	Brace roots node 6	V13	1
+B73_CrownRoot_Node4_V7	Root	Crown roots node 4	V7	2
+B73_CrownRoot_Node5_V13	Root	Crown roots node 5	V13	3
+B73_CrownRoot_Node5_V7	Root	Crown roots node 5	V7	4
+B73_CrownRoot_Nodes_1_3_V7	Root	Crown roots nodes 1-3	V7	5
+B73_DifferentiationZone_3d	Root	Differentiation zone of primary root	3 DAS	6
+B73_Mz+Ez_3d	Root	Meristematic and elongation zones of primary root	3 DAS	7
+B73_6DAS_GH_Primary_Root	Root	Primary root	6 DAS	8
+B73_WholePrimaryRoot_7d	Root	Primary root	7 DAS	9
+B73_V1_4D_PE_Primary_root	Root	Primary root	V1	10
+B73_TapRoot_Z1_7d	Root	Primary root zone 1	7 DAS	11
+B73_TapRoot_Z2_7d	Root	Primary root zone 2	7 DAS	12
+B73_TapRoot_Z3_7d	Root	Primary root zone 3	7 DAS	13
+B73_TapRoot_Z4_7d	Root	Primary root zone 4	7 DAS	14
+B73_root	Root	root		15
+B73_eightDAS_root	Root	root	8 DAS	16
+B73_CortPar_3d	Root	Root Cortical Parenchyma	3 DAS	17
+B73_Stele_3d	Root	Root stele	3 DAS	18
+B73_WholeRootSystem_3d	Root	Root system	3 DAS	19
+B73_WholeRootSystem_7d	Root	Root system	7 DAS	20
+B73_seedling_root	Root	seedling root	seedling	21
+B73_Seminal_7d	Root	Seminal roots	7 DAS	22
+B73_0_DAP_NOPOL_LEAF	Leaf	Aging leaf	0 DAP	23
+B73_0_DAP_POL_LEAF	Leaf	Aging leaf	0 DAP	24
+B73_12_DAP_NOPOL_LEAF	Leaf	Aging leaf	12 DAP	25
+B73_12_DAP_POL_LEAF	Leaf	Aging leaf	12 DAP	26
+B73_18_DAP_NOPOL_LEAF	Leaf	Aging leaf	18 DAP	27
+B73_18_DAP_POL_LEAF	Leaf	Aging leaf	18 DAP	28
+B73_24_DAP_NOPOL_LEAF	Leaf	Aging leaf	24 DAP	29
+B73_24_DAP_POL_LEAF	Leaf	Aging leaf	24 DAP	30
+B73_30_DAP_NOPOL_LEAF	Leaf	Aging leaf	30 DAP	31
+B73_30_DAP_POL_LEAF	Leaf	Aging leaf	30 DAP	32
+B73_6_DAP_NOPOL_LEAF	Leaf	Aging leaf	6 DAP	33
+B73_6_DAP_POL_LEAF	Leaf	Aging leaf	6 DAP	34
+B73_V5_Bottom_of_transition_leaf	Leaf	Base of stage 2 transition leaf	V5	35
+B73_V7_Bottom_of_transition_leaf	Leaf	Base of stage 2 transition leaf	V7	36
+B73_6_DAS_GH_Coleoptile	Leaf	Coleoptile	6 DAS	37
+B73_V9_Eighth_Leaf	Leaf	Eighth leaf	V9	38
+B73_V9_Eleventh_Leaf	Leaf	Eleventh leaf	V9	39
+B73_V9_Immature_Leaves	Leaf	Immature leaves	V9	40
+B73_V11_middle	Leaf	leaf	V11	41
+B73_V11_base	Leaf	leaf base	V11	42
+B73_V11_tip	Leaf	leaf tip	V11	43
+B73_V1_4D_PE_Pooled_Leaves	Leaf	Pooled leaves	V1	44
+B73_R2_Thirteenth_Leaf	Leaf	Thirteenth leaf	R2	45
+B73_V9_Thirteenth_Leaf	Leaf	Thirteenth leaf	V9	46
+B73_VT_Thirteenth_Leaf	Leaf	Thirteenth leaf	VT	47
+B73_V5_Tip_of_Stage_2_Leaf	Leaf	Tip of stage 2 transition leaf	V5	48
+B73_V7_Tip_of_transition_leaf	Leaf	Tip of stage 2 transition leaf	V7	49
+B73_V3_Topmost_leaf	Leaf	Topmost leaf	V3	50
+B73_0_NOPOL_INT	Shoot	Aging internode	0 DAP	51
+B73_0_POL_INT	Shoot	Aging internode	0 DAP	52
+B73_12_NOPOL_INT	Shoot	Aging internode	12 DAP	53
+B73_12_POL_INT	Shoot	Aging internode	12 DAP	54
+B73_18_NOPOL_INT	Shoot	Aging internode	18 DAP	55
+B73_18_POL_INT	Shoot	Aging internode	18 DAP	56
+B73_24_NOPOL_INT	Shoot	Aging internode	24 DAP	57
+B73_24_POL_INT	Shoot	Aging internode	24 DAP	58
+B73_30_NOPOL_INT	Shoot	Aging internode	30 DAP	59
+B73_30_POL_INT	Shoot	Aging internode	30 DAP	60
+B73_6_NOPOL_INT	Shoot	Aging internode	6 DAP	61
+B73_6_POL_INT	Shoot	Aging internode	6 DAP	62
+B73_V5_First_elongated_internode	Shoot	First elongated internode	V5	63
+B73_V9_Fourth_elongated_internode	Shoot	Fourth elongated internode	V9	64
+B73_seedling_shoot	Shoot	seedling shoot	seedling	65
+B73_SAM_apex	Shoot	shoot apex	14-day-old	66
+B73_shoot	Shoot	shoot system		67
+B73_eightDAS_shoot	Shoot	shoot system	8 DAS	68
+B73_V5_Shoot_tip	Shoot	Shoot tip	V5	69
+B73_V1_4D_PE_Stem_SAM	Shoot	Stem and Shoot Apical Meristem	V1	70
+B73_V3_Stem_and_SAM	Shoot	Stem and Shoot Apical Meristem	V3	71
+B73_R1_anther	Reproductive	anther	FL.00 first flower(s) open stage	72
+B73_R1_Anthers	Reproductive	Anthers	R1	73
+B73_V18_ear	Reproductive	ear inflorescence	V18	74
+B73_V18_Immature_cob	Reproductive	Immature cob	V18	75
+B73_V13_Immature_tassel	Reproductive	Immature tassel	V13	76
+B73_immature_tassel	Reproductive	immature tassel	immature	77
+B73_immature_unpollinated_ear_tip	Reproductive	immature unpollinated ear tip	immature	78
+B73_V18_Meiotic_tassel	Reproductive	Meiotic tassel	V18	79
+B73_R1_Pre-pollination_cob	Reproductive	Prepollination cob	R1	80
+B73_R1_Silks	Reproductive	Silks	R1	81
+B73_V18_tassel	Reproductive	tassel inflorescence	V18	82
+B73_16DAP_Embryo	Seed	Embryo	16 DAP	83
+B73_18DAP_Embryo	Seed	Embryo	18 DAP	84
+B73_20DAP_Embryo	Seed	Embryo	20 DAP	85
+B73_22DAP_Embryo	Seed	Embryo	22 DAP	86
+B73_24DAP_Embryo	Seed	Embryo	24 DAP	87
+B73_12DAP_Endopsperm	Seed	Endosperm	12 DAP	88
+B73_14DAP_Endopsperm	Seed	Endosperm	14 DAP	89
+B73_16DAP_Endosperm	Seed	Endosperm	16 DAP	90
+B73_endosperm	Seed	endosperm	16 DAP	91
+B73_18DAP_Endosperm	Seed	Endosperm	18 DAP	92
+B73_20DAP_Endosperm	Seed	Endosperm	20 DAP	93
+B73_22DAP_Endosperm	Seed	Endosperm	22 DAP	94
+B73_24DAP_Endosperm	Seed	Endosperm	24 DAP	95
+B73_18DAP_Pericarp	Seed	Pericarp	18 DAP	96
+B73_sixteenDAP_embryo	Seed	plant embryo	16 DAP	97
+B73_10DAP_Whole_seed	Seed	Whole seed	10 DAP	98
+B73_12DAP_Whole_seed	Seed	Whole seed	12 DAP	99
+B73_whole_seed_12DAP	Seed	whole seed	12 DAP	100
+B73_14DAP_Whole_seed	Seed	Whole seed	14 DAP	101
+B73_16DAP_Whole_seed	Seed	Whole seed	16 DAP	102
+B73_whole_seed_16DAP	Seed	whole seed	16 DAP	103
+B73_18DAP_Whole_Seed	Seed	Whole seed	18 DAP	104
+B73_2DAP_Whole_seed	Seed	Whole seed	2 DAP	105
+B73_20DAP_Whole_Seed	Seed	Whole seed	20 DAP	106
+B73_whole_seed_20DAP	Seed	whole seed	20 DAP	107
+B73_22DAP_Whole_Seed	Seed	Whole seed	22 DAP	108
+B73_24DAP_Whole_Seed	Seed	Whole seed	24 DAP	109
+B73_whole_seed_24DAP	Seed	whole seed	24 DAP	110
+B73_whole_seed_30DAP	Seed	whole seed	30 DAP	111
+B73_whole_seed_36DAP	Seed	whole seed	36 DAP	112
+B73_4DAP_Whole_Seed	Seed	Whole seed	4 DAP	113
+B73_6DAP_Whole_seed	Seed	Whole seed	6 DAP	114
+B73_8DAP_Whole_Seed	Seed	Whole seed	8 DAP	115

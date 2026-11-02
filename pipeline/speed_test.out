@@ -1,0 +1,29 @@
+== 2026-10-29 16:53:18 on servxfer.hpc.ncsu.edu; other jobs: speedtest dl_Kremling2018_LeafMid 
+ena_https    1 conn     47.8 MB in  60.0 s     0.8 MB/s total    0.8 MB/s per conn
+ena_https    6 conn    313.7 MB in  60.0 s     5.2 MB/s total    0.9 MB/s per conn
+ena_https   12 conn    476.6 MB in  60.1 s     7.9 MB/s total    0.7 MB/s per conn
+ena_https   24 conn    813.2 MB in  60.1 s    13.5 MB/s total    0.6 MB/s per conn
+ena_ftp      1 conn     31.3 MB in  60.0 s     0.5 MB/s total    0.5 MB/s per conn
+ena_ftp      6 conn    206.3 MB in  60.0 s     3.4 MB/s total    0.6 MB/s per conn
+aws          1 conn    170.4 MB in   3.0 s    56.2 MB/s total   56.2 MB/s per conn
+aws          4 conn    563.5 MB in   6.9 s    81.9 MB/s total   20.5 MB/s per conn
+aws          8 conn   1090.7 MB in   4.4 s   246.4 MB/s total   30.8 MB/s per conn
+== same run from both sources: SRR5909868
+fasterq-dump on 1 CPU: 16 s
+-rw-r--r--. 1 rrellan maize  170415875 Oct 29 17:06 SRR5909868.sra
+-rw-r--r--. 1 rrellan maize 1124516834 Oct 29 17:06 SRR5909868_1.fastq
+-rw-r--r--. 1 rrellan maize  228717706 Oct 29 17:05 ena.fastq.gz
+records: ENA 4515845  SRA 4515845
+sequences and qualities identical
+ENA first record:
+@SRR5909868.1 1/1
+GGAGTNAGGGTCCGCCATCAGTTGAACGTCTTGCCTGCACTTCAGTAGGCCACTTTTCATGGTTCTAGTTTTATTTGAATCCAGCG
++
+A/AAA#EAEEEEE/EAEA/EA//</A/EEEEE<AAEA/AE/EEEE/EEE/AEEAE/AA/EEEAEAEEEEE//EEEE/AE//<EAA/
+SRA first record:
+@SRR5909868.1 1 length=86
+GGAGTNAGGGTCCGCCATCAGTTGAACGTCTTGCCTGCACTTCAGTAGGCCACTTTTCATGGTTCTAGTTTTATTTGAATCCAGCG
++SRR5909868.1 1 length=86
+A/AAA#EAEEEEE/EAEA/EA//</A/EEEEE<AAEA/AE/EEEE/EEE/AEEAE/AA/EEEAEAEEEEE//EEEE/AE//<EAA/
+distinct quality characters: ENA #/6<AE  SRA #/6<AE
+== done 2026-10-29 17:06:44

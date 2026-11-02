@@ -1,0 +1,10 @@
+tissue	sra_labels	lei_code	tissue_label	tissue_group	tissue_detail	po_term	stage	stage_class	stage_order	display_order	sampling_time	growth_system	source
+GRoot	GRoot	RT	Germinating root	Root	root of germinating seedlings	PO:0009005	germinating seedling	germination	1	1		NR	Giri et al. 2021 (doi:10.1371/journal.pgen.1009568); Lei et al. 2025
+GShoot	GShoot	SH	Germinating shoot	Shoot	shoot of germinating seedlings	PO:0009006	germinating seedling	germination	1	2		NR	Giri et al. 2021; Lei et al. 2025
+L3Base	L3Base	LB	Leaf 3 base	Leaf	2 cm from the base of leaf 3	PO:0025034	seedling, leaf 3	seedling	2	3		NR	Giri et al. 2021; Lei et al. 2025
+L3Mid	L3Mid		Leaf 3 middle	Leaf	middle of leaf 3	PO:0025034	seedling, leaf 3	seedling	2	4		NR	Li et al. 2018 (doi:10.1101/gr.229716.117); BioSample SAMN06764809 (leaf 3 middle); not used by Lei et al. 2025
+L3Tip	L3Tip	LT	Leaf 3 tip	Leaf	2 cm from the tip of leaf 3	PO:0025034	seedling, leaf 3	seedling	2	5		NR	Giri et al. 2021; Lei et al. 2025
+LMAD	LMAD8;LMAD26	LD	Adult leaf, day	Leaf	mature mid-leaf tissue sampled at mid-day	PO:0025034	adult plant, after flowering	adult	3	6	mid-day	NR	Giri et al. 2021; Lei et al. 2025; BioSample SAMN06764809 (post-flowering leaf)
+LMAN	LMAN8;LMAN26	LN	Adult leaf, night	Leaf	mature mid-leaf tissue sampled at mid-night	PO:0025034	adult plant, after flowering	adult	3	7	mid-night	NR	Giri et al. 2021; Lei et al. 2025; BioSample SAMN06764809 (post-flowering leaf)
+Kern	Kern	KN	Kernel	Kernel	developing kernels, 350 growing degree days after pollination	PO:0009010	developing kernel	kernel	4	8		NR	Giri et al. 2021; Lei et al. 2025
+LMid	LMid		Leaf middle (unclear)	Leaf	NR: labelled LMid, not L3Mid; sequenced in one submission with adult-leaf (LMAD8) and germinating-shoot libraries; the BioSample lists no mid-leaf tissue other than leaf 3 middle	PO:0025034	NR	NR			NR	NR	library names only; see needs_review.tsv

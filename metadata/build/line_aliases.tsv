@@ -1,0 +1,8 @@
+genotype_sra	genotype_lei	kind	evidence
+Ill_Hy	282set_ILLHy	spelling	same line spelled two ways in the library names (Ill_Hy, IllHy); one Lei entry
+IllHy	282set_ILLHy	spelling	same line spelled two ways in the library names (Ill_Hy, IllHy); one Lei entry
+Ms71	MS71	spelling	same line spelled two ways in the library names (MS71, Ms71); one Lei entry
+Il101T	282set_Il101	alias	Il101T is the 282-panel sweet corn line; Lei lists it as Il101 (Illinois, sweet); no other Il101 in either list
+Il677a	282set_i1677a	alias	Lei's i1677a reads as a typo for Il677a (Illinois, sweet; pedigree (Bolivia 1035 x IL44b) x IL422a)
+Yu796NS	282set_Yu796	alias	Yu796_NS in the 282 panel; Lei lists Yu796; no other Yu796 in either list
+KUI2021	282set_Ki2021	alias	Lei lists Ki2021 (Thailand, tropical); the library names have KUI2021 and no Ki2021; confirmed by Rubén at the M1 checkpoint (29 Oct 2026)

@@ -1,0 +1,31 @@
+.DS_Store
+.Rhistory
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# API response cache from metadata/build scripts
+metadata/build/cache/
+
+# raw and intermediate sequencing data never live here (they stay on Hazel)
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sra
+*.bam
+quant.sf
+__pycache__/
+
+# private notes and library QC evidence never go to the public repo
+private/
+
+# deployment record for Posit Connect Cloud (local to this machine)
+app/rsconnect/
+
+# Claude Code local settings
+.claude/
+
+# kept locally and on sara, not in the repository: per-line CPM (the same values as app/data/expr/, rebuilt by
+# analysis/expression_tissue.R) and salmon's TPM tables (not used: CPM comes from the gene counts)
+results/expression_line.parquet
+results/Kremling2018/*/salmon.merged.gene_tpm.tsv

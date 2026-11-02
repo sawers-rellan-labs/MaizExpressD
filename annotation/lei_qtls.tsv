@@ -1,0 +1,4029 @@
+trait	chrom_v3	pos_v3	chrom_v5	pos_v5	source
+Cob weight Genetic value	chr1	52921070	chr1	52487288	Phe1
+Cob weight Genetic value	chr1	87457560	chr1	88449408	Phe1
+Cob weight Genetic value	chr1	155438191	chr1	159099233	Phe1
+Cob weight Genetic value	chr1	251216203	chr1	257329806	Phe1
+Cob weight Genetic value	chr1	273207342	chr1	279709311	Phe1
+Cob weight Genetic value	chr2	12811557	chr2	13320608	Phe1
+Cob weight Genetic value	chr2	28674990	chr2	29561926	Phe1
+Cob weight Genetic value	chr3	112170139	chr3	99326876	Phe1
+Cob weight Genetic value	chr3	89431031	chr3	110912909	Phe1
+Cob weight Genetic value	chr3	125733857	chr3	127172304	Phe1
+Cob weight Genetic value	chr3	198209077	chr3	203320882	Phe1
+Cob weight Genetic value	chr3	205671987	chr3	211091152	Phe1
+Cob weight Genetic value	chr3	212300984	chr3	217848357	Phe1
+Cob weight Genetic value	chr4	14065124	chr4	15006698	Phe1
+Cob weight Genetic value	chr4	160687155	chr4	165825764	Phe1
+Cob weight Genetic value	chr4	175672174	chr4	180706381	Phe1
+Cob weight Genetic value	chr5	10524789	chr5	11011459	Phe1
+Cob weight Genetic value	chr5	39906410	chr5	41364168	Phe1
+Cob weight Genetic value	chr5	95137052	chr5	97290017	Phe1
+Cob weight Genetic value	chr5	156982304	chr5	160164329	Phe1
+Cob weight Genetic value	chr5	198058092	chr5	205932037	Phe1
+Cob weight Genetic value	chr5	208142304	chr5	216401698	Phe1
+Cob weight Genetic value	chr6	143666320	chr6	154602338	Phe1
+Cob weight Genetic value	chr6	155864162	chr6	167127009	Phe1
+Cob weight Genetic value	chr7	117336881	chr7	122452749	Phe1
+Cob weight Genetic value	chr7	132216798	chr7	137532904	Phe1
+Cob weight Genetic value	chr7	169697460	chr7	178725865	Phe1
+Cob weight Genetic value	chr8	26873550	chr8	27574007	Phe1
+Cob weight Genetic value	chr8	118495395	chr8	121711159	Phe1
+Cob weight Genetic value	chr8	141885923	chr8	146059960	Phe1
+Cob weight Genetic value	chr8	161775764	chr8	168538910	Phe1
+Cob weight Genetic value	chr8	161776581	chr8	168539727	Phe1
+Cob weight Genetic value	chr9	14032466	chr9	15596647	Phe1
+Cob weight Genetic value	chr9	45664711	chr9	48418824	Phe1
+Cob weight Genetic value	chr9	78028192	chr9	82191131	Phe1
+Cob weight Genetic value	chr9	99292041	chr9	103584750	Phe1
+Cob weight Genetic value	chr9	123216453	chr9	128561098	Phe1
+Cob weight Genetic value	chr10	30335703	chr10	30783765	Phe1
+Cob weight Genetic value	chr10	39607182	chr10	40338340	Phe1
+Cob weight Genetic value	chr10	45721047	chr10	46519862	Phe1
+Cob weight Genetic value	chr10	69603605	chr10	70611042	Phe1
+Days to anthesis Genetic value	chr1	40818823	chr1	40747113	Phe1
+Days to anthesis Genetic value	chr1	154795298	chr1	158488234	Phe1
+Days to anthesis Genetic value	chr1	163175052	chr1	167100766	Phe1
+Days to anthesis Genetic value	chr1	189847989	chr1	194033027	Phe1
+Days to anthesis Genetic value	chr1	223683689	chr1	229126421	Phe1
+Days to anthesis Genetic value	chr1	242871277	chr1	248536445	Phe1
+Days to anthesis Genetic value	chr1	251751747	chr1	257871063	Phe1
+Days to anthesis Genetic value	chr1	273969628	chr1	280512495	Phe1
+Days to anthesis Genetic value	chr1	295535893	chr1	302417437	Phe1
+Days to anthesis Genetic value	chr2	18869870	chr2	19658807	Phe1
+Days to anthesis Genetic value	chr2	24249948	chr2	25062955	Phe1
+Days to anthesis Genetic value	chr2	41486032	chr2	42482535	Phe1
+Days to anthesis Genetic value	chr2	54203517	chr2	55528505	Phe1
+Days to anthesis Genetic value	chr2	105197152	chr2	107694795	Phe1
+Days to anthesis Genetic value	chr2	120853910	chr2	124188782	Phe1
+Days to anthesis Genetic value	chr2	174052706	chr2	177895448	Phe1
+Days to anthesis Genetic value	chr2	188532383	chr2	193041216	Phe1
+Days to anthesis Genetic value	chr2	199811158	chr2	205768331	Phe1
+Days to anthesis Genetic value	chr3	24815987	chr3	24883922	Phe1
+Days to anthesis Genetic value	chr3	66982719	chr3	67666404	Phe1
+Days to anthesis Genetic value	chr3	112505641	chr3	99676931	Phe1
+Days to anthesis Genetic value	chr4	39820888	chr4	41865344	Phe1
+Days to anthesis Genetic value	chr5	35705027	chr5	37118559	Phe1
+Days to anthesis Genetic value	chr5	100390781	chr5	102564593	Phe1
+Days to anthesis Genetic value	chr5	147284603	chr5	150063397	Phe1
+Days to anthesis Genetic value	chr5	189816294	chr5	193855702	Phe1
+Days to anthesis Genetic value	chr5	213409427	chr5	221772207	Phe1
+Days to anthesis Genetic value	chr6	131470685	chr6	142145868	Phe1
+Days to anthesis Genetic value	chr6	153383247	chr6	164375243	Phe1
+Days to anthesis Genetic value	chr7	6551490	chr7	6804494	Phe1
+Days to anthesis Genetic value	chr7	134112424	chr7	139470950	Phe1
+Days to anthesis Genetic value	chr8	25397518	chr8	26033535	Phe1
+Days to anthesis Genetic value	chr8	84521835	chr8	86699374	Phe1
+Days to anthesis Genetic value	chr8	130288812	chr8	134351398	Phe1
+Days to anthesis Genetic value	chr8	130329800	chr8	134395545	Phe1
+Days to anthesis Genetic value	chr8	139495274	chr8	143718137	Phe1
+Days to anthesis Genetic value	chr8	161770158	chr8	168533297	Phe1
+Days to anthesis Genetic value	chr9	12384440	chr9	13738429	Phe1
+Days to anthesis Genetic value	chr9	41217151	chr9	43686106	Phe1
+Days to anthesis Genetic value	chr9	66692846	chr9	66388005	Phe1
+Days to anthesis Genetic value	chr9	86126395	chr9	90482258	Phe1
+Days to anthesis Genetic value	chr9	97714459	chr9	102014701	Phe1
+Days to anthesis Genetic value	chr9	148477484	chr9	154594948	Phe1
+Days to anthesis Genetic value	chr10	14855022	chr10	14803285	Phe1
+Days to anthesis Genetic value	chr10	61813480	chr10	62932454	Phe1
+Days to silk Genetic value	chr1	189227117	chr1	193404653	Phe1
+Days to silk Genetic value	chr1	215248499	chr1	220081736	Phe1
+Days to silk Genetic value	chr3	68943677	chr3	69650862	Phe1
+Days to silk Genetic value	chr3	112957986	chr3	100126571	Phe1
+Days to silk Genetic value	chr4	22729393	chr4	24437361	Phe1
+Days to silk Genetic value	chr4	36854617	chr4	38853301	Phe1
+Days to silk Genetic value	chr4	137698830	chr4	142768052	Phe1
+Days to silk Genetic value	chr4	160690505	chr4	165829114	Phe1
+Days to silk Genetic value	chr5	7733682	chr5	8199079	Phe1
+Days to silk Genetic value	chr5	162791560	chr5	166011013	Phe1
+Days to silk Genetic value	chr6	108512442	chr6	119960364	Phe1
+Days to silk Genetic value	chr8	20105696	chr8	20713201	Phe1
+Days to silk Genetic value	chr8	37770919	chr8	38761003	Phe1
+Days to silk Genetic value	chr8	84521835	chr8	86699374	Phe1
+Days to silk Genetic value	chr9	33340689	chr9	35692465	Phe1
+Days to silk Genetic value	chr9	40674830	chr9	43132575	Phe1
+Days to silk Genetic value	chr9	66692846	chr9	66388005	Phe1
+Days to silk Genetic value	chr9	74057650	chr9	78263494	Phe1
+Days to silk Genetic value	chr9	101140051	chr9	105457139	Phe1
+Days to silk Genetic value	chr9	154603432	chr9	160729229	Phe1
+Days to silk Genetic value	chr10	61813480	chr10	62932454	Phe1
+Ear height Genetic value	chr1	82804392	chr1	83628847	Phe1
+Ear height Genetic value	chr1	89291570	chr1	90415422	Phe1
+Ear height Genetic value	chr1	91096731	chr1	92190684	Phe1
+Ear height Genetic value	chr1	155649199	chr1	159303222	Phe1
+Ear height Genetic value	chr1	217694630	chr1	222533951	Phe1
+Ear height Genetic value	chr2	14695011	chr2	15344142	Phe1
+Ear height Genetic value	chr2	55598855	chr2	56910948	Phe1
+Ear height Genetic value	chr3	74418492	chr3	75057422	Phe1
+Ear height Genetic value	chr3	98787727	chr3	101466375	Phe1
+Ear height Genetic value	chr3	90492543	chr3	109863856	Phe1
+Ear height Genetic value	chr3	123027582	chr3	124359520	Phe1
+Ear height Genetic value	chr3	159432603	chr3	161591282	Phe1
+Ear height Genetic value	chr3	209921342	chr3	215428358	Phe1
+Ear height Genetic value	chr4	5263605	chr4	6276407	Phe1
+Ear height Genetic value	chr4	22150942	chr4	23839878	Phe1
+Ear height Genetic value	chr4	36854158	chr4	38852842	Phe1
+Ear height Genetic value	chr4	132054016	chr4	136992036	Phe1
+Ear height Genetic value	chr5	3205980	chr5	3488206	Phe1
+Ear height Genetic value	chr5	35289737	chr5	36715452	Phe1
+Ear height Genetic value	chr5	191641203	chr5	195921141	Phe1
+Ear height Genetic value	chr6	138518852	chr6	149381518	Phe1
+Ear height Genetic value	chr6	152333977	chr6	163292104	Phe1
+Ear height Genetic value	chr7	120798721	chr7	126119060	Phe1
+Ear height Genetic value	chr7	126668608	chr7	131954020	Phe1
+Ear height Genetic value	chr8	130329800	chr8	134395545	Phe1
+Ear height Genetic value	chr8	130331427	chr8	134397172	Phe1
+Ear height Genetic value	chr8	130384090	chr8	134450376	Phe1
+Ear height Genetic value	chr8	143649577	chr8	147869757	Phe1
+Ear height Genetic value	chr8	162137158	chr8	168895801	Phe1
+Ear height Genetic value	chr9	4653845	chr9	5955158	Phe1
+Ear height Genetic value	chr9	84678898	chr9	88964756	Phe1
+Ear height Genetic value	chr10	8807299	chr10	8613556	Phe1
+Ear height Genetic value	chr10	8840211	chr10	8651658	Phe1
+Ear height Genetic value	chr10	9025418	chr10	8850671	Phe1
+Ear height Genetic value	chr10	26147406	chr10	26488976	Phe1
+Ear height Genetic value	chr10	26300713	chr10	26644895	Phe1
+Ear height Genetic value	chr10	27470359	chr10	27930262	Phe1
+Ear row number Genetic value	chr1	11445085	chr1	11531909	Phe1
+Ear row number Genetic value	chr1	48662832	chr1	48505271	Phe1
+Ear row number Genetic value	chr1	61595635	chr1	61726608	Phe1
+Ear row number Genetic value	chr1	85268373	chr1	86195132	Phe1
+Ear row number Genetic value	chr1	90226166	chr1	91378454	Phe1
+Ear row number Genetic value	chr1	107190835	chr1	108821161	Phe1
+Ear row number Genetic value	chr1	116500355	chr1	118165838	Phe1
+Ear row number Genetic value	chr1	211487254	chr1	216263330	Phe1
+Ear row number Genetic value	chr1	221355897	chr1	226240185	Phe1
+Ear row number Genetic value	chr1	252534902	chr1	258664229	Phe1
+Ear row number Genetic value	chr1	268455587	chr1	274910407	Phe1
+Ear row number Genetic value	chr1	279981700	chr1	286713609	Phe1
+Ear row number Genetic value	chr1	299204712	chr1	306121445	Phe1
+Ear row number Genetic value	chr2	12907297	chr2	13436776	Phe1
+Ear row number Genetic value	chr2	38710769	chr2	39653769	Phe1
+Ear row number Genetic value	chr2	185146876	chr2	189616611	Phe1
+Ear row number Genetic value	chr2	187548798	chr2	192071901	Phe1
+Ear row number Genetic value	chr2	198596051	chr2	204557259	Phe1
+Ear row number Genetic value	chr3	17615062	chr3	17629336	Phe1
+Ear row number Genetic value	chr3	19290744	chr3	19314841	Phe1
+Ear row number Genetic value	chr3	122515984	chr3	123874756	Phe1
+Ear row number Genetic value	chr3	135111095	chr3	136703232	Phe1
+Ear row number Genetic value	chr3	167489801	chr3	172141426	Phe1
+Ear row number Genetic value	chr3	190519761	chr3	195534547	Phe1
+Ear row number Genetic value	chr3	199728039	chr3	204834777	Phe1
+Ear row number Genetic value	chr4	2857613	chr4	3706352	Phe1
+Ear row number Genetic value	chr4	19206082	chr4	20882524	Phe1
+Ear row number Genetic value	chr4	35197629	chr4	37153539	Phe1
+Ear row number Genetic value	chr4	55802417	chr4	58353428	Phe1
+Ear row number Genetic value	chr4	135357466	chr4	140405414	Phe1
+Ear row number Genetic value	chr4	146428990	chr4	151592589	Phe1
+Ear row number Genetic value	chr4	174624116	chr4	179673514	Phe1
+Ear row number Genetic value	chr4	199208219	chr4	205161219	Phe1
+Ear row number Genetic value	chr4	239618267	chr4	247794908	Phe1
+Ear row number Genetic value	chr5	12300056	chr5	12879957	Phe1
+Ear row number Genetic value	chr5	58752708	chr5	60580702	Phe1
+Ear row number Genetic value	chr5	138694170	chr5	141401911	Phe1
+Ear row number Genetic value	chr5	139645372	chr5	142360468	Phe1
+Ear row number Genetic value	chr5	183536257	chr5	187240822	Phe1
+Ear row number Genetic value	chr6	22952379	chr6	30606866	Phe1
+Ear row number Genetic value	chr6	131634344	chr6	142367296	Phe1
+Ear row number Genetic value	chr6	159880599	chr6	171171000	Phe1
+Ear row number Genetic value	chr7	137556214	chr7	141770140	Phe1
+Ear row number Genetic value	chr7	144345240	chr7	150444614	Phe1
+Ear row number Genetic value	chr7	154295073	chr7	163214333	Phe1
+Ear row number Genetic value	chr8	36174461	chr8	37144431	Phe1
+Ear row number Genetic value	chr8	70511022	chr8	72278764	Phe1
+Ear row number Genetic value	chr8	131339171	chr8	135411469	Phe1
+Ear row number Genetic value	chr8	172314662	chr8	179318217	Phe1
+Ear row number Genetic value	chr9	16770258	chr9	18398966	Phe1
+Ear row number Genetic value	chr9	43662031	chr9	46212014	Phe1
+Ear row number Genetic value	chr9	88587983	chr9	92934295	Phe1
+Ear row number Genetic value	chr9	106082355	chr9	110314695	Phe1
+Ear row number Genetic value	chr9	125555977	chr9	131015622	Phe1
+Ear row number Genetic value	chr9	145046828	chr9	151012186	Phe1
+Ear row number Genetic value	chr10	7055367	chr10	6734732	Phe1
+Ear weight Genetic value	chr1	69940391	chr1	70470697	Phe1
+Ear weight Genetic value	chr1	90106189	chr1	91192160	Phe1
+Ear weight Genetic value	chr1	91094758	chr1	92188711	Phe1
+Ear weight Genetic value	chr1	194252993	chr1	198564979	Phe1
+Ear weight Genetic value	chr1	211490685	chr1	216266761	Phe1
+Ear weight Genetic value	chr1	243149898	chr1	248780040	Phe1
+Ear weight Genetic value	chr2	33850528	chr2	34785957	Phe1
+Ear weight Genetic value	chr2	33897982	chr2	34828276	Phe1
+Ear weight Genetic value	chr2	83871112	chr2	85742478	Phe1
+Ear weight Genetic value	chr2	199820696	chr2	205777892	Phe1
+Ear weight Genetic value	chr3	34641204	chr3	34816889	Phe1
+Ear weight Genetic value	chr3	86846454	chr3	113551653	Phe1
+Ear weight Genetic value	chr3	125736792	chr3	127175239	Phe1
+Ear weight Genetic value	chr3	146976678	chr3	148852649	Phe1
+Ear weight Genetic value	chr3	154775110	chr3	157013452	Phe1
+Ear weight Genetic value	chr3	198209077	chr3	203320882	Phe1
+Ear weight Genetic value	chr5	27447625	chr5	28486028	Phe1
+Ear weight Genetic value	chr5	148653279	chr5	151465638	Phe1
+Ear weight Genetic value	chr5	213349670	chr5	221714169	Phe1
+Ear weight Genetic value	chr7	169649204	chr7	178677202	Phe1
+Ear weight Genetic value	chr8	102987898	chr8	105570923	Phe1
+Ear weight Genetic value	chr8	112151210	chr8	115167220	Phe1
+Ear weight Genetic value	chr8	121450604	chr8	124812638	Phe1
+Ear weight Genetic value	chr9	2343452	chr9	3771478	Phe1
+Ear weight Genetic value	chr10	39760834	chr10	40491820	Phe1
+Kernel length Genetic value	chr1	88843191	chr1	89972155	Phe1
+Kernel length Genetic value	chr1	91094766	chr1	92188719	Phe1
+Kernel length Genetic value	chr1	214952515	chr1	219787252	Phe1
+Kernel length Genetic value	chr1	229348791	chr1	234919367	Phe1
+Kernel length Genetic value	chr1	249239318	chr1	255088558	Phe1
+Kernel length Genetic value	chr1	283965113	chr1	290687119	Phe1
+Kernel length Genetic value	chr3	23737220	chr3	23780851	Phe1
+Kernel length Genetic value	chr3	32512997	chr3	32622235	Phe1
+Kernel length Genetic value	chr3	112452608	chr3	99616678	Phe1
+Kernel length Genetic value	chr3	227672966	chr3	233368438	Phe1
+Kernel length Genetic value	chr5	6891753	chr5	7340198	Phe1
+Kernel length Genetic value	chr5	191677140	chr5	195956145	Phe1
+Kernel length Genetic value	chr7	1455382	chr7	1556128	Phe1
+Kernel length Genetic value	chr7	143333360	chr7	149437415	Phe1
+Kernel length Genetic value	chr8	131125039	chr8	135193941	Phe1
+Kernel length Genetic value	chr9	15093959	chr9	16699647	Phe1
+Kernel length Genetic value	chr9	118315534	chr9	123537804	Phe1
+Kernel length Genetic value	chr9	128150887	chr9	133708862	Phe1
+Kernel length Genetic value	chr10	66944714	chr10	68062254	Phe1
+Kernel thickness Genetic value	chr1	35953515	chr1	35900578	Phe1
+Kernel thickness Genetic value	chr1	72993597	chr1	73610711	Phe1
+Kernel thickness Genetic value	chr1	122406722	chr1	124312099	Phe1
+Kernel thickness Genetic value	chr1	141329340	chr1	144833081	Phe1
+Kernel thickness Genetic value	chr1	167235906	chr1	171148190	Phe1
+Kernel thickness Genetic value	chr1	219178011	chr1	224014317	Phe1
+Kernel thickness Genetic value	chr1	227265018	chr1	232723491	Phe1
+Kernel thickness Genetic value	chr1	233647094	chr1	239341785	Phe1
+Kernel thickness Genetic value	chr2	23567470	chr2	24387755	Phe1
+Kernel thickness Genetic value	chr2	34433367	chr2	35407421	Phe1
+Kernel thickness Genetic value	chr2	45195649	chr2	46342884	Phe1
+Kernel thickness Genetic value	chr2	58291448	chr2	59695459	Phe1
+Kernel thickness Genetic value	chr2	175149824	chr2	179024340	Phe1
+Kernel thickness Genetic value	chr3	3558328	chr3	3611791	Phe1
+Kernel thickness Genetic value	chr3	10077312	chr3	10062865	Phe1
+Kernel thickness Genetic value	chr3	19804249	chr3	19828469	Phe1
+Kernel thickness Genetic value	chr3	25225416	chr3	25310914	Phe1
+Kernel thickness Genetic value	chr3	43090685	chr3	42995933	Phe1
+Kernel thickness Genetic value	chr3	54234835	chr3	54719384	Phe1
+Kernel thickness Genetic value	chr3	67820126	chr3	68508939	Phe1
+Kernel thickness Genetic value	chr3	122739745	chr3	124120023	Phe1
+Kernel thickness Genetic value	chr3	154700851	chr3	156828810	Phe1
+Kernel thickness Genetic value	chr3	204730623	chr3	210002262	Phe1
+Kernel thickness Genetic value	chr3	218113224	chr3	223560665	Phe1
+Kernel thickness Genetic value	chr3	230535835	chr3	236198072	Phe1
+Kernel thickness Genetic value	chr4	10511135	chr4	11568397	Phe1
+Kernel thickness Genetic value	chr4	17467216	chr4	19142697	Phe1
+Kernel thickness Genetic value	chr4	64698467	chr4	67386254	Phe1
+Kernel thickness Genetic value	chr4	187448488	chr4	192685167	Phe1
+Kernel thickness Genetic value	chr4	237878237	chr4	245921192	Phe1
+Kernel thickness Genetic value	chr5	38036411	chr5	39555891	Phe1
+Kernel thickness Genetic value	chr5	123253500	chr5	125899843	Phe1
+Kernel thickness Genetic value	chr5	160202992	chr5	163355276	Phe1
+Kernel thickness Genetic value	chr5	208142774	chr5	216402168	Phe1
+Kernel thickness Genetic value	chr6	23903233	chr6	31675161	Phe1
+Kernel thickness Genetic value	chr6	62736347	chr6	71884251	Phe1
+Kernel thickness Genetic value	chr6	97284745	chr6	107016008	Phe1
+Kernel thickness Genetic value	chr6	108508985	chr6	119956907	Phe1
+Kernel thickness Genetic value	chr6	124865068	chr6	135451010	Phe1
+Kernel thickness Genetic value	chr6	148549530	chr6	159452209	Phe1
+Kernel thickness Genetic value	chr6	150297882	chr6	161237454	Phe1
+Kernel thickness Genetic value	chr6	158014493	chr6	169281800	Phe1
+Kernel thickness Genetic value	chr7	153375015	chr7	162346811	Phe1
+Kernel thickness Genetic value	chr7	173849874	chr7	182800878	Phe1
+Kernel thickness Genetic value	chr8	110547239	chr8	113563383	Phe1
+Kernel thickness Genetic value	chr8	147816432	chr8	152131725	Phe1
+Kernel thickness Genetic value	chr8	159851898	chr8	166537687	Phe1
+Kernel thickness Genetic value	chr8	172012774	chr8	179025251	Phe1
+Kernel thickness Genetic value	chr9	116935040	chr9	122077507	Phe1
+Kernel thickness Genetic value	chr9	149711492	chr9	155905600	Phe1
+Kernel thickness Genetic value	chr10	20818401	chr10	21094245	Phe1
+Node number below ear Genetic value	chr1	16781458	chr1	17041146	Phe1
+Node number below ear Genetic value	chr1	40422199	chr1	40361070	Phe1
+Node number below ear Genetic value	chr1	45346303	chr1	45135619	Phe1
+Node number below ear Genetic value	chr1	63917343	chr1	64044594	Phe1
+Node number below ear Genetic value	chr1	88001574	chr1	89127168	Phe1
+Node number below ear Genetic value	chr1	191008265	chr1	195212394	Phe1
+Node number below ear Genetic value	chr1	211447382	chr1	216223458	Phe1
+Node number below ear Genetic value	chr1	230844145	chr1	236452923	Phe1
+Node number below ear Genetic value	chr1	242962307	chr1	248590047	Phe1
+Node number below ear Genetic value	chr1	253362181	chr1	259771250	Phe1
+Node number below ear Genetic value	chr1	265407170	chr1	271923746	Phe1
+Node number below ear Genetic value	chr2	17855680	chr2	18655429	Phe1
+Node number below ear Genetic value	chr2	30175008	chr2	31061972	Phe1
+Node number below ear Genetic value	chr2	38049412	chr2	38970843	Phe1
+Node number below ear Genetic value	chr2	59102394	chr2	60488236	Phe1
+Node number below ear Genetic value	chr2	136805208	chr2	140154059	Phe1
+Node number below ear Genetic value	chr3	92823379	chr3	107509278	Phe1
+Node number below ear Genetic value	chr3	120397770	chr3	121682821	Phe1
+Node number below ear Genetic value	chr3	144486233	chr3	146199627	Phe1
+Node number below ear Genetic value	chr3	160975697	chr3	163102954	Phe1
+Node number below ear Genetic value	chr3	209921342	chr3	215428358	Phe1
+Node number below ear Genetic value	chr3	216960684	chr3	222395514	Phe1
+Node number below ear Genetic value	chr3	216962393	chr3	222397223	Phe1
+Node number below ear Genetic value	chr4	1257232	chr4	1825358	Phe1
+Node number below ear Genetic value	chr4	14146108	chr4	15101362	Phe1
+Node number below ear Genetic value	chr4	15711413	chr4	17020029	Phe1
+Node number below ear Genetic value	chr4	56412203	chr4	58981600	Phe1
+Node number below ear Genetic value	chr4	67677371	chr4	70418936	Phe1
+Node number below ear Genetic value	chr4	146428297	chr4	151591896	Phe1
+Node number below ear Genetic value	chr4	156096934	chr4	161382941	Phe1
+Node number below ear Genetic value	chr4	167428525	chr4	172476365	Phe1
+Node number below ear Genetic value	chr4	197784487	chr4	203700697	Phe1
+Node number below ear Genetic value	chr4	241020676	chr4	249272200	Phe1
+Node number below ear Genetic value	chr5	7367917	chr5	7798410	Phe1
+Node number below ear Genetic value	chr5	10007239	chr5	10514871	Phe1
+Node number below ear Genetic value	chr5	30804358	chr5	32103221	Phe1
+Node number below ear Genetic value	chr5	151206203	chr5	154254209	Phe1
+Node number below ear Genetic value	chr5	178314160	chr5	181608593	Phe1
+Node number below ear Genetic value	chr5	213409427	chr5	221772207	Phe1
+Node number below ear Genetic value	chr6	87261743	chr6	96403422	Phe1
+Node number below ear Genetic value	chr6	162870005	chr6	174196086	Phe1
+Node number below ear Genetic value	chr7	158492788	chr7	167529340	Phe1
+Node number below ear Genetic value	chr8	23431998	chr8	24050149	Phe1
+Node number below ear Genetic value	chr9	13210940	chr9	14547349	Phe1
+Node number below ear Genetic value	chr9	77681591	chr9	81880448	Phe1
+Node number below ear Genetic value	chr9	154601573	chr9	160727370	Phe1
+Node number below ear Genetic value	chr10	12960167	chr10	12893438	Phe1
+Node number below ear Genetic value	chr10	23981120	chr10	24296995	Phe1
+Node number below ear Genetic value	chr10	140408295	chr10	143185163	Phe1
+Plant height Genetic value	chr1	47993159	chr1	47831647	Phe1
+Plant height Genetic value	chr1	120155265	chr1	121985585	Phe1
+Plant height Genetic value	chr3	149711055	chr3	151740516	Phe1
+Plant height Genetic value	chr3	189304350	chr3	194298230	Phe1
+Plant height Genetic value	chr3	190967313	chr3	195974042	Phe1
+Plant height Genetic value	chr3	191403888	chr3	196410690	Phe1
+Plant height Genetic value	chr4	10734760	chr4	11791099	Phe1
+Plant height Genetic value	chr4	32934964	chr4	34865073	Phe1
+Plant height Genetic value	chr4	160006836	chr4	165119001	Phe1
+Plant height Genetic value	chr5	215343458	chr5	223686634	Phe1
+Plant height Genetic value	chr6	104381729	chr6	114543060	Phe1
+Plant height Genetic value	chr6	166300587	chr6	177589475	Phe1
+Plant height Genetic value	chr7	12576742	chr7	12845554	Phe1
+Plant height Genetic value	chr7	21593760	chr7	22463234	Phe1
+Plant height Genetic value	chr10	27391433	chr10	27813039	Phe1
+Plant height Genetic value	chr10	116699589	chr10	119255592	Phe1
+Main tassel branch length Genetic value	chr1	29682777	chr1	29678740	Phe1
+Main tassel branch length Genetic value	chr1	72816582	chr1	73429462	Phe1
+Main tassel branch length Genetic value	chr1	72817090	chr1	73429970	Phe1
+Main tassel branch length Genetic value	chr1	109439941	chr1	111048876	Phe1
+Main tassel branch length Genetic value	chr1	225046609	chr1	230497584	Phe1
+Main tassel branch length Genetic value	chr1	246322482	chr1	251912972	Phe1
+Main tassel branch length Genetic value	chr1	251099990	chr1	257213696	Phe1
+Main tassel branch length Genetic value	chr1	253561376	chr1	259959679	Phe1
+Main tassel branch length Genetic value	chr1	260443771	chr1	266802493	Phe1
+Main tassel branch length Genetic value	chr2	37196909	chr2	38078933	Phe1
+Main tassel branch length Genetic value	chr2	42391397	chr2	43560181	Phe1
+Main tassel branch length Genetic value	chr2	63351600	chr2	64794732	Phe1
+Main tassel branch length Genetic value	chr2	106015895	chr2	108496587	Phe1
+Main tassel branch length Genetic value	chr2	180400500	chr2	184719443	Phe1
+Main tassel branch length Genetic value	chr2	200140617	chr2	206083971	Phe1
+Main tassel branch length Genetic value	chr3	55563950	chr3	56069029	Phe1
+Main tassel branch length Genetic value	chr3	132883717	chr3	134452012	Phe1
+Main tassel branch length Genetic value	chr3	174683744	chr3	179374106	Phe1
+Main tassel branch length Genetic value	chr5	18034477	chr5	18952046	Phe1
+Main tassel branch length Genetic value	chr5	175628676	chr5	178884465	Phe1
+Main tassel branch length Genetic value	chr5	208224992	chr5	216484386	Phe1
+Main tassel branch length Genetic value	chr6	68367275	chr6	77648563	Phe1
+Main tassel branch length Genetic value	chr6	108624932	chr6	120074407	Phe1
+Main tassel branch length Genetic value	chr6	150884024	chr6	161849163	Phe1
+Main tassel branch length Genetic value	chr6	161913753	chr6	173212870	Phe1
+Main tassel branch length Genetic value	chr6	161913773	chr6	173212890	Phe1
+Main tassel branch length Genetic value	chr7	26227266	chr7	27111805	Phe1
+Main tassel branch length Genetic value	chr7	99363133	chr7	103923678	Phe1
+Main tassel branch length Genetic value	chr7	117167461	chr7	122049716	Phe1
+Main tassel branch length Genetic value	chr7	147201816	chr7	153578722	Phe1
+Main tassel branch length Genetic value	chr7	148820745	chr7	155193647	Phe1
+Main tassel branch length Genetic value	chr7	163834573	chr7	172873000	Phe1
+Main tassel branch length Genetic value	chr8	94994701	chr8	97213555	Phe1
+Main tassel branch length Genetic value	chr10	23248207	chr10	23518434	Phe1
+Main tassel branch length Genetic value	chr10	70935787	chr10	71939896	Phe1
+Main tassel branch length Genetic value	chr10	132375675	chr10	134941088	Phe1
+Main tassel branch length Genetic value	chr10	147154177	chr10	149976494	Phe1
+Tassel branch number Genetic value	chr1	44751750	chr1	44557102	Phe1
+Tassel branch number Genetic value	chr1	68115203	chr1	68559304	Phe1
+Tassel branch number Genetic value	chr1	152093584	chr1	155870932	Phe1
+Tassel branch number Genetic value	chr1	217804645			Phe1
+Tassel branch number Genetic value	chr1	267183172	chr1	273689235	Phe1
+Tassel branch number Genetic value	chr2	14238703	chr2	14930557	Phe1
+Tassel branch number Genetic value	chr2	186049960	chr2	190530650	Phe1
+Tassel branch number Genetic value	chr3	21229545	chr3	21268820	Phe1
+Tassel branch number Genetic value	chr3	48978590	chr3	49407665	Phe1
+Tassel branch number Genetic value	chr3	168524855	chr3	173079733	Phe1
+Tassel branch number Genetic value	chr3	178150332	chr3	183112469	Phe1
+Tassel branch number Genetic value	chr3	184327061	chr3	189402020	Phe1
+Tassel branch number Genetic value	chr3	223827650	chr3	229363545	Phe1
+Tassel branch number Genetic value	chr4	147255055	chr4	152398901	Phe1
+Tassel branch number Genetic value	chr4	160010189	chr4	165122354	Phe1
+Tassel branch number Genetic value	chr4	177614269	chr4	182581207	Phe1
+Tassel branch number Genetic value	chr4	196424467	chr4	202389477	Phe1
+Tassel branch number Genetic value	chr4	196434684	chr4	202399693	Phe1
+Tassel branch number Genetic value	chr4	206154554	chr4	212276199	Phe1
+Tassel branch number Genetic value	chr4	206154626	chr4	212276271	Phe1
+Tassel branch number Genetic value	chr4	212409407	chr4	218803882	Phe1
+Tassel branch number Genetic value	chr4	240229151	chr4	248381847	Phe1
+Tassel branch number Genetic value	chr5	3086341	chr5	3393388	Phe1
+Tassel branch number Genetic value	chr5	31119422	chr5	32426107	Phe1
+Tassel branch number Genetic value	chr5	57741341	chr5	59526572	Phe1
+Tassel branch number Genetic value	chr5	167319596	chr5	170536645	Phe1
+Tassel branch number Genetic value	chr5	197083208	chr5	205005774	Phe1
+Tassel branch number Genetic value	chr5	206686671	chr5	214931967	Phe1
+Tassel branch number Genetic value	chr6	22063856	chr6	29681011	Phe1
+Tassel branch number Genetic value	chr6	112705622	chr6	123312394	Phe1
+Tassel branch number Genetic value	chr6	128601365	chr6	139239345	Phe1
+Tassel branch number Genetic value	chr6	152708242	chr6	163688014	Phe1
+Tassel branch number Genetic value	chr7	96680657	chr7	101146626	Phe1
+Tassel branch number Genetic value	chr7	108627739	chr7	113153220	Phe1
+Tassel branch number Genetic value	chr7	127922276	chr7	133216131	Phe1
+Tassel branch number Genetic value	chr7	137319324	chr7	142010733	Phe1
+Tassel branch number Genetic value	chr8	95160762	chr8	97382918	Phe1
+Tassel branch number Genetic value	chr8	102323943	chr8	104900731	Phe1
+Tassel branch number Genetic value	chr8	102344226	chr8	104985261	Phe1
+Tassel branch number Genetic value	chr8	113063067	chr8	116072796	Phe1
+Tassel branch number Genetic value	chr8	159944462	chr8	166619726	Phe1
+Tassel branch number Genetic value	chr9	6225607	chr9	7531041	Phe1
+Tassel branch number Genetic value	chr9	129766471	chr9	135308071	Phe1
+Tassel branch number Genetic value	chr9	130735318	chr9	136280377	Phe1
+Tassel branch number Genetic value	chr9	150978358	chr9	157174720	Phe1
+Tassel branch number Genetic value	chr9	154868516	chr9	160998183	Phe1
+Tassel branch number Genetic value	chr10	9376029	chr10	9199793	Phe1
+Tassel branch number Genetic value	chr10	145309570	chr10	148101820	Phe1
+Cob weight Linear plasticity	chr1	52921070	chr1	52487288	Phe1
+Cob weight Linear plasticity	chr1	87457560	chr1	88449408	Phe1
+Cob weight Linear plasticity	chr1	155438191	chr1	159099233	Phe1
+Cob weight Linear plasticity	chr1	251216203	chr1	257329806	Phe1
+Cob weight Linear plasticity	chr1	273207342	chr1	279709311	Phe1
+Cob weight Linear plasticity	chr2	12811557	chr2	13320608	Phe1
+Cob weight Linear plasticity	chr2	28674990	chr2	29561926	Phe1
+Cob weight Linear plasticity	chr3	112170139	chr3	99326876	Phe1
+Cob weight Linear plasticity	chr3	89431031	chr3	110912909	Phe1
+Cob weight Linear plasticity	chr3	125733857	chr3	127172304	Phe1
+Cob weight Linear plasticity	chr3	198209077	chr3	203320882	Phe1
+Cob weight Linear plasticity	chr3	205671987	chr3	211091152	Phe1
+Cob weight Linear plasticity	chr3	212300984	chr3	217848357	Phe1
+Cob weight Linear plasticity	chr4	14065124	chr4	15006698	Phe1
+Cob weight Linear plasticity	chr4	160687155	chr4	165825764	Phe1
+Cob weight Linear plasticity	chr4	175672174	chr4	180706381	Phe1
+Cob weight Linear plasticity	chr5	10524789	chr5	11011459	Phe1
+Cob weight Linear plasticity	chr5	39906410	chr5	41364168	Phe1
+Cob weight Linear plasticity	chr5	95137052	chr5	97290017	Phe1
+Cob weight Linear plasticity	chr5	156982304	chr5	160164329	Phe1
+Cob weight Linear plasticity	chr5	198058092	chr5	205932037	Phe1
+Cob weight Linear plasticity	chr5	208142304	chr5	216401698	Phe1
+Cob weight Linear plasticity	chr6	143666320	chr6	154602338	Phe1
+Cob weight Linear plasticity	chr6	155864162	chr6	167127009	Phe1
+Cob weight Linear plasticity	chr7	117336881	chr7	122452749	Phe1
+Cob weight Linear plasticity	chr7	132216798	chr7	137532904	Phe1
+Cob weight Linear plasticity	chr7	169697460	chr7	178725865	Phe1
+Cob weight Linear plasticity	chr8	26873550	chr8	27574007	Phe1
+Cob weight Linear plasticity	chr8	118495395	chr8	121711159	Phe1
+Cob weight Linear plasticity	chr8	141885923	chr8	146059960	Phe1
+Cob weight Linear plasticity	chr8	161775764	chr8	168538910	Phe1
+Cob weight Linear plasticity	chr8	161776581	chr8	168539727	Phe1
+Cob weight Linear plasticity	chr9	14032466	chr9	15596647	Phe1
+Cob weight Linear plasticity	chr9	45664711	chr9	48418824	Phe1
+Cob weight Linear plasticity	chr9	78028192	chr9	82191131	Phe1
+Cob weight Linear plasticity	chr9	99292041	chr9	103584750	Phe1
+Cob weight Linear plasticity	chr9	123216453	chr9	128561098	Phe1
+Cob weight Linear plasticity	chr10	30335703	chr10	30783765	Phe1
+Cob weight Linear plasticity	chr10	39607182	chr10	40338340	Phe1
+Cob weight Linear plasticity	chr10	45721047	chr10	46519862	Phe1
+Cob weight Linear plasticity	chr10	69603605	chr10	70611042	Phe1
+Days to anthesis Linear plasticity	chr1	40818823	chr1	40747113	Phe1
+Days to anthesis Linear plasticity	chr1	154795298	chr1	158488234	Phe1
+Days to anthesis Linear plasticity	chr1	163175052	chr1	167100766	Phe1
+Days to anthesis Linear plasticity	chr1	189847989	chr1	194033027	Phe1
+Days to anthesis Linear plasticity	chr1	223683689	chr1	229126421	Phe1
+Days to anthesis Linear plasticity	chr1	242871277	chr1	248536445	Phe1
+Days to anthesis Linear plasticity	chr1	251751747	chr1	257871063	Phe1
+Days to anthesis Linear plasticity	chr1	273969628	chr1	280512495	Phe1
+Days to anthesis Linear plasticity	chr1	295535893	chr1	302417437	Phe1
+Days to anthesis Linear plasticity	chr2	18869870	chr2	19658807	Phe1
+Days to anthesis Linear plasticity	chr2	24249948	chr2	25062955	Phe1
+Days to anthesis Linear plasticity	chr2	41486032	chr2	42482535	Phe1
+Days to anthesis Linear plasticity	chr2	54203517	chr2	55528505	Phe1
+Days to anthesis Linear plasticity	chr2	105197152	chr2	107694795	Phe1
+Days to anthesis Linear plasticity	chr2	120853910	chr2	124188782	Phe1
+Days to anthesis Linear plasticity	chr2	174052706	chr2	177895448	Phe1
+Days to anthesis Linear plasticity	chr2	188532383	chr2	193041216	Phe1
+Days to anthesis Linear plasticity	chr2	199811158	chr2	205768331	Phe1
+Days to anthesis Linear plasticity	chr3	24815987	chr3	24883922	Phe1
+Days to anthesis Linear plasticity	chr3	66982719	chr3	67666404	Phe1
+Days to anthesis Linear plasticity	chr3	112505641	chr3	99676931	Phe1
+Days to anthesis Linear plasticity	chr4	39820888	chr4	41865344	Phe1
+Days to anthesis Linear plasticity	chr5	35705027	chr5	37118559	Phe1
+Days to anthesis Linear plasticity	chr5	100390781	chr5	102564593	Phe1
+Days to anthesis Linear plasticity	chr5	147284603	chr5	150063397	Phe1
+Days to anthesis Linear plasticity	chr5	189816294	chr5	193855702	Phe1
+Days to anthesis Linear plasticity	chr5	213409427	chr5	221772207	Phe1
+Days to anthesis Linear plasticity	chr6	131470685	chr6	142145868	Phe1
+Days to anthesis Linear plasticity	chr6	153383247	chr6	164375243	Phe1
+Days to anthesis Linear plasticity	chr7	6551490	chr7	6804494	Phe1
+Days to anthesis Linear plasticity	chr7	134112424	chr7	139470950	Phe1
+Days to anthesis Linear plasticity	chr8	25397518	chr8	26033535	Phe1
+Days to anthesis Linear plasticity	chr8	84521835	chr8	86699374	Phe1
+Days to anthesis Linear plasticity	chr8	130288812	chr8	134351398	Phe1
+Days to anthesis Linear plasticity	chr8	130329800	chr8	134395545	Phe1
+Days to anthesis Linear plasticity	chr8	139495274	chr8	143718137	Phe1
+Days to anthesis Linear plasticity	chr8	161770158	chr8	168533297	Phe1
+Days to anthesis Linear plasticity	chr9	12384440	chr9	13738429	Phe1
+Days to anthesis Linear plasticity	chr9	41217151	chr9	43686106	Phe1
+Days to anthesis Linear plasticity	chr9	66692846	chr9	66388005	Phe1
+Days to anthesis Linear plasticity	chr9	86126395	chr9	90482258	Phe1
+Days to anthesis Linear plasticity	chr9	97714459	chr9	102014701	Phe1
+Days to anthesis Linear plasticity	chr9	148477484	chr9	154594948	Phe1
+Days to anthesis Linear plasticity	chr10	14855022	chr10	14803285	Phe1
+Days to anthesis Linear plasticity	chr10	61813480	chr10	62932454	Phe1
+Days to silk Linear plasticity	chr1	189227117	chr1	193404653	Phe1
+Days to silk Linear plasticity	chr1	215248499	chr1	220081736	Phe1
+Days to silk Linear plasticity	chr3	68943677	chr3	69650862	Phe1
+Days to silk Linear plasticity	chr3	112957986	chr3	100126571	Phe1
+Days to silk Linear plasticity	chr4	22729393	chr4	24437361	Phe1
+Days to silk Linear plasticity	chr4	36854617	chr4	38853301	Phe1
+Days to silk Linear plasticity	chr4	137698830	chr4	142768052	Phe1
+Days to silk Linear plasticity	chr4	160690505	chr4	165829114	Phe1
+Days to silk Linear plasticity	chr5	7733682	chr5	8199079	Phe1
+Days to silk Linear plasticity	chr5	162791560	chr5	166011013	Phe1
+Days to silk Linear plasticity	chr6	108512442	chr6	119960364	Phe1
+Days to silk Linear plasticity	chr8	20105696	chr8	20713201	Phe1
+Days to silk Linear plasticity	chr8	37770919	chr8	38761003	Phe1
+Days to silk Linear plasticity	chr8	84521835	chr8	86699374	Phe1
+Days to silk Linear plasticity	chr9	33340689	chr9	35692465	Phe1
+Days to silk Linear plasticity	chr9	40674830	chr9	43132575	Phe1
+Days to silk Linear plasticity	chr9	66692846	chr9	66388005	Phe1
+Days to silk Linear plasticity	chr9	74057650	chr9	78263494	Phe1
+Days to silk Linear plasticity	chr9	101140051	chr9	105457139	Phe1
+Days to silk Linear plasticity	chr9	154603432	chr9	160729229	Phe1
+Days to silk Linear plasticity	chr10	61813480	chr10	62932454	Phe1
+Ear height Linear plasticity	chr1	82804392	chr1	83628847	Phe1
+Ear height Linear plasticity	chr1	89291570	chr1	90415422	Phe1
+Ear height Linear plasticity	chr1	91096731	chr1	92190684	Phe1
+Ear height Linear plasticity	chr1	155649199	chr1	159303222	Phe1
+Ear height Linear plasticity	chr1	217694630	chr1	222533951	Phe1
+Ear height Linear plasticity	chr2	14695011	chr2	15344142	Phe1
+Ear height Linear plasticity	chr2	55598855	chr2	56910948	Phe1
+Ear height Linear plasticity	chr3	74418492	chr3	75057422	Phe1
+Ear height Linear plasticity	chr3	98787727	chr3	101466375	Phe1
+Ear height Linear plasticity	chr3	90492543	chr3	109863856	Phe1
+Ear height Linear plasticity	chr3	123027582	chr3	124359520	Phe1
+Ear height Linear plasticity	chr3	159432603	chr3	161591282	Phe1
+Ear height Linear plasticity	chr3	209921342	chr3	215428358	Phe1
+Ear height Linear plasticity	chr4	5263605	chr4	6276407	Phe1
+Ear height Linear plasticity	chr4	22150942	chr4	23839878	Phe1
+Ear height Linear plasticity	chr4	36854158	chr4	38852842	Phe1
+Ear height Linear plasticity	chr4	132054016	chr4	136992036	Phe1
+Ear height Linear plasticity	chr5	3205980	chr5	3488206	Phe1
+Ear height Linear plasticity	chr5	35289737	chr5	36715452	Phe1
+Ear height Linear plasticity	chr5	191641203	chr5	195921141	Phe1
+Ear height Linear plasticity	chr6	138518852	chr6	149381518	Phe1
+Ear height Linear plasticity	chr6	152333977	chr6	163292104	Phe1
+Ear height Linear plasticity	chr7	120798721	chr7	126119060	Phe1
+Ear height Linear plasticity	chr7	126668608	chr7	131954020	Phe1
+Ear height Linear plasticity	chr8	130329800	chr8	134395545	Phe1
+Ear height Linear plasticity	chr8	130331427	chr8	134397172	Phe1
+Ear height Linear plasticity	chr8	130384090	chr8	134450376	Phe1
+Ear height Linear plasticity	chr8	143649577	chr8	147869757	Phe1
+Ear height Linear plasticity	chr8	162137158	chr8	168895801	Phe1
+Ear height Linear plasticity	chr9	4653845	chr9	5955158	Phe1
+Ear height Linear plasticity	chr9	84678898	chr9	88964756	Phe1
+Ear height Linear plasticity	chr10	8807299	chr10	8613556	Phe1
+Ear height Linear plasticity	chr10	8840211	chr10	8651658	Phe1
+Ear height Linear plasticity	chr10	9025418	chr10	8850671	Phe1
+Ear height Linear plasticity	chr10	26147406	chr10	26488976	Phe1
+Ear height Linear plasticity	chr10	26300713	chr10	26644895	Phe1
+Ear height Linear plasticity	chr10	27470359	chr10	27930262	Phe1
+Ear row number Linear plasticity	chr1	11445085	chr1	11531909	Phe1
+Ear row number Linear plasticity	chr1	48662832	chr1	48505271	Phe1
+Ear row number Linear plasticity	chr1	61595635	chr1	61726608	Phe1
+Ear row number Linear plasticity	chr1	85268373	chr1	86195132	Phe1
+Ear row number Linear plasticity	chr1	90226166	chr1	91378454	Phe1
+Ear row number Linear plasticity	chr1	107190835	chr1	108821161	Phe1
+Ear row number Linear plasticity	chr1	116500355	chr1	118165838	Phe1
+Ear row number Linear plasticity	chr1	211487254	chr1	216263330	Phe1
+Ear row number Linear plasticity	chr1	221355897	chr1	226240185	Phe1
+Ear row number Linear plasticity	chr1	252534902	chr1	258664229	Phe1
+Ear row number Linear plasticity	chr1	268455587	chr1	274910407	Phe1
+Ear row number Linear plasticity	chr1	279981700	chr1	286713609	Phe1
+Ear row number Linear plasticity	chr1	299204712	chr1	306121445	Phe1
+Ear row number Linear plasticity	chr2	12907297	chr2	13436776	Phe1
+Ear row number Linear plasticity	chr2	38710769	chr2	39653769	Phe1
+Ear row number Linear plasticity	chr2	185146876	chr2	189616611	Phe1
+Ear row number Linear plasticity	chr2	187548798	chr2	192071901	Phe1
+Ear row number Linear plasticity	chr2	198596051	chr2	204557259	Phe1
+Ear row number Linear plasticity	chr3	17615062	chr3	17629336	Phe1
+Ear row number Linear plasticity	chr3	19290744	chr3	19314841	Phe1
+Ear row number Linear plasticity	chr3	122515984	chr3	123874756	Phe1
+Ear row number Linear plasticity	chr3	135111095	chr3	136703232	Phe1
+Ear row number Linear plasticity	chr3	167489801	chr3	172141426	Phe1
+Ear row number Linear plasticity	chr3	190519761	chr3	195534547	Phe1
+Ear row number Linear plasticity	chr3	199728039	chr3	204834777	Phe1
+Ear row number Linear plasticity	chr4	2857613	chr4	3706352	Phe1
+Ear row number Linear plasticity	chr4	19206082	chr4	20882524	Phe1
+Ear row number Linear plasticity	chr4	35197629	chr4	37153539	Phe1
+Ear row number Linear plasticity	chr4	55802417	chr4	58353428	Phe1
+Ear row number Linear plasticity	chr4	135357466	chr4	140405414	Phe1
+Ear row number Linear plasticity	chr4	146428990	chr4	151592589	Phe1
+Ear row number Linear plasticity	chr4	174624116	chr4	179673514	Phe1
+Ear row number Linear plasticity	chr4	199208219	chr4	205161219	Phe1
+Ear row number Linear plasticity	chr4	239618267	chr4	247794908	Phe1
+Ear row number Linear plasticity	chr5	12300056	chr5	12879957	Phe1
+Ear row number Linear plasticity	chr5	58752708	chr5	60580702	Phe1
+Ear row number Linear plasticity	chr5	138694170	chr5	141401911	Phe1
+Ear row number Linear plasticity	chr5	139645372	chr5	142360468	Phe1
+Ear row number Linear plasticity	chr5	183536257	chr5	187240822	Phe1
+Ear row number Linear plasticity	chr6	22952379	chr6	30606866	Phe1
+Ear row number Linear plasticity	chr6	131634344	chr6	142367296	Phe1
+Ear row number Linear plasticity	chr6	159880599	chr6	171171000	Phe1
+Ear row number Linear plasticity	chr7	137556214	chr7	141770140	Phe1
+Ear row number Linear plasticity	chr7	144345240	chr7	150444614	Phe1
+Ear row number Linear plasticity	chr7	154295073	chr7	163214333	Phe1
+Ear row number Linear plasticity	chr8	36174461	chr8	37144431	Phe1
+Ear row number Linear plasticity	chr8	70511022	chr8	72278764	Phe1
+Ear row number Linear plasticity	chr8	131339171	chr8	135411469	Phe1
+Ear row number Linear plasticity	chr8	172314662	chr8	179318217	Phe1
+Ear row number Linear plasticity	chr9	16770258	chr9	18398966	Phe1
+Ear row number Linear plasticity	chr9	43662031	chr9	46212014	Phe1
+Ear row number Linear plasticity	chr9	88587983	chr9	92934295	Phe1
+Ear row number Linear plasticity	chr9	106082355	chr9	110314695	Phe1
+Ear row number Linear plasticity	chr9	125555977	chr9	131015622	Phe1
+Ear row number Linear plasticity	chr9	145046828	chr9	151012186	Phe1
+Ear row number Linear plasticity	chr10	7055367	chr10	6734732	Phe1
+Ear weight Linear plasticity	chr1	69940391	chr1	70470697	Phe1
+Ear weight Linear plasticity	chr1	90106189	chr1	91192160	Phe1
+Ear weight Linear plasticity	chr1	91094758	chr1	92188711	Phe1
+Ear weight Linear plasticity	chr1	194252993	chr1	198564979	Phe1
+Ear weight Linear plasticity	chr1	211490685	chr1	216266761	Phe1
+Ear weight Linear plasticity	chr1	243149898	chr1	248780040	Phe1
+Ear weight Linear plasticity	chr2	33850528	chr2	34785957	Phe1
+Ear weight Linear plasticity	chr2	33897982	chr2	34828276	Phe1
+Ear weight Linear plasticity	chr2	83871112	chr2	85742478	Phe1
+Ear weight Linear plasticity	chr2	199820696	chr2	205777892	Phe1
+Ear weight Linear plasticity	chr3	34641204	chr3	34816889	Phe1
+Ear weight Linear plasticity	chr3	86846454	chr3	113551653	Phe1
+Ear weight Linear plasticity	chr3	125736792	chr3	127175239	Phe1
+Ear weight Linear plasticity	chr3	146976678	chr3	148852649	Phe1
+Ear weight Linear plasticity	chr3	154775110	chr3	157013452	Phe1
+Ear weight Linear plasticity	chr3	198209077	chr3	203320882	Phe1
+Ear weight Linear plasticity	chr5	27447625	chr5	28486028	Phe1
+Ear weight Linear plasticity	chr5	148653279	chr5	151465638	Phe1
+Ear weight Linear plasticity	chr5	213349670	chr5	221714169	Phe1
+Ear weight Linear plasticity	chr7	169649204	chr7	178677202	Phe1
+Ear weight Linear plasticity	chr8	102987898	chr8	105570923	Phe1
+Ear weight Linear plasticity	chr8	112151210	chr8	115167220	Phe1
+Ear weight Linear plasticity	chr8	121450604	chr8	124812638	Phe1
+Ear weight Linear plasticity	chr9	2343452	chr9	3771478	Phe1
+Ear weight Linear plasticity	chr10	39760834	chr10	40491820	Phe1
+Kernel length Linear plasticity	chr1	88843191	chr1	89972155	Phe1
+Kernel length Linear plasticity	chr1	91094766	chr1	92188719	Phe1
+Kernel length Linear plasticity	chr1	214952515	chr1	219787252	Phe1
+Kernel length Linear plasticity	chr1	229348791	chr1	234919367	Phe1
+Kernel length Linear plasticity	chr1	249239318	chr1	255088558	Phe1
+Kernel length Linear plasticity	chr1	283965113	chr1	290687119	Phe1
+Kernel length Linear plasticity	chr3	23737220	chr3	23780851	Phe1
+Kernel length Linear plasticity	chr3	32512997	chr3	32622235	Phe1
+Kernel length Linear plasticity	chr3	112452608	chr3	99616678	Phe1
+Kernel length Linear plasticity	chr3	227672966	chr3	233368438	Phe1
+Kernel length Linear plasticity	chr5	6891753	chr5	7340198	Phe1
+Kernel length Linear plasticity	chr5	191677140	chr5	195956145	Phe1
+Kernel length Linear plasticity	chr7	1455382	chr7	1556128	Phe1
+Kernel length Linear plasticity	chr7	143333360	chr7	149437415	Phe1
+Kernel length Linear plasticity	chr8	131125039	chr8	135193941	Phe1
+Kernel length Linear plasticity	chr9	15093959	chr9	16699647	Phe1
+Kernel length Linear plasticity	chr9	118315534	chr9	123537804	Phe1
+Kernel length Linear plasticity	chr9	128150887	chr9	133708862	Phe1
+Kernel length Linear plasticity	chr10	66944714	chr10	68062254	Phe1
+Kernel thickness Linear plasticity	chr1	35953515	chr1	35900578	Phe1
+Kernel thickness Linear plasticity	chr1	72993597	chr1	73610711	Phe1
+Kernel thickness Linear plasticity	chr1	122406722	chr1	124312099	Phe1
+Kernel thickness Linear plasticity	chr1	141329340	chr1	144833081	Phe1
+Kernel thickness Linear plasticity	chr1	167235906	chr1	171148190	Phe1
+Kernel thickness Linear plasticity	chr1	219178011	chr1	224014317	Phe1
+Kernel thickness Linear plasticity	chr1	227265018	chr1	232723491	Phe1
+Kernel thickness Linear plasticity	chr1	233647094	chr1	239341785	Phe1
+Kernel thickness Linear plasticity	chr2	23567470	chr2	24387755	Phe1
+Kernel thickness Linear plasticity	chr2	34433367	chr2	35407421	Phe1
+Kernel thickness Linear plasticity	chr2	45195649	chr2	46342884	Phe1
+Kernel thickness Linear plasticity	chr2	58291448	chr2	59695459	Phe1
+Kernel thickness Linear plasticity	chr2	175149824	chr2	179024340	Phe1
+Kernel thickness Linear plasticity	chr3	3558328	chr3	3611791	Phe1
+Kernel thickness Linear plasticity	chr3	10077312	chr3	10062865	Phe1
+Kernel thickness Linear plasticity	chr3	19804249	chr3	19828469	Phe1
+Kernel thickness Linear plasticity	chr3	25225416	chr3	25310914	Phe1
+Kernel thickness Linear plasticity	chr3	43090685	chr3	42995933	Phe1
+Kernel thickness Linear plasticity	chr3	54234835	chr3	54719384	Phe1
+Kernel thickness Linear plasticity	chr3	67820126	chr3	68508939	Phe1
+Kernel thickness Linear plasticity	chr3	122739745	chr3	124120023	Phe1
+Kernel thickness Linear plasticity	chr3	154700851	chr3	156828810	Phe1
+Kernel thickness Linear plasticity	chr3	204730623	chr3	210002262	Phe1
+Kernel thickness Linear plasticity	chr3	218113224	chr3	223560665	Phe1
+Kernel thickness Linear plasticity	chr3	230535835	chr3	236198072	Phe1
+Kernel thickness Linear plasticity	chr4	10511135	chr4	11568397	Phe1
+Kernel thickness Linear plasticity	chr4	17467216	chr4	19142697	Phe1
+Kernel thickness Linear plasticity	chr4	64698467	chr4	67386254	Phe1
+Kernel thickness Linear plasticity	chr4	187448488	chr4	192685167	Phe1
+Kernel thickness Linear plasticity	chr4	237878237	chr4	245921192	Phe1
+Kernel thickness Linear plasticity	chr5	38036411	chr5	39555891	Phe1
+Kernel thickness Linear plasticity	chr5	123253500	chr5	125899843	Phe1
+Kernel thickness Linear plasticity	chr5	160202992	chr5	163355276	Phe1
+Kernel thickness Linear plasticity	chr5	208142774	chr5	216402168	Phe1
+Kernel thickness Linear plasticity	chr6	23903233	chr6	31675161	Phe1
+Kernel thickness Linear plasticity	chr6	62736347	chr6	71884251	Phe1
+Kernel thickness Linear plasticity	chr6	97284745	chr6	107016008	Phe1
+Kernel thickness Linear plasticity	chr6	108508985	chr6	119956907	Phe1
+Kernel thickness Linear plasticity	chr6	124865068	chr6	135451010	Phe1
+Kernel thickness Linear plasticity	chr6	148549530	chr6	159452209	Phe1
+Kernel thickness Linear plasticity	chr6	150297882	chr6	161237454	Phe1
+Kernel thickness Linear plasticity	chr6	158014493	chr6	169281800	Phe1
+Kernel thickness Linear plasticity	chr7	153375015	chr7	162346811	Phe1
+Kernel thickness Linear plasticity	chr7	173849874	chr7	182800878	Phe1
+Kernel thickness Linear plasticity	chr8	110547239	chr8	113563383	Phe1
+Kernel thickness Linear plasticity	chr8	147816432	chr8	152131725	Phe1
+Kernel thickness Linear plasticity	chr8	159851898	chr8	166537687	Phe1
+Kernel thickness Linear plasticity	chr8	172012774	chr8	179025251	Phe1
+Kernel thickness Linear plasticity	chr9	116935040	chr9	122077507	Phe1
+Kernel thickness Linear plasticity	chr9	149711492	chr9	155905600	Phe1
+Kernel thickness Linear plasticity	chr10	20818401	chr10	21094245	Phe1
+Main tassel branch length Linear plasticity	chr1	29682777	chr1	29678740	Phe1
+Main tassel branch length Linear plasticity	chr1	72816582	chr1	73429462	Phe1
+Main tassel branch length Linear plasticity	chr1	72817090	chr1	73429970	Phe1
+Main tassel branch length Linear plasticity	chr1	109439941	chr1	111048876	Phe1
+Main tassel branch length Linear plasticity	chr1	225046609	chr1	230497584	Phe1
+Main tassel branch length Linear plasticity	chr1	246322482	chr1	251912972	Phe1
+Main tassel branch length Linear plasticity	chr1	251099990	chr1	257213696	Phe1
+Main tassel branch length Linear plasticity	chr1	253561376	chr1	259959679	Phe1
+Main tassel branch length Linear plasticity	chr1	260443771	chr1	266802493	Phe1
+Main tassel branch length Linear plasticity	chr2	37196909	chr2	38078933	Phe1
+Main tassel branch length Linear plasticity	chr2	42391397	chr2	43560181	Phe1
+Main tassel branch length Linear plasticity	chr2	63351600	chr2	64794732	Phe1
+Main tassel branch length Linear plasticity	chr2	106015895	chr2	108496587	Phe1
+Main tassel branch length Linear plasticity	chr2	180400500	chr2	184719443	Phe1
+Main tassel branch length Linear plasticity	chr2	200140617	chr2	206083971	Phe1
+Main tassel branch length Linear plasticity	chr3	55563950	chr3	56069029	Phe1
+Main tassel branch length Linear plasticity	chr3	132883717	chr3	134452012	Phe1
+Main tassel branch length Linear plasticity	chr3	174683744	chr3	179374106	Phe1
+Main tassel branch length Linear plasticity	chr5	18034477	chr5	18952046	Phe1
+Main tassel branch length Linear plasticity	chr5	175628676	chr5	178884465	Phe1
+Main tassel branch length Linear plasticity	chr5	208224992	chr5	216484386	Phe1
+Main tassel branch length Linear plasticity	chr6	68367275	chr6	77648563	Phe1
+Main tassel branch length Linear plasticity	chr6	108624932	chr6	120074407	Phe1
+Main tassel branch length Linear plasticity	chr6	150884024	chr6	161849163	Phe1
+Main tassel branch length Linear plasticity	chr6	161913753	chr6	173212870	Phe1
+Main tassel branch length Linear plasticity	chr6	161913773	chr6	173212890	Phe1
+Main tassel branch length Linear plasticity	chr7	26227266	chr7	27111805	Phe1
+Main tassel branch length Linear plasticity	chr7	99363133	chr7	103923678	Phe1
+Main tassel branch length Linear plasticity	chr7	117167461	chr7	122049716	Phe1
+Main tassel branch length Linear plasticity	chr7	147201816	chr7	153578722	Phe1
+Main tassel branch length Linear plasticity	chr7	148820745	chr7	155193647	Phe1
+Main tassel branch length Linear plasticity	chr7	163834573	chr7	172873000	Phe1
+Main tassel branch length Linear plasticity	chr8	94994701	chr8	97213555	Phe1
+Main tassel branch length Linear plasticity	chr10	23248207	chr10	23518434	Phe1
+Main tassel branch length Linear plasticity	chr10	70935787	chr10	71939896	Phe1
+Main tassel branch length Linear plasticity	chr10	132375675	chr10	134941088	Phe1
+Main tassel branch length Linear plasticity	chr10	147154177	chr10	149976494	Phe1
+Node number below ear Linear plasticity	chr1	16781458	chr1	17041146	Phe1
+Node number below ear Linear plasticity	chr1	40422199	chr1	40361070	Phe1
+Node number below ear Linear plasticity	chr1	45346303	chr1	45135619	Phe1
+Node number below ear Linear plasticity	chr1	63917343	chr1	64044594	Phe1
+Node number below ear Linear plasticity	chr1	88001574	chr1	89127168	Phe1
+Node number below ear Linear plasticity	chr1	191008265	chr1	195212394	Phe1
+Node number below ear Linear plasticity	chr1	211447382	chr1	216223458	Phe1
+Node number below ear Linear plasticity	chr1	230844145	chr1	236452923	Phe1
+Node number below ear Linear plasticity	chr1	242962307	chr1	248590047	Phe1
+Node number below ear Linear plasticity	chr1	253362181	chr1	259771250	Phe1
+Node number below ear Linear plasticity	chr1	265407170	chr1	271923746	Phe1
+Node number below ear Linear plasticity	chr2	17855680	chr2	18655429	Phe1
+Node number below ear Linear plasticity	chr2	30175008	chr2	31061972	Phe1
+Node number below ear Linear plasticity	chr2	38049412	chr2	38970843	Phe1
+Node number below ear Linear plasticity	chr2	59102394	chr2	60488236	Phe1
+Node number below ear Linear plasticity	chr2	136805208	chr2	140154059	Phe1
+Node number below ear Linear plasticity	chr3	92823379	chr3	107509278	Phe1
+Node number below ear Linear plasticity	chr3	120397770	chr3	121682821	Phe1
+Node number below ear Linear plasticity	chr3	144486233	chr3	146199627	Phe1
+Node number below ear Linear plasticity	chr3	160975697	chr3	163102954	Phe1
+Node number below ear Linear plasticity	chr3	209921342	chr3	215428358	Phe1
+Node number below ear Linear plasticity	chr3	216960684	chr3	222395514	Phe1
+Node number below ear Linear plasticity	chr3	216962393	chr3	222397223	Phe1
+Node number below ear Linear plasticity	chr4	1257232	chr4	1825358	Phe1
+Node number below ear Linear plasticity	chr4	14146108	chr4	15101362	Phe1
+Node number below ear Linear plasticity	chr4	15711413	chr4	17020029	Phe1
+Node number below ear Linear plasticity	chr4	56412203	chr4	58981600	Phe1
+Node number below ear Linear plasticity	chr4	67677371	chr4	70418936	Phe1
+Node number below ear Linear plasticity	chr4	146428297	chr4	151591896	Phe1
+Node number below ear Linear plasticity	chr4	156096934	chr4	161382941	Phe1
+Node number below ear Linear plasticity	chr4	167428525	chr4	172476365	Phe1
+Node number below ear Linear plasticity	chr4	197784487	chr4	203700697	Phe1
+Node number below ear Linear plasticity	chr4	241020676	chr4	249272200	Phe1
+Node number below ear Linear plasticity	chr5	7367917	chr5	7798410	Phe1
+Node number below ear Linear plasticity	chr5	10007239	chr5	10514871	Phe1
+Node number below ear Linear plasticity	chr5	30804358	chr5	32103221	Phe1
+Node number below ear Linear plasticity	chr5	151206203	chr5	154254209	Phe1
+Node number below ear Linear plasticity	chr5	178314160	chr5	181608593	Phe1
+Node number below ear Linear plasticity	chr5	213409427	chr5	221772207	Phe1
+Node number below ear Linear plasticity	chr6	87261743	chr6	96403422	Phe1
+Node number below ear Linear plasticity	chr6	162870005	chr6	174196086	Phe1
+Node number below ear Linear plasticity	chr7	158492788	chr7	167529340	Phe1
+Node number below ear Linear plasticity	chr8	23431998	chr8	24050149	Phe1
+Node number below ear Linear plasticity	chr9	13210940	chr9	14547349	Phe1
+Node number below ear Linear plasticity	chr9	77681591	chr9	81880448	Phe1
+Node number below ear Linear plasticity	chr9	154601573	chr9	160727370	Phe1
+Node number below ear Linear plasticity	chr10	12960167	chr10	12893438	Phe1
+Node number below ear Linear plasticity	chr10	23981120	chr10	24296995	Phe1
+Node number below ear Linear plasticity	chr10	140408295	chr10	143185163	Phe1
+Plant height Linear plasticity	chr1	47993159	chr1	47831647	Phe1
+Plant height Linear plasticity	chr1	120155265	chr1	121985585	Phe1
+Plant height Linear plasticity	chr3	149711055	chr3	151740516	Phe1
+Plant height Linear plasticity	chr3	189304350	chr3	194298230	Phe1
+Plant height Linear plasticity	chr3	190967313	chr3	195974042	Phe1
+Plant height Linear plasticity	chr3	191403888	chr3	196410690	Phe1
+Plant height Linear plasticity	chr4	10734760	chr4	11791099	Phe1
+Plant height Linear plasticity	chr4	32934964	chr4	34865073	Phe1
+Plant height Linear plasticity	chr4	160006836	chr4	165119001	Phe1
+Plant height Linear plasticity	chr5	215343458	chr5	223686634	Phe1
+Plant height Linear plasticity	chr6	104381729	chr6	114543060	Phe1
+Plant height Linear plasticity	chr6	166300587	chr6	177589475	Phe1
+Plant height Linear plasticity	chr7	12576742	chr7	12845554	Phe1
+Plant height Linear plasticity	chr7	21593760	chr7	22463234	Phe1
+Plant height Linear plasticity	chr10	27391433	chr10	27813039	Phe1
+Plant height Linear plasticity	chr10	116699589	chr10	119255592	Phe1
+Tassel branch number Linear plasticity	chr1	44751750	chr1	44557102	Phe1
+Tassel branch number Linear plasticity	chr1	68115203	chr1	68559304	Phe1
+Tassel branch number Linear plasticity	chr1	152093584	chr1	155870932	Phe1
+Tassel branch number Linear plasticity	chr1	217804645			Phe1
+Tassel branch number Linear plasticity	chr1	267183172	chr1	273689235	Phe1
+Tassel branch number Linear plasticity	chr2	14238703	chr2	14930557	Phe1
+Tassel branch number Linear plasticity	chr2	186049960	chr2	190530650	Phe1
+Tassel branch number Linear plasticity	chr3	21229545	chr3	21268820	Phe1
+Tassel branch number Linear plasticity	chr3	48978590	chr3	49407665	Phe1
+Tassel branch number Linear plasticity	chr3	168524855	chr3	173079733	Phe1
+Tassel branch number Linear plasticity	chr3	178150332	chr3	183112469	Phe1
+Tassel branch number Linear plasticity	chr3	184327061	chr3	189402020	Phe1
+Tassel branch number Linear plasticity	chr3	223827650	chr3	229363545	Phe1
+Tassel branch number Linear plasticity	chr4	147255055	chr4	152398901	Phe1
+Tassel branch number Linear plasticity	chr4	160010189	chr4	165122354	Phe1
+Tassel branch number Linear plasticity	chr4	177614269	chr4	182581207	Phe1
+Tassel branch number Linear plasticity	chr4	196424467	chr4	202389477	Phe1
+Tassel branch number Linear plasticity	chr4	196434684	chr4	202399693	Phe1
+Tassel branch number Linear plasticity	chr4	206154554	chr4	212276199	Phe1
+Tassel branch number Linear plasticity	chr4	206154626	chr4	212276271	Phe1
+Tassel branch number Linear plasticity	chr4	212409407	chr4	218803882	Phe1
+Tassel branch number Linear plasticity	chr4	240229151	chr4	248381847	Phe1
+Tassel branch number Linear plasticity	chr5	3086341	chr5	3393388	Phe1
+Tassel branch number Linear plasticity	chr5	31119422	chr5	32426107	Phe1
+Tassel branch number Linear plasticity	chr5	57741341	chr5	59526572	Phe1
+Tassel branch number Linear plasticity	chr5	167319596	chr5	170536645	Phe1
+Tassel branch number Linear plasticity	chr5	197083208	chr5	205005774	Phe1
+Tassel branch number Linear plasticity	chr5	206686671	chr5	214931967	Phe1
+Tassel branch number Linear plasticity	chr6	22063856	chr6	29681011	Phe1
+Tassel branch number Linear plasticity	chr6	112705622	chr6	123312394	Phe1
+Tassel branch number Linear plasticity	chr6	128601365	chr6	139239345	Phe1
+Tassel branch number Linear plasticity	chr6	152708242	chr6	163688014	Phe1
+Tassel branch number Linear plasticity	chr7	96680657	chr7	101146626	Phe1
+Tassel branch number Linear plasticity	chr7	108627739	chr7	113153220	Phe1
+Tassel branch number Linear plasticity	chr7	127922276	chr7	133216131	Phe1
+Tassel branch number Linear plasticity	chr7	137319324	chr7	142010733	Phe1
+Tassel branch number Linear plasticity	chr8	95160762	chr8	97382918	Phe1
+Tassel branch number Linear plasticity	chr8	102323943	chr8	104900731	Phe1
+Tassel branch number Linear plasticity	chr8	102344226	chr8	104985261	Phe1
+Tassel branch number Linear plasticity	chr8	113063067	chr8	116072796	Phe1
+Tassel branch number Linear plasticity	chr8	159944462	chr8	166619726	Phe1
+Tassel branch number Linear plasticity	chr9	6225607	chr9	7531041	Phe1
+Tassel branch number Linear plasticity	chr9	129766471	chr9	135308071	Phe1
+Tassel branch number Linear plasticity	chr9	130735318	chr9	136280377	Phe1
+Tassel branch number Linear plasticity	chr9	150978358	chr9	157174720	Phe1
+Tassel branch number Linear plasticity	chr9	154868516	chr9	160998183	Phe1
+Tassel branch number Linear plasticity	chr10	9376029	chr10	9199793	Phe1
+Tassel branch number Linear plasticity	chr10	145309570	chr10	148101820	Phe1
+ATI BLUP	chr7	1891484	chr7	1983152	Phe2
+ATI HeB	chr4	36588330	chr4	38577991	Phe2
+ATI HN	chr1	96226467	chr1	97608743	Phe2
+ATI JL	chr7	1891484	chr7	1983152	Phe2
+CW BLUP	chr5	162551656	chr5	165755939	Phe2
+CW CV	chr5	28811796	chr5	30326466	Phe2
+DIFF ATI LN ATI BJ	chr9	147925788	chr9	154046527	Phe2
+DIFF ATI LN ATI HeB	chr4	36588330	chr4	38577991	Phe2
+DIFF CW HeB CW HN	chr9	4398292	chr9	5690858	Phe2
+DIFF DTA BJ DTA HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTA HeB DTA HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTA JL DTA BJ	chr8	138449079	chr8	142619121	Phe2
+DIFF DTA JL DTA HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTA JL DTA LN	chr8	128225329	chr8	132284018	Phe2
+DIFF DTA LN DTA HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTS BJ DTS HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTS HeB DTS HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTS JL DTS HN	chr9	35126793	chr9	37486239	Phe2
+DIFF DTS LN DTS HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTT BJ DTT HeB	chr1	52632836	chr1	52759510	Phe2
+DIFF DTT BJ DTT HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTT HeB DTT HN	chr5	6462711	chr5	6912549	Phe2
+DIFF DTT JL DTT BJ	chr8	138449079	chr8	142619121	Phe2
+DIFF DTT JL DTT HeB	chr3	155584756	chr3	157782595	Phe2
+DIFF DTT JL DTT HN	chr8	123466986	chr8	127139243	Phe2
+DIFF DTT JL DTT LN	chr8	129632785	chr8	133732242	Phe2
+DIFF DTT LN DTT HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ED HeB ED HN	chr1	45923208	chr1	45756072	Phe2
+DIFF ED JL ED BJ	chr1	203486174	chr1	208081453	Phe2
+DIFF ED JL ED HN	chr1	200761110	chr1	205101819	Phe2
+DIFF ED LN ED HN	chr10	137315660	chr10	139946975	Phe2
+DIFF EH BJ EH HN	chr5	6923292	chr5	7371731	Phe2
+DIFF EH HeB EH HN	chr1	209907029	chr1	214684166	Phe2
+DIFF EH JL EH HN	chr8	119700172	chr8	122906519	Phe2
+DIFF EH LN EH HN	chr5	6923292	chr5	7371731	Phe2
+DIFF EL BJ EL HN	chr5	6462711	chr5	6912549	Phe2
+DIFF EL HeB EL HN	chr5	6462711	chr5	6912549	Phe2
+DIFF EL JL EL HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ELL BJ ELL HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ELL HeB ELL HN	chr2	161028088	chr2	164853313	Phe2
+DIFF ELL LN ELL BJ	chr9	105343658	chr9	109670430	Phe2
+DIFF ELW BJ ELW HN	chr5	6678691	chr5	7117113	Phe2
+DIFF ELW HeB ELW HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ELW JL ELW HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ELW LN ELW HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ERN BJ ERN HeB	chr5	158840058	chr5	161966789	Phe2
+DIFF ERN HeB ERN HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ERN JL ERN HeB	chr5	194939134	chr5	199179009	Phe2
+DIFF ERN JL ERN HN	chr1	297339507	chr1	304215399	Phe2
+DIFF ERN JL ERN LN	chr4	191168836	chr4	197103794	Phe2
+DIFF ERN LN ERN HN	chr3	62021355	chr3	62599712	Phe2
+DIFF EW HeB EW HN	chr5	6697633	chr5	7136061	Phe2
+DIFF EW LN EW HN	chr1	244958804	chr1	250693392	Phe2
+DIFF KNPE JL KNPE BJ	chr1	118642346	chr1	120431510	Phe2
+DIFF KNPE LN KNPE HN	chr7	168616221	chr7	177589228	Phe2
+DIFF KNPR HeB KNPR HN	chr5	211708369	chr5	220006752	Phe2
+DIFF KNPR JL KNPR BJ	chr1	196580827	chr1	200885255	Phe2
+DIFF KNPR JL KNPR HeB	chr10	133753267	chr10	136326922	Phe2
+DIFF KNPR JL KNPR HN	chr1	206412144	chr1	211007826	Phe2
+DIFF KNPR JL KNPR LN	chr1	206412144	chr1	211007826	Phe2
+DIFF KNPR LN KNPR HeB	chr10	133753267	chr10	136326922	Phe2
+DIFF LBT JL LBT BJ	chr10	108429724	chr10	110718557	Phe2
+DIFF LBT LN LBT BJ	chr10	100406355	chr10	102601023	Phe2
+DIFF LBT LN LBT HeB	chr2	219893172	chr2	225951864	Phe2
+DIFF LNAE BJ LNAE HN	chr5	6462711	chr5	6912549	Phe2
+DIFF LNAE JL LNAE BJ	chr8	123299533	chr8	126948377	Phe2
+DIFF LNAE JL LNAE LN	chr6	84806571	chr6	94324392	Phe2
+DIFF LNAE LN LNAE HN	chr9	27188059	chr9	29218248	Phe2
+DIFF LNBE JL LNBE BJ	chr1	198009752	chr1	202328635	Phe2
+DIFF LNBE LN LNBE HeB	chr4	65486132	chr4	68175287	Phe2
+DIFF PH BJ PH HeB	chr1	69579782	chr1	70112912	Phe2
+DIFF PH BJ PH HN	chr5	6923292	chr5	7371731	Phe2
+DIFF PH HeB PH HN	chr1	81251175	chr1	82037401	Phe2
+DIFF PH JL PH HN	chr1	81251175	chr1	82037401	Phe2
+DIFF PH LN PH BJ	chr1	127366379	chr1	129565484	Phe2
+DIFF PH LN PH HeB	chr5	52828217	chr5	54555759	Phe2
+DIFF PH LN PH HN	chr1	81251175	chr1	82037401	Phe2
+DIFF SAI JL SAI HN	chr1	200658412	chr1	204999565	Phe2
+DIFF TBN BJ TBN HN	chr5	6462711	chr5	6912549	Phe2
+DIFF TL HeB TL HN	chr2	220748511	chr2	226831438	Phe2
+DIFF TL JL TL HN	chr8	130143449	chr8	134211979	Phe2
+DTA BJ	chr8	123042682	chr8	126690983	Phe2
+DTA BLUP	chr2	536576	chr2	805524	Phe2
+DTA CV	chr9	40308692	chr9	42775194	Phe2
+DTA HN	chr1	236972584	chr1	242419351	Phe2
+DTA JL	chr1	291938209	chr1	298872449	Phe2
+DTA LN	chr8	123992261	chr8	127639491	Phe2
+DTA PC2	chr5	6462711	chr5	6912549	Phe2
+DTS BLUP	chr2	536576	chr2	805524	Phe2
+DTS CV	chr9	40308692	chr9	42775194	Phe2
+DTS HN	chr5	6862985	chr5	7311688	Phe2
+DTS PC2	chr9	42760719	chr9	45274176	Phe2
+DTT BJ	chr8	123042682	chr8	126690983	Phe2
+DTT BLUP	chr2	536576	chr2	805524	Phe2
+DTT CV	chr9	40308692	chr9	42775194	Phe2
+DTT HeB	chr2	560731	chr2	829677	Phe2
+DTT HN	chr5	6382800	chr5	6828804	Phe2
+DTT JL	chr2	57579434	chr2	58889449	Phe2
+DTT LN	chr3	158690795			Phe2
+DTT PC2	chr1	28704419	chr1	28650342	Phe2
+DTT VarR	chr3	188296750	chr3	193293170	Phe2
+ED CV	chr2	230663451	chr2	236343587	Phe2
+ED HN	chr5	6462711	chr5	6912549	Phe2
+ED LN	chr5	111859226	chr5	114222722	Phe2
+ED PC2	chr1	200761110	chr1	205101819	Phe2
+EH BJ	chr8	123103106	chr8	126741177	Phe2
+EH BLUP	chr8	123103106	chr8	126741177	Phe2
+EH HeB	chr8	130423169	chr8	134488513	Phe2
+EH JL	chr3	158690795			Phe2
+EH PC2	chr5	6923292	chr5	7371731	Phe2
+EL CV	chr1	171323429	chr1	175363291	Phe2
+ELL HN	chr6	54425491	chr6	63543434	Phe2
+ELW BJ	chr4	3396241	chr4	4197543	Phe2
+ELW BLUP	chr4	3396241	chr4	4197543	Phe2
+ELW CV	chr3	4781764	chr3	4857704	Phe2
+ELW HeB	chr4	3396241	chr4	4197543	Phe2
+ELW HN	chr4	3396241	chr4	4197543	Phe2
+ELW JL	chr4	3396241	chr4	4197543	Phe2
+ELW LN	chr4	11237213	chr4	12276254	Phe2
+ERN BJ	chr4	196544496	chr4	202480452	Phe2
+ERN BLUP	chr4	199393222	chr4	205346236	Phe2
+ERN HN	chr4	202049859	chr4	208000398	Phe2
+ERN LN	chr3	6160610	chr3	6103508	Phe2
+ERN VarR	chr1	72093610	chr1	72617584	Phe2
+EW BLUP	chr1	8092876	chr1	8049716	Phe2
+EW HN	chr5	3503964	chr5	3736949	Phe2
+KNPE BJ	chr1	223773429	chr1	229220785	Phe2
+KNPE CV	chr10	148406705	chr10	151198857	Phe2
+KNPE PC2	chr1	201220926	chr1	205567997	Phe2
+KNPR HeB	chr10	133753267	chr10	136326922	Phe2
+KNPR HN	chr5	189869976	chr5	193909382	Phe2
+KNPR PC2	chr1	201220926	chr1	205567997	Phe2
+KNPR VarR	chr1	266530656	chr1	273024370	Phe2
+KWPE JL	chr7	143599289	chr7	149719775	Phe2
+KWPE PC2	chr7	143599289	chr7	149719775	Phe2
+LBT HN	chr4	192052156	chr4	198012710	Phe2
+LNAE CV	chr1	257818817	chr1	264304899	Phe2
+LNBE BJ	chr8	127803356	chr8	131858728	Phe2
+LNBE BLUP	chr8	123042682	chr8	126690983	Phe2
+LNBE HeB	chr2	9970953	chr2	10416884	Phe2
+LNBE HN	chr2	221640570	chr2	201020628	Phe2
+LNBE JL	chr8	123042682	chr8	126690983	Phe2
+LNBE LN	chr8	130387622	chr8	134453912	Phe2
+PH BLUP	chr1	249518351	chr1	255375582	Phe2
+PH CV	chr6	154629564	chr6	165637220	Phe2
+PH HeB	chr1	249492157	chr1	255349376	Phe2
+PH JL	chr1	249558292	chr1	255415392	Phe2
+PH PC2	chr1	81251175	chr1	82037401	Phe2
+SAI BLUP	chr8	124470964	chr8	128123348	Phe2
+SAI HN	chr9	24728153	chr9	26658451	Phe2
+SAI JL	chr8	127803356	chr8	131858728	Phe2
+SAI LN	chr10	113525974	chr10	115963718	Phe2
+STI BLUP	chr7	2034687	chr7	2125576	Phe2
+STI JL	chr7	1891484	chr7	1983152	Phe2
+TBN HeB	chr7	161281140	chr7	170336334	Phe2
+TBN LN	chr1	24219279	chr1	24366748	Phe2
+TL HeB	chr7	130370178	chr7	135685879	Phe2
+TL HN	chr3	174349159	chr3	179010011	Phe2
+TL JL	chr8	128280031	chr8	132337761	Phe2
+TL LN	chr8	123042682	chr8	126690983	Phe2
+DIFF KNPE JL KNPE BJ	chr1	196580827	chr1	200885255	Phe2
+DIFF ERN LN ERN HN	chr10	137315660	chr10	139946975	Phe2
+DIFF KNPE LN KNPE HN	chr10	137340253	chr10	139971548	Phe2
+DIFF ED HeB ED HN	chr10	88891043	chr10	90676272	Phe2
+ERN VarR	chr2	144942056	chr2	148586403	Phe2
+DIFF ELL HeB ELL HN	chr2	51111304	chr2	52404689	Phe2
+DIFF EH HeB EH HN	chr2	8389003	chr2	8826593	Phe2
+ERN BLUP	chr3	6160610	chr3	6103508	Phe2
+DIFF LBT LN LBT BJ	chr4	227331950	chr4	235231607	Phe2
+ELW LN	chr4	3396241	chr4	4197543	Phe2
+ERN BJ	chr5	148236189	chr5	151027343	Phe2
+DIFF PH LN PH BJ	chr5	162599473	chr5	165771463	Phe2
+ED CV	chr5	590780	chr5	901224	Phe2
+EL CV	chr5	6163288	chr5	6603318	Phe2
+DIFF DTT JL DTT HN	chr5	6462711	chr5	6912549	Phe2
+DTA HN	chr5	6462711	chr5	6912549	Phe2
+PH PC2	chr5	6462711	chr5	6912549	Phe2
+DIFF KNPR HeB KNPR HN	chr5	6462711	chr5	6912549	Phe2
+DIFF PH HeB PH HN	chr5	6462711	chr5	6912549	Phe2
+DIFF PH LN PH HN	chr5	6462711	chr5	6912549	Phe2
+DIFF TL HeB TL HN	chr5	6462711	chr5	6912549	Phe2
+ELW CV	chr5	6462711	chr5	6912549	Phe2
+ELW HN	chr5	6462711	chr5	6912549	Phe2
+DIFF PH JL PH HN	chr5	6470873	chr5	6928303	Phe2
+DIFF EH JL EH HN	chr5	6923292	chr5	7371731	Phe2
+DTT PC2	chr6	107003181	chr6	118451016	Phe2
+DIFF ERN HeB ERN HN	chr6	156143860	chr6	167402928	Phe2
+CW CV	chr7	1925852	chr7	2017512	Phe2
+DTT HN	chr7	2223917	chr7	2295458	Phe2
+DIFF PH BJ PH HeB	chr7	54412426	chr7	55682008	Phe2
+EH JL	chr8	121424458	chr8	124778947	Phe2
+DTA BLUP	chr8	123042682	chr8	126690983	Phe2
+DTT BLUP	chr8	123042682	chr8	126690983	Phe2
+DTT JL	chr8	123042682	chr8	126690983	Phe2
+DTT LN	chr8	123042682	chr8	126690983	Phe2
+LNBE HeB	chr8	123042682	chr8	126690983	Phe2
+STI JL	chr8	123042682	chr8	126690983	Phe2
+DIFF DTA JL DTA HN	chr8	127803356	chr8	131858728	Phe2
+DTA JL	chr8	127803356	chr8	131858728	Phe2
+DTT BJ	chr8	130387622	chr8	134453912	Phe2
+DIFF DTT JL DTT HeB	chr8	138449079	chr8	142619121	Phe2
+EW HN	chr8	5226151	chr8	5571961	Phe2
+ED HN	chr9	106357154	chr9	110510223	Phe2
+DIFF ERN JL ERN HeB	chr9	155766140	chr9	161802982	Phe2
+DIFF DTA BJ DTA HN	chr9	35126793	chr9	37486239	Phe2
+DIFF DTS BJ DTS HN	chr9	35126793	chr9	37486239	Phe2
+DIFF DTT BJ DTT HN	chr9	35126793	chr9	37486239	Phe2
+DIFF DTT LN DTT HN	chr9	35126793	chr9	37486239	Phe2
+DTA PC2	chr9	35126793	chr9	37486239	Phe2
+DIFF LNAE LN LNAE HN	chr9	44914637	chr9	47549290	Phe2
+DIFF LNAE LN LNAE HN	chr9	60492856	chr9	72754935	Phe2
+DIFF DTT JL DTT HN	chr9	35126793	chr9	37486239	Phe2
+DIFF DTA JL DTA HN	chr9	35126793	chr9	37486239	Phe2
+DTA HN	chr7	1778946	chr7	1875514	Phe2
+PH PC2	chr6	154629564	chr6	165637220	Phe2
+DIFF ERN LN ERN HN	chr5	6462711	chr5	6912549	Phe2
+DIFF ELL HeB ELL HN	chr5	6462711	chr5	6912549	Phe2
+DTT PC2	chr5	6462711	chr5	6912549	Phe2
+DIFF EH HeB EH HN	chr4	66594763	chr4	69292257	Phe2
+ERN BJ	chr4	240186622	chr4	248339560	Phe2
+DIFF ERN JL ERN HeB	chr4	240186622	chr4	248339560	Phe2
+DIFF ED HeB ED HN	chr4	134320521	chr4	139425429	Phe2
+ERN BLUP	chr4	133813831	chr4	138807364	Phe2
+ERN VarR	chr2	209347252	chr2	215568301	Phe2
+DIFF LNAE LN LNAE HN	chr9	76447087	chr9	80623419	Phe2
+DTT PC2	chr9	35126793	chr9	37486239	Phe2
+DIFF ED HeB ED HN	chr8	131197231	chr8	135270649	Phe2
+ERN VarR	chr5	90011385	chr5	91965883	Phe2
+DIFF EH HeB EH HN	chr5	6470873	chr5	6928303	Phe2
+DIFF ED HeB ED HN	chr9	4398292	chr9	5690858	Phe2
+ERN VarR	chr7	10838575	chr7	10990544	Phe2
+ERN VarR	chr7	47742925	chr7	48899195	Phe2
+ERN VarR	chr9	8153562	chr9	9445566	Phe2
+ERN VarR	chr10	113150284	chr10	115494554	Phe2
+ATI	chr1	236070155	chr1	241568955	Phe3
+ATI	chr1	247996435	chr1	253982092	Phe3
+ATI	chr1	289654188	chr1	296591869	Phe3
+ATI	chr2	120250926	chr2	123574597	Phe3
+ATI	chr2	155255606	chr2	159181689	Phe3
+ATI	chr2	207618632	chr2	213810603	Phe3
+ATI	chr2	216976254	chr2	223051247	Phe3
+ATI	chr5	9341244	chr5	9854998	Phe3
+ATI	chr7	1891556	chr7	1983224	Phe3
+ATI	chr7	134210647	chr7	139569284	Phe3
+ATI	chr8	116383933	chr8	119468718	Phe3
+ATI	chr8	123138153	chr8	126775469	Phe3
+ATI	chr8	129908088	chr8	133970770	Phe3
+ATI	chr8	136023555	chr8	140097475	Phe3
+ATI	chr8	144811987	chr8	149080552	Phe3
+CW	chr1	281700345	chr1	288414057	Phe3
+CW	chr3	156347926	chr3	158616694	Phe3
+CW	chr3	173511647	chr3	178165838	Phe3
+CW	chr4	90606244	chr4	94123933	Phe3
+CW	chr5	2762159	chr5	3078749	Phe3
+CW	chr5	5113826	chr5	5421073	Phe3
+CW	chr6	81936760	chr6	91403054	Phe3
+CW	chr7	176716305	chr7	185703177	Phe3
+CW	chr9	1615721	chr9	2974460	Phe3
+CW	chr10	83744232	chr10	85388608	Phe3
+DTA	chr1	8022957	chr1	7979101	Phe3
+DTA	chr1	20223355	chr1	20393111	Phe3
+DTA	chr1	90011933	chr1	91166413	Phe3
+DTA	chr1	291938327	chr1	298872567	Phe3
+DTA	chr2	14839988	chr2	15515664	Phe3
+DTA	chr2	72704452	chr2	74415121	Phe3
+DTA	chr2	216046370	chr2	222181760	Phe3
+DTA	chr2	218550880	chr2	224644290	Phe3
+DTA	chr2	220529764			Phe3
+DTA	chr3	158779624	chr3	160956855	Phe3
+DTA	chr3	165170522	chr3	169799840	Phe3
+DTA	chr3	196909121	chr3	202001054	Phe3
+DTA	chr4	192447118	chr4	198425632	Phe3
+DTA	chr5	5212491	chr5	5519716	Phe3
+DTA	chr5	6811447	chr5	7273071	Phe3
+DTA	chr5	161123395	chr5	164259065	Phe3
+DTA	chr6	160236735	chr6	171520872	Phe3
+DTA	chr8	119846233	chr8	123083466	Phe3
+DTA	chr8	123041391	chr8	126689692	Phe3
+DTA	chr8	129938413	chr8	134011471	Phe3
+DTA	chr9	5636564	chr9	6953854	Phe3
+DTA	chr10	29220606	chr10	29661117	Phe3
+DTS	chr1	95198655	chr1	96541727	Phe3
+DTS	chr1	221248144	chr1	226131628	Phe3
+DTS	chr2	215797970	chr2	221935349	Phe3
+DTS	chr3	192736471	chr3	197757583	Phe3
+DTS	chr3	229987829	chr3	235697187	Phe3
+DTS	chr4	126948233	chr4	131853504	Phe3
+DTS	chr4	137936706	chr4	143015082	Phe3
+DTS	chr4	191998917	chr4	197959570	Phe3
+DTS	chr5	95126143	chr5	97279062	Phe3
+DTS	chr5	150229764	chr5	153227496	Phe3
+DTS	chr8	123040078	chr8	126688379	Phe3
+DTS	chr10	15399793	chr10	15486449	Phe3
+DTS	chr10	29069728	chr10	29509847	Phe3
+DTT	chr1	21392809	chr1	21547466	Phe3
+DTT	chr1	87800804	chr1	88866175	Phe3
+DTT	chr1	95238834	chr1	96579587	Phe3
+DTT	chr1	143066475	chr1	146502902	Phe3
+DTT	chr2	72707592	chr2	74418261	Phe3
+DTT	chr2	212135578	chr2	218263152	Phe3
+DTT	chr2	216147720	chr2	222280359	Phe3
+DTT	chr2	220581468	chr2	226672779	Phe3
+DTT	chr3	158977080	chr3	161126951	Phe3
+DTT	chr3	201169071	chr3	206342669	Phe3
+DTT	chr4	192447118	chr4	198425632	Phe3
+DTT	chr5	6447321	chr5	6897159	Phe3
+DTT	chr5	161123395	chr5	164259065	Phe3
+DTT	chr8	119763546	chr8	122999286	Phe3
+DTT	chr8	123041457	chr8	126689758	Phe3
+DTT	chr8	133370310	chr8	137382478	Phe3
+DTT	chr9	5636564	chr9	6953854	Phe3
+DTT	chr10	7161962			Phe3
+DTT	chr10	28647179	chr10	29091638	Phe3
+ED	chr1	187126414	chr1	191290127	Phe3
+ED	chr4	197329933	chr4	203321203	Phe3
+ED	chr5	184700044	chr5	188351640	Phe3
+EH	chr1	4350070	chr1	4450446	Phe3
+EH	chr1	7395467	chr1	7341326	Phe3
+EH	chr1	62144737			Phe3
+EH	chr1	95198655	chr1	96541727	Phe3
+EH	chr1	196709762	chr1	201027649	Phe3
+EH	chr1	199927261	chr1	204239588	Phe3
+EH	chr1	202905796	chr1	207405592	Phe3
+EH	chr1	208861916	chr1	213592824	Phe3
+EH	chr1	237637995	chr1	243051982	Phe3
+EH	chr1	248797017	chr1	254730403	Phe3
+EH	chr2	31390402	chr2	32312109	Phe3
+EH	chr2	216252318	chr8	125686549	Phe3
+EH	chr3	121750805	chr3	123100722	Phe3
+EH	chr3	159902111	chr3	162046103	Phe3
+EH	chr3	161743251	chr3	163891665	Phe3
+EH	chr3	166728405	chr3	171374121	Phe3
+EH	chr6	69592478	chr6	78849483	Phe3
+EH	chr6	95458118	chr6	105093382	Phe3
+EH	chr6	95789158	chr6	105437495	Phe3
+EH	chr6	128602349	chr6	139240329	Phe3
+EH	chr7	121230453	chr7	126556744	Phe3
+EH	chr8	89926207	chr8	92263352	Phe3
+EH	chr8	130423169	chr8	134488513	Phe3
+EH	chr9	5636564	chr9	6953854	Phe3
+EH	chr9	14157502	chr9	15723155	Phe3
+EL	chr1	6225854	chr1	6261684	Phe3
+EL	chr1	27917537	chr1	27860989	Phe3
+EL	chr1	51463956	chr1	51367883	Phe3
+EL	chr2	15505342	chr2	16129808	Phe3
+EL	chr2	35978037	chr2	36872271	Phe3
+EL	chr2	58277135	chr2	59681146	Phe3
+EL	chr3	197459099	chr3	202567316	Phe3
+EL	chr3	202843854	chr3	208098224	Phe3
+EL	chr3	221621278	chr3	227152356	Phe3
+EL	chr5	3780140	chr5	4070044	Phe3
+EL	chr5	179243681	chr5	182726232	Phe3
+EL	chr7	144141055	chr7	150243373	Phe3
+EL	chr8	118057264	chr8	121231559	Phe3
+EL	chr8	142145540	chr8	146333744	Phe3
+EL	chr8	172754104	chr8	179775763	Phe3
+EL	chr9	151073637	chr9	157264290	Phe3
+EL	chr10	69613466	chr10	70620903	Phe3
+EL	chr10	95970822	chr10	97984847	Phe3
+EL	chr10	116992539	chr10	119552504	Phe3
+ELL	chr1	6826232	chr1	6774348	Phe3
+ELL	chr1	210175974	chr1	214948670	Phe3
+ELL	chr1	253090525	chr1	259233020	Phe3
+ELL	chr1	274156822	chr1	280696177	Phe3
+ELL	chr1	278732890	chr1	285401189	Phe3
+ELL	chr1	287096354	chr1	293834106	Phe3
+ELL	chr2	16006672	chr2	16624141	Phe3
+ELL	chr2	17969230	chr2	18767953	Phe3
+ELL	chr2	30915529	chr2	31907857	Phe3
+ELL	chr2	56355474	chr2	57691959	Phe3
+ELL	chr2	165618693	chr2	169450896	Phe3
+ELL	chr2	211958753	chr2	218081261	Phe3
+ELL	chr4	3396264	chr4	4197566	Phe3
+ELL	chr4	16030051	chr4	17344177	Phe3
+ELL	chr4	28947235	chr4	30855988	Phe3
+ELL	chr5	205611395	chr5	213774352	Phe3
+ELL	chr7	18662334	chr7	19176934	Phe3
+ELL	chr7	128011387	chr7	133322178	Phe3
+ELL	chr8	112597958	chr8	115623581	Phe3
+ELL	chr9	4309731	chr9	5600755	Phe3
+ELW	chr1	15741046	chr1	15871369	Phe3
+ELW	chr1	21256477	chr1	21410967	Phe3
+ELW	chr1	251503801	chr1	257611248	Phe3
+ELW	chr1	281173575	chr1	287894991	Phe3
+ELW	chr2	4902366	chr2	5130718	Phe3
+ELW	chr3	7218193	chr3	7153300	Phe3
+ELW	chr4	3396241	chr4	4197543	Phe3
+ELW	chr4	5161454	chr4	6151117	Phe3
+ELW	chr4	10956180	chr4	12013029	Phe3
+ELW	chr4	202845004	chr4	208774323	Phe3
+ELW	chr4	216582583	chr4	223048816	Phe3
+ELW	chr5	5198381	chr5	5505606	Phe3
+ELW	chr5	178881419	chr5	182412886	Phe3
+ELW	chr5	201928588	chr5	209913195	Phe3
+ELW	chr7	8068943	chr7	8239411	Phe3
+ELW	chr8	6063050	chr8	6428789	Phe3
+ELW	chr8	71524646	chr8	73330870	Phe3
+ELW	chr8	90476813	chr8	92789901	Phe3
+ELW	chr9	142898900	chr9	148768977	Phe3
+ELW	chr9	147167691	chr9	153287386	Phe3
+ERN	chr1	274342796			Phe3
+ERN	chr3	5986383	chr3	5927125	Phe3
+ERN	chr3	12884363	chr3	12825631	Phe3
+ERN	chr3	188892826	chr3	193888616	Phe3
+ERN	chr4	45148136	chr4	47284316	Phe3
+ERN	chr4	154715087	chr4	160056143	Phe3
+ERN	chr4	162926377	chr4	168022956	Phe3
+ERN	chr4	202031604	chr4	208018653	Phe3
+ERN	chr4	234671488	chr4	242663962	Phe3
+ERN	chr5	12406637	chr5	12940797	Phe3
+ERN	chr5	132286889	chr5	135043264	Phe3
+ERN	chr6	10831080	chr4	221555349	Phe3
+ERN	chr6	117235887	chr6	127959203	Phe3
+ERN	chr7	3455634	chr7	3567452	Phe3
+ERN	chr9	24902839	chr4	206401197	Phe3
+ERN	chr10	140508956	chr10	143257855	Phe3
+ERN	chr10	145627772	chr10	148422411	Phe3
+EW	chr2	21030757	chr2	21850070	Phe3
+EW	chr2	24328915	chr2	25145418	Phe3
+EW	chr5	2762159	chr5	3078749	Phe3
+EW	chr5	4157104	chr5	4441712	Phe3
+EW	chr5	5113287	chr5	5420534	Phe3
+KNPE	chr4	202399662	chr4	208312789	Phe3
+KNPE	chr5	12042879	chr5	12640181	Phe3
+KNPR	chr2	35978037	chr2	36872271	Phe3
+KNPR	chr2	59429713	chr2	60813246	Phe3
+KNPR	chr2	73371418	chr2	75113519	Phe3
+KNPR	chr3	204545884	chr3	209815336	Phe3
+KNPR	chr4	1296241	chr4	1864507	Phe3
+KNPR	chr5	176932851	chr5	180204926	Phe3
+KNPR	chr5	205392244	chr5	213567938	Phe3
+KNPR	chr6	81865698	chr6	91333069	Phe3
+KNPR	chr6	85324996	chr10	83746042	Phe3
+KNPR	chr10	90129350	chr10	91949446	Phe3
+KWPE	chr2	21028719	chr2	21848033	Phe3
+KWPE	chr2	237073756	chr2	241869851	Phe3
+KWPE	chr5	3406447	chr5	3666899	Phe3
+KWPE	chr5	5433301	chr5	5740227	Phe3
+LBT	chr5	181534209	chr5	185211238	Phe3
+LNAE	chr1	22439007	chr1	22651201	Phe3
+LNAE	chr1	37949245	chr1	37917766	Phe3
+LNAE	chr1	40157867	chr1	40103950	Phe3
+LNAE	chr1	56306946	chr1	56424421	Phe3
+LNAE	chr1	72232586	chr1	72828279	Phe3
+LNAE	chr1	107601361	chr1	109178707	Phe3
+LNAE	chr1	178512261	chr1	182564943	Phe3
+LNAE	chr1	182111292	chr1	186156783	Phe3
+LNAE	chr1	196718983	chr1	201036862	Phe3
+LNAE	chr1	206643741	chr1	211342788	Phe3
+LNAE	chr1	286228295	chr1	292967515	Phe3
+LNAE	chr2	1913387	chr2	2179485	Phe3
+LNAE	chr2	23254291	chr2	24091958	Phe3
+LNAE	chr2	155033184	chr2	158946826	Phe3
+LNAE	chr3	200482906	chr3	205641234	Phe3
+LNAE	chr3	225913263	chr3	231527021	Phe3
+LNAE	chr4	237435742	chr4	245481407	Phe3
+LNAE	chr5	6872877	chr5	7321325	Phe3
+LNAE	chr5	210198320	chr5	218519105	Phe3
+LNAE	chr6	166182948	chr6	177462226	Phe3
+LNAE	chr7	201110	chr7	545399	Phe3
+LNAE	chr7	175820511	chr7	184755846	Phe3
+LNAE	chr8	28512299	chr8	29285263	Phe3
+LNAE	chr8	136490298	chr8	140574915	Phe3
+LNAE	chr9	10128439	chr9	11457732	Phe3
+LNAE	chr9	34736718	chr9	37051573	Phe3
+LNAE	chr9	47658643	chr9	50384764	Phe3
+LNAE	chr9	50543215	chr9	53346709	Phe3
+LNAE	chr9	66674658	chr9	66406200	Phe3
+LNBE	chr1	64836408	chr1	64989507	Phe3
+LNBE	chr1	66813486	chr1	66073829	Phe3
+LNBE	chr1	95198655	chr1	96541727	Phe3
+LNBE	chr1	242627395	chr1	248243612	Phe3
+LNBE	chr1	263066185	chr1	269699550	Phe3
+LNBE	chr2	31386462	chr2	32308170	Phe3
+LNBE	chr2	115944547	chr2	118641976	Phe3
+LNBE	chr2	216252318	chr8	125686549	Phe3
+LNBE	chr3	150104137	chr3	152102745	Phe3
+LNBE	chr4	143726203	chr4	148848785	Phe3
+LNBE	chr4	179391713	chr4	184334875	Phe3
+LNBE	chr5	53434099	chr5	55188463	Phe3
+LNBE	chr6	108503110	chr6	119951032	Phe3
+LNBE	chr7	17735309	chr7	18218597	Phe3
+LNBE	chr7	121232560	chr7	126558850	Phe3
+LNBE	chr7	124249623	chr7	129639557	Phe3
+LNBE	chr8	101748661	chr8	104238758	Phe3
+LNBE	chr8	102581702	chr8	105159194	Phe3
+LNBE	chr8	129908088	chr8	133970770	Phe3
+LNBE	chr8	141345720	chr8	145513959	Phe3
+LNBE	chr8	157565326	chr8	164218205	Phe3
+LNBE	chr9	5636508	chr9	6953798	Phe3
+LNBE	chr9	62257054	chr9	70981642	Phe3
+PH	chr1	7967850	chr1	7929745	Phe3
+PH	chr1	32159758	chr1	32122158	Phe3
+PH	chr1	45095717	chr1	44885662	Phe3
+PH	chr1	66517623	chr1	66370738	Phe3
+PH	chr1	211205102	chr1	215997133	Phe3
+PH	chr1	248796914	chr1	254730300	Phe3
+PH	chr1	292402539	chr1	299337943	Phe3
+PH	chr2	30919276	chr2	31904110	Phe3
+PH	chr2	104308069	chr2	106796611	Phe3
+PH	chr3	153895209	chr3	155999868	Phe3
+PH	chr4	198315633	chr4	204254690	Phe3
+PH	chr5	156946316	chr5	160128918	Phe3
+PH	chr5	189962276	chr5	194006795	Phe3
+PH	chr6	71357373	chr6	80581733	Phe3
+PH	chr6	96700419	chr6	106437584	Phe3
+PH	chr6	112781327	chr6	123381890	Phe3
+PH	chr7	120236860	chr7	125430311	Phe3
+PH	chr8	134211257	chr8	138229076	Phe3
+PH	chr9	14158945	chr9	15724598	Phe3
+SAI	chr2	205354833	chr2	211282311	Phe3
+SAI	chr2	220065901	chr2	226122685	Phe3
+SAI	chr2	221591141	chr2	201070056	Phe3
+SAI	chr5	3662930	chr5	3952828	Phe3
+SAI	chr7	121302477	chr7	126626360	Phe3
+SAI	chr7	126329787	chr7	131619774	Phe3
+SAI	chr7	130998478	chr7	136296134	Phe3
+SAI	chr8	122004197	chr8	125392479	Phe3
+SAI	chr10	10648104	chr10	10516538	Phe3
+SAI	chr10	137692088	chr10	140324980	Phe3
+STI	chr1	8739052	chr1	8712858	Phe3
+STI	chr1	289561180	chr1	296480186	Phe3
+STI	chr2	137397885	chr2	140779363	Phe3
+STI	chr2	158390424	chr2	162276262	Phe3
+STI	chr2	183302858	chr2	187695570	Phe3
+STI	chr2	205354833	chr2	211282311	Phe3
+STI	chr2	217285401	chr2	223346886	Phe3
+STI	chr2	221591141	chr2	201070056	Phe3
+STI	chr2	226992607	chr2	232796015	Phe3
+STI	chr5	3405375	chr5	3665827	Phe3
+STI	chr5	9341180	chr5	9854934	Phe3
+STI	chr7	2037528	chr7	2128417	Phe3
+STI	chr8	19276171	chr8	19923668	Phe3
+STI	chr8	92680691	chr8	94933342	Phe3
+STI	chr8	123042123	chr8	126690424	Phe3
+STI	chr8	129908088	chr8	133970770	Phe3
+STI	chr8	164460388	chr8	171379393	Phe3
+STI	chr10	10648104	chr10	10516538	Phe3
+STI	chr10	137692088	chr10	140324980	Phe3
+TBN	chr1	24217689	chr1	24365158	Phe3
+TBN	chr1	97409291	chr1	98781279	Phe3
+TBN	chr1	104772301	chr1	106370040	Phe3
+TBN	chr1	115416999	chr1	117069837	Phe3
+TBN	chr1	141695298	chr1	145193423	Phe3
+TBN	chr1	148442381	chr1	152154655	Phe3
+TBN	chr1	191926729	chr1	196143009	Phe3
+TBN	chr1	280406504	chr1	287154580	Phe3
+TBN	chr2	560216	chr2	829162	Phe3
+TBN	chr2	7622501	chr2	7882270	Phe3
+TBN	chr2	21063244	chr2	21882554	Phe3
+TBN	chr2	115948370	chr2	118645799	Phe3
+TBN	chr3	21932286	chr3	21983655	Phe3
+TBN	chr3	29643688	chr3	29767530	Phe3
+TBN	chr3	85666990	chr3	114682165	Phe3
+TBN	chr3	119444276	chr3	120706866	Phe3
+TBN	chr3	157808422	chr3	160005802	Phe3
+TBN	chr5	8422669	chr5	8927435	Phe3
+TBN	chr5	86191537	chr5	88212724	Phe3
+TBN	chr5	142450842	chr5	145140566	Phe3
+TBN	chr5	204490964	chr5	212489276	Phe3
+TBN	chr5	210648373	chr5	218861328	Phe3
+TBN	chr5	215568224	chr5	223911400	Phe3
+TBN	chr6	115819310	chr6	126491480	Phe3
+TBN	chr6	162532044	chr6	173844603	Phe3
+TBN	chr6	164033918	chr6	175320315	Phe3
+TBN	chr8	72659905	chr8	74529316	Phe3
+TBN	chr8	150809298	chr8	155209065	Phe3
+TBN	chr9	20447099	chr9	22287141	Phe3
+TBN	chr9	50110903	chr9	52904272	Phe3
+TBN	chr9	85907050	chr9	90255958	Phe3
+TBN	chr10	23960667	chr10	24276544	Phe3
+TL	chr1	6225000	chr1	6260830	Phe3
+TL	chr1	8936249	chr1	8913527	Phe3
+TL	chr1	14855666	chr1	14960554	Phe3
+TL	chr1	25387358	chr1	25497132	Phe3
+TL	chr1	28419252	chr1	28363686	Phe3
+TL	chr1	32159758	chr1	32122158	Phe3
+TL	chr1	158638111	chr1	162304008	Phe3
+TL	chr1	202567229	chr1	206910012	Phe3
+TL	chr1	300512391	chr1	307479680	Phe3
+TL	chr2	156891198	chr2	160835356	Phe3
+TL	chr2	172606883	chr2	176439215	Phe3
+TL	chr2	209975209	chr2	216127934	Phe3
+TL	chr4	157658326	chr4	162883916	Phe3
+TL	chr5	183379080	chr5	187075458	Phe3
+TL	chr5	205895914	chr5	214059175	Phe3
+TL	chr7	3886068	chr7	4012287	Phe3
+TL	chr7	130953550	chr7	136248312	Phe3
+TL	chr7	162841139	chr7	171882352	Phe3
+DTA	chr1	173441320	chr1	177511064	Phe4
+DTA	chr3	194106737	chr3	199133422	Phe4
+DTA	chr5	212811101	chr5	221136236	Phe4
+DTA	chr6	4405960	chr6	9668664	Phe4
+DTA	chr6	4794649	chr6	10083187	Phe4
+DTA	chr6	63704372			Phe4
+DTA	chr6	64004243	chr6	73211022	Phe4
+DTA	chr7	20744840	chr7	21474125	Phe4
+DTA	chr8	106532993	chr8	109316739	Phe4
+DTA	chr8	130415075	chr8	134480419	Phe4
+DTA	chr8	131519397	chr8	135592739	Phe4
+DTA	chr9	26561830	chr9	28558193	Phe4
+DTA	chr9	119077211	chr9	124282544	Phe4
+DTA	chr10	132473900	chr10	135032896	Phe4
+DTA	chr10	133938064	chr10	136499107	Phe4
+DTA	chr10	134334953	chr10	136928402	Phe4
+DTA	chr10	134622424	chr10	137229203	Phe4
+DTA	chr10	134855112	chr10	137456071	Phe4
+DTA	chr10	136023959	chr10	138635410	Phe4
+DTS	chr2	201450082	chr2	207374760	Phe4
+DTS	chr6	4413386	chr6	9676090	Phe4
+DTS	chr6	4583465	chr6	9879476	Phe4
+DTS	chr8	131519686	chr8	135593028	Phe4
+DTS	chr9	1583805	chr9	2942545	Phe4
+DTS	chr10	133938064	chr10	136499107	Phe4
+ASI	chr1	213632262	chr1	218473448	Phe4
+ASI	chr1	298041182	chr1	304908216	Phe4
+ASI	chr2	134779189	chr2	138070811	Phe4
+ASI	chr3	46413460	chr3	46373420	Phe4
+ASI	chr3	154088076	chr3	156193038	Phe4
+ASI	chr5	205348512	chr5	213524202	Phe4
+ASI	chr7	115170877	chr7	119869796	Phe4
+ASI	chr7	153488821	chr7	162437103	Phe4
+ASI	chr10	95897582	chr10	97898678	Phe4
+ASI	chr10	103270637	chr10	105458194	Phe4
+ASI	chr10	116889691	chr10	119443947	Phe4
+ASI	chr10	121485458	chr10	124113822	Phe4
+PH	chr3	102841618	chr3	90115066	Phe4
+PH	chr3	161941711	chr3	164088289	Phe4
+PH	chr3	165940511	chr3	170565288	Phe4
+PH	chr3	175752521	chr3	180479283	Phe4
+PH	chr4	1463072	chr4	2018242	Phe4
+PH	chr4	7561169	chr4	8560018	Phe4
+PH	chr4	133571447	chr4	138509771	Phe4
+PH	chr6	86792251	chr6	95932558	Phe4
+PH	chr6	100117192	chr6	110154732	Phe4
+PH	chr6	149040482	chr6	159952359	Phe4
+PH	chr7	129338054	chr7	134767948	Phe4
+PH	chr8	62927442	chr8	64478606	Phe4
+PH	chr9	133757866	chr9	139440493	Phe4
+EH	chr1	203645219	chr1	208240497	Phe4
+EH	chr2	149083876	chr2	152789123	Phe4
+EH	chr3	175748830	chr3	180475592	Phe4
+EH	chr3	183629806	chr3	188686550	Phe4
+EH	chr3	201616136	chr3	206791693	Phe4
+EH	chr3	211817289	chr3	217360466	Phe4
+EH	chr3	217372178	chr3	222799515	Phe4
+EH	chr5	194219986	chr5	198579952	Phe4
+EH	chr5	208724247	chr5	217021077	Phe4
+EH	chr5	212640979	chr5	220966601	Phe4
+EH	chr7	165424259	chr7	174506176	Phe4
+EH	chr8	62927442	chr8	64478606	Phe4
+EH	chr8	130384090	chr8	134450376	Phe4
+EH	chr8	139730183	chr8	143942257	Phe4
+EH	chr9	142553634	chr9	148417468	Phe4
+EH	chr9	147915020	chr9	154035759	Phe4
+EH	chr10	135194577	chr10	137775085	Phe4
+EP	chr1	25433596	chr1	25543775	Phe4
+EP	chr1	72307963	chr1	72907178	Phe4
+EP	chr1	290373500	chr1	297313918	Phe4
+EP	chr2	397909	chr2	377425	Phe4
+EP	chr3	187672651	chr3	192699046	Phe4
+EP	chr3	201616136	chr3	206791693	Phe4
+EP	chr3	229990451	chr8	131726695	Phe4
+EP	chr4	31405922	chr4	33341453	Phe4
+EP	chr5	83316038	chr5	85229039	Phe4
+EP	chr7	7071145	chr7	7357111	Phe4
+EP	chr10	108415886	chr10	110704721	Phe4
+EP	chr10	135194577	chr10	137775085	Phe4
+TBN	chr1	24020173	chr1	24168824	Phe4
+TBN	chr1	115282973	chr1	116932388	Phe4
+TBN	chr1	222974442	chr1	228170699	Phe4
+TBN	chr1	276374053	chr1	282961396	Phe4
+TBN	chr1	288056474	chr1	294814884	Phe4
+TBN	chr1	290295657	chr1	297246789	Phe4
+TBN	chr2	47071017	chr2	48306020	Phe4
+TBN	chr2	47218085	chr2	48471247	Phe4
+TBN	chr2	47675782	chr2	48922758	Phe4
+TBN	chr2	164056605	chr2	167862468	Phe4
+TBN	chr2	181105934	chr2	185406291	Phe4
+TBN	chr2	206746180	chr2	212911197	Phe4
+TBN	chr3	1674595	chr3	1799261	Phe4
+TBN	chr3	2630193	chr3	2683530	Phe4
+TBN	chr3	171948760	chr3	176622817	Phe4
+TBN	chr3	200668919	chr3	205841795	Phe4
+TBN	chr3	202144664	chr3	207339265	Phe4
+TBN	chr3	205760014	chr3	211143862	Phe4
+TBN	chr3	209774932	chr3	215280385	Phe4
+TBN	chr4	72189520	chr4	75075324	Phe4
+TBN	chr4	190251241	chr4	196203962	Phe4
+TBN	chr4	215094216	chr4	221548565	Phe4
+TBN	chr5	2177496	chr5	2484000	Phe4
+TBN	chr5	4580093	chr5	4866151	Phe4
+TBN	chr5	10697869	chr5	11196221	Phe4
+TBN	chr5	199674022	chr5	207560902	Phe4
+TBN	chr5	199904291	chr5	207791127	Phe4
+TBN	chr5	201125149	chr5	209154307	Phe4
+TBN	chr5	201726654	chr5	209755693	Phe4
+TBN	chr5	203362363	chr5	211336225	Phe4
+TBN	chr5	204771024	chr5	212711457	Phe4
+TBN	chr5	204871374	chr5	212804168	Phe4
+TBN	chr5	205136223	chr5	213315097	Phe4
+TBN	chr5	210726828	chr5	219070084	Phe4
+TBN	chr5	214195036	chr5	222553587	Phe4
+TBN	chr6	24389649	chr6	32134198	Phe4
+TBN	chr6	34570289	chr6	42433330	Phe4
+TBN	chr6	113949205	chr6	124596193	Phe4
+TBN	chr7	28359026	chr7	29288922	Phe4
+TBN	chr7	84226094	chr7	88515014	Phe4
+TBN	chr7	102713866	chr7	107341166	Phe4
+TBN	chr7	128180472	chr7	133458718	Phe4
+TBN	chr7	133305039	chr7	138645559	Phe4
+TBN	chr7	133494187	chr7	138874721	Phe4
+TBN	chr7	134176952	chr7	139535577	Phe4
+TBN	chr7	150066856	chr7	156493681	Phe4
+TBN	chr7	155682857	chr7	164625242	Phe4
+TBN	chr7	161941433	chr7	170959336	Phe4
+TBN	chr9	116285956	chr9	121476967	Phe4
+TBN	chr9	128074752	chr9	133633248	Phe4
+TBN	chr9	134540080	chr9	140270754	Phe4
+TBN	chr9	136326586	chr9	142157384	Phe4
+TBN	chr9	140016520	chr9	145849791	Phe4
+TBN	chr9	146139172	chr9	152097911	Phe4
+TBN	chr9	149683005	chr9	155865952	Phe4
+TBN	chr9	156077997	chr9	162118553	Phe4
+TBN	chr10	81803912	chr10	83042059	Phe4
+TBN	chr10	85205822	chr10	86891933	Phe4
+TL	chr1	252695696	chr1	258841649	Phe4
+TL	chr1	297321115	chr1	304201052	Phe4
+TL	chr2	71041084	chr2	72715100	Phe4
+TL	chr2	72838906	chr2	74559943	Phe4
+TL	chr2	206917918	chr2	213097330	Phe4
+TL	chr3	213874571	chr3	219382007	Phe4
+TL	chr3	227123499	chr3	232815514	Phe4
+TL	chr6	163285390	chr6	174632877	Phe4
+TL	chr8	23976806	chr8	24609071	Phe4
+LL	chr1	8028894	chr1	7985038	Phe4
+LL	chr2	49451722	chr2	50786851	Phe4
+LL	chr3	202112240	chr3	207306841	Phe4
+LL	chr3	228631217	chr3	234339853	Phe4
+LL	chr4	206428748	chr4	212541885	Phe4
+LL	chr7	10164802	chr7	10328194	Phe4
+LL	chr7	10696306	chr7	10850028	Phe4
+LL	chr7	14089765	chr7	14393573	Phe4
+LL	chr8	130703235	chr8	134756385	Phe4
+LL	chr8	131314747	chr8	135386967	Phe4
+LL	chr10	2818401	chr10	2372456	Phe4
+LL	chr10	85605213	chr10	87358965	Phe4
+LW	chr2	228750721	chr2	234525701	Phe4
+LW	chr2	233175621	chr2	238736702	Phe4
+LW	chr3	15436376	chr3	15414735	Phe4
+LW	chr5	192784368	chr5	197075991	Phe4
+LW	chr6	129660900	chr6	140357172	Phe4
+LW	chr7	2640133	chr7	2666520	Phe4
+LW	chr7	5570066	chr7	5826494	Phe4
+LW	chr7	19308045	chr7	19839916	Phe4
+LW	chr7	19634030	chr7	20299718	Phe4
+LW	chr10	2232924	chr10	1747333	Phe4
+LW	chr10	66664995	chr10	67780407	Phe4
+LAL	chr1	44299211	chr1	44111467	Phe4
+LAL	chr2	123014542	chr2	126426826	Phe4
+LAL	chr2	185186313	chr2	189656048	Phe4
+LAL	chr3	1849376	chr3	1975197	Phe4
+LAL	chr3	4750674	chr3	4826889	Phe4
+LAL	chr3	5886537	chr3	5836446	Phe4
+LAL	chr3	6945310	chr3	6873914	Phe4
+LAL	chr4	56326426	chr4	58896440	Phe4
+LAL	chr4	156037252	chr4	161323077	Phe4
+LAL	chr4	199699273	chr4	205635505	Phe4
+LAL	chr5	172801291	chr5	176183864	Phe4
+LAL	chr5	186881076	chr5	190641670	Phe4
+LAL	chr5	192827946	chr5	197113561	Phe4
+LAL	chr7	171782471	chr7	180886655	Phe4
+LAL	chr8	5976642	chr8	6342250	Phe4
+LAL	chr8	7578582	chr8	8017172	Phe4
+LAL	chr8	146081526	chr8	150375797	Phe4
+LAL	chr8	156846124	chr8	163487618	Phe4
+LAL	chr8	161088477	chr8	167848457	Phe4
+LAL	chr9	1164253	chr9	2567562	Phe4
+LAL	chr9	40974094	chr9	43439642	Phe4
+LAL	chr10	10249936	chr10	10098553	Phe4
+LAL	chr10	147025994	chr10	149848504	Phe4
+LAU	chr1	33167948	chr1	33155596	Phe4
+LAU	chr1	44299211	chr1	44111467	Phe4
+LAU	chr1	160872840	chr1	164560588	Phe4
+LAU	chr2	6987167	chr2	7146121	Phe4
+LAU	chr2	105439786	chr2	107926575	Phe4
+LAU	chr2	185186313	chr2	189656048	Phe4
+LAU	chr2	213879670	chr2	219994410	Phe4
+LAU	chr2	234352934	chr2	239898374	Phe4
+LAU	chr3	1849376	chr3	1975197	Phe4
+LAU	chr3	5886537	chr3	5836446	Phe4
+LAU	chr3	6945310	chr3	6873914	Phe4
+LAU	chr3	13110755	chr3	13052791	Phe4
+LAU	chr3	190068203	chr3	195072206	Phe4
+LAU	chr4	156037079	chr4	161322904	Phe4
+LAU	chr5	3346968	chr5	3626645	Phe4
+LAU	chr5	192780881	chr5	197072507	Phe4
+LAU	chr5	196563326	chr5	204412339	Phe4
+LAU	chr6	102923752	chr6	113005072	Phe4
+LAU	chr7	171782471	chr7	180886655	Phe4
+LAU	chr8	7593123	chr8	8002631	Phe4
+LAU	chr8	156852780	chr8	163494359	Phe4
+LAU	chr8	161088477	chr8	167848457	Phe4
+LAU	chr9	1164253	chr9	2567562	Phe4
+LAU	chr9	149304149	chr9	155487847	Phe4
+LAU	chr10	144603513	chr10	147331004	Phe4
+ULN	chr5	3085227	chr5	3392274	Phe4
+ULN	chr5	191465647	chr5	195746814	Phe4
+ULN	chr6	86888931	chr6	96044588	Phe4
+ULN	chr8	130417668	chr8	134483012	Phe4
+ULN	chr10	116963365	chr10	119521839	Phe4
+TLN	chr1	238583967	chr1	244148297	Phe4
+TLN	chr4	153386411	chr4	158740917	Phe4
+TLN	chr6	64567092	chr6	73771953	Phe4
+TLN	chr6	86792251	chr6	95932558	Phe4
+TLN	chr8	130192792	chr8	134316763	Phe4
+TLN	chr8	130417668	chr8	134483012	Phe4
+SD	chr5	208301827	chr5	216551367	Phe4
+SD	chr5	208769204	chr5	217063624	Phe4
+SD	chr8	9938746	chr8	10369287	Phe4
+SD	chr8	150544960	chr8	154943990	Phe4
+SD	chr9	143071175	chr9	148947712	Phe4
+ASI	chr1	190046647	chr1	194229666	Phe5
+ASI	chr1	24021628	chr1	24170279	Phe5
+ASI	chr1	24047012	chr1	24195663	Phe5
+ASI	chr1	24053321	chr1	24201972	Phe5
+ASI	chr1	24203919	chr1	24351388	Phe5
+ASI	chr1	246989499	chr1	252591191	Phe5
+ASI	chr1	25427344	chr1	25537523	Phe5
+ASI	chr1	25620314	chr1	25679886	Phe5
+ASI	chr1	25620381	chr1	25679953	Phe5
+ASI	chr1	25620390	chr1	25679962	Phe5
+ASI	chr1	25620391	chr1	25679963	Phe5
+ASI	chr1	25620395	chr1	25679967	Phe5
+ASI	chr1	25630450	chr1	25690022	Phe5
+ASI	chr1	25711678	chr1	25772891	Phe5
+ASI	chr1	25727592	chr1	25791037	Phe5
+ASI	chr1	25727752	chr1	25791197	Phe5
+ASI	chr1	25728557	chr1	25792002	Phe5
+ASI	chr1	25729727	chr1	25793172	Phe5
+ASI	chr1	25738821	chr1	25802265	Phe5
+ASI	chr1	25739813	chr1	25803257	Phe5
+ASI	chr1	25741120	chr1	25804564	Phe5
+ASI	chr1	25741198	chr1	25804642	Phe5
+ASI	chr1	25741214	chr1	25804658	Phe5
+ASI	chr1	25741222	chr1	25804666	Phe5
+ASI	chr1	25742138	chr1	25805582	Phe5
+ASI	chr1	25742348	chr1	25805792	Phe5
+ASI	chr1	25742473	chr1	25805917	Phe5
+ASI	chr1	25744829	chr1	25808273	Phe5
+ASI	chr1	25745268	chr1	25808712	Phe5
+ASI	chr1	25745699	chr1	25809143	Phe5
+ASI	chr1	25766256	chr1	25827953	Phe5
+ASI	chr1	25881222	chr1	25942948	Phe5
+ASI	chr1	35745983	chr1	35693708	Phe5
+ASI	chr1	85205335	chr1	86126808	Phe5
+ASI	chr10	101619825	chr10	103826717	Phe5
+ASI	chr10	103812349	chr10	105996515	Phe5
+ASI	chr10	89512550	chr10	91322387	Phe5
+ASI	chr10	91837559	chr10	93696755	Phe5
+ASI	chr10	93155781	chr10	95119525	Phe5
+ASI	chr10	93155787	chr10	95119531	Phe5
+ASI	chr10	93160081	chr10	95123825	Phe5
+ASI	chr10	93222502	chr10	95187221	Phe5
+ASI	chr10	93226007	chr10	95190726	Phe5
+ASI	chr10	93226088	chr10	95190807	Phe5
+ASI	chr10	93291445	chr10	95256474	Phe5
+ASI	chr10	93341112	chr10	95305753	Phe5
+ASI	chr10	93342696	chr10	95307336	Phe5
+ASI	chr10	93347010	chr10	95311650	Phe5
+ASI	chr10	93496430	chr10	95457686	Phe5
+ASI	chr10	93700966	chr10	95653067	Phe5
+ASI	chr10	93731862	chr10	95700196	Phe5
+ASI	chr10	93731873	chr10	95700207	Phe5
+ASI	chr10	93733759	chr10	95702093	Phe5
+ASI	chr10	94587168	chr10	96530432	Phe5
+ASI	chr2	207716010	chr2	213908324	Phe5
+ASI	chr2	30628933	chr2	31571128	Phe5
+ASI	chr2	30986224	chr2	31814537	Phe5
+ASI	chr3	11006970	chr3	11042076	Phe5
+ASI	chr3	19954145	chr3	19978913	Phe5
+ASI	chr3	10524560	chr3	10514879	Phe5
+ASI	chr4	131298385	chr4	136249210	Phe5
+ASI	chr4	64893037	chr4	67588121	Phe5
+ASI	chr4	89175825	chr4	92674477	Phe5
+ASI	chr5	164542596	chr5	167796012	Phe5
+ASI	chr5	19053996	chr5	19962340	Phe5
+ASI	chr5	19054002	chr5	19962346	Phe5
+ASI	chr6	67990747	chr6	77274193	Phe5
+ASI	chr7	145016687	chr7	151121587	Phe5
+ASI	chr8	15628798	chr8	16075109	Phe5
+ASI	chr8	15704396	chr8	16161391	Phe5
+ASI	chr8	159887560	chr8	166568380	Phe5
+ASI	chr8	166564172	chr8	173540302	Phe5
+ASI	chr8	1831360	chr8	2140629	Phe5
+ASI	chr8	5348159	chr8	5689494	Phe5
+ASI	chr8	5347967	chr8	5689686	Phe5
+ASI	chr9	114216945	chr9	119335709	Phe5
+CW	chr10	958745	chr10	464283	Phe5
+CW	chr2	186488549	chr2	190980851	Phe5
+CW	chr2	227939221	chr2	233698515	Phe5
+CW	chr2	25540204	chr2	26387125	Phe5
+CW	chr3	32795068	chr3	32905283	Phe5
+CW	chr4	203243524	chr4	209278481	Phe5
+CW	chr4	203263593	chr4	209298549	Phe5
+CW	chr5	36049690	chr5	37466476	Phe5
+CW	chr6	47426995	chr6	55221467	Phe5
+CW	chr7	173227081	chr7	182227569	Phe5
+CW	chr7	172553969	chr7	181621811	Phe5
+CW	chr7	172553923	chr7	181621765	Phe5
+CW	chr8	12909967	chr8	13309047	Phe5
+CW	chr8	84971270	chr8	87159061	Phe5
+CW	chr9	1444687	chr9	2842768	Phe5
+CW	chr9	1647745	chr9	3080689	Phe5
+CW	chr9	66985111	chr9	66098195	Phe5
+CW	chr9	66985103	chr9	66098203	Phe5
+DA	chr1	98626828	chr1	100041419	Phe5
+DA	chr1	98632275	chr1	100046503	Phe5
+DA	chr1	98650184	chr1	100064407	Phe5
+DA	chr1	143602323	chr1	147041466	Phe5
+DA	chr1	236357459	chr1	241858015	Phe5
+DA	chr1	236385870	chr1	241886412	Phe5
+DA	chr1	236464139	chr1	241968058	Phe5
+DA	chr1	236661112	chr1	242157923	Phe5
+DA	chr1	246539022	chr1	252128456	Phe5
+DA	chr1	246539025	chr1	252128459	Phe5
+DA	chr1	246539026	chr1	252128460	Phe5
+DA	chr1	247255886	chr1	253272681	Phe5
+DA	chr1	247346895	chr1	253365872	Phe5
+DA	chr1	57608055	chr1	57706454	Phe5
+DA	chr1	6059771	chr1	6096133	Phe5
+DA	chr1	91036274	chr1	92130442	Phe5
+DA	chr1	91037851	chr1	92132019	Phe5
+DA	chr10	135203873	chr10	137784381	Phe5
+DA	chr2	163677572	chr2	167477142	Phe5
+DA	chr2	163677601	chr2	167477171	Phe5
+DA	chr2	206565498	chr2	212743462	Phe5
+DA	chr2	206567619	chr2	212745583	Phe5
+DA	chr2	206582377	chr2	212760341	Phe5
+DA	chr2	206589075	chr2	212767039	Phe5
+DA	chr2	206589100	chr2	212767064	Phe5
+DA	chr2	206598268	chr2	212776232	Phe5
+DA	chr2	206598305	chr2	212776269	Phe5
+DA	chr2	212392248	chr2	218512053	Phe5
+DA	chr2	224182987	chr2	230052417	Phe5
+DA	chr2	224189779	chr2	230059208	Phe5
+DA	chr2	224189806	chr2	230059235	Phe5
+DA	chr2	224192833	chr2	230062262	Phe5
+DA	chr2	224192867	chr2	230062296	Phe5
+DA	chr2	224192895	chr2	230062324	Phe5
+DA	chr2	224213713	chr2	230083265	Phe5
+DA	chr2	224247135	chr2	230116680	Phe5
+DA	chr2	224247143	chr2	230116688	Phe5
+DA	chr2	54570416	chr2	55902372	Phe5
+DA	chr3	159141635	chr3	161286175	Phe5
+DA	chr3	210133726	chr3	215640738	Phe5
+DA	chr3	211027294	chr3	216537984	Phe5
+DA	chr3	211027331	chr3	216538021	Phe5
+DA	chr3	79990430	chr3	80622411	Phe5
+DA	chr4	11900816	chr4	12980136	Phe5
+DA	chr4	90211939	chr4	93719327	Phe5
+DA	chr5	154047965	chr5	157226212	Phe5
+DA	chr5	2805906	chr5	3122501	Phe5
+DA	chr5	4687930	chr5	4979549	Phe5
+DA	chr5	4974126	chr5	5280550	Phe5
+DA	chr5	4974359	chr5	5280783	Phe5
+DA	chr5	4974372	chr5	5280796	Phe5
+DA	chr5	4974376	chr5	5280800	Phe5
+DA	chr5	4974378	chr5	5280802	Phe5
+DA	chr5	91904564	chr5	93975820	Phe5
+DA	chr5	91904587	chr5	93975843	Phe5
+DA	chr6	117874478	chr6	128603600	Phe5
+DA	chr6	118016958	chr6	128719868	Phe5
+DA	chr6	118017003	chr6	128719913	Phe5
+DA	chr6	118023324	chr6	128726234	Phe5
+DA	chr6	148746580	chr6	159619704	Phe5
+DA	chr6	148746620	chr6	159619744	Phe5
+DA	chr6	70761818	chr6	79987788	Phe5
+DA	chr6	91812430	chr6	101334405	Phe5
+DA	chr6	97176531	chr6	106903907	Phe5
+DA	chr8	116718815	chr8	119883861	Phe5
+DA	chr8	120674888	chr8	123898133	Phe5
+DA	chr8	120734050	chr8	123973231	Phe5
+DA	chr8	121334735	chr8	124686327	Phe5
+DA	chr8	122766016	chr8	126405596	Phe5
+DA	chr8	122799244	chr8	126446012	Phe5
+DA	chr8	122801134	chr8	126447862	Phe5
+DA	chr8	122865165	chr8	126513901	Phe5
+DA	chr8	122886487	chr8	126535221	Phe5
+DA	chr8	122937257	chr8	126586769	Phe5
+DA	chr8	122962698	chr8	126612214	Phe5
+DA	chr8	122996947	chr8	126646079	Phe5
+DA	chr8	123034968	chr8	126683269	Phe5
+DA	chr8	123036520	chr8	126684821	Phe5
+DA	chr8	123036564	chr8	126684865	Phe5
+DA	chr8	123036586	chr8	126684887	Phe5
+DA	chr8	123038675	chr8	126686976	Phe5
+DA	chr8	123038747	chr8	126687048	Phe5
+DA	chr8	123039067	chr8	126687368	Phe5
+DA	chr8	123039069	chr8	126687370	Phe5
+DA	chr8	123039129	chr8	126687430	Phe5
+DA	chr8	123039857	chr8	126688158	Phe5
+DA	chr8	123040044	chr8	126688345	Phe5
+DA	chr8	123040122	chr8	126688423	Phe5
+DA	chr8	123040274	chr8	126688575	Phe5
+DA	chr8	123040335	chr8	126688636	Phe5
+DA	chr8	123040425	chr8	126688726	Phe5
+DA	chr8	123040434	chr8	126688735	Phe5
+DA	chr8	123040488	chr8	126688789	Phe5
+DA	chr8	123040552	chr8	126688853	Phe5
+DA	chr8	123040807	chr8	126689108	Phe5
+DA	chr8	123040868	chr8	126689169	Phe5
+DA	chr8	123040933	chr8	126689234	Phe5
+DA	chr8	123040987	chr8	126689288	Phe5
+DA	chr8	123041033	chr8	126689334	Phe5
+DA	chr8	123041067	chr8	126689368	Phe5
+DA	chr8	123041118	chr8	126689419	Phe5
+DA	chr8	123041119	chr8	126689420	Phe5
+DA	chr8	123041174	chr8	126689475	Phe5
+DA	chr8	123041229	chr8	126689530	Phe5
+DA	chr8	123041232	chr8	126689533	Phe5
+DA	chr8	123041235	chr8	126689536	Phe5
+DA	chr8	123041300	chr8	126689601	Phe5
+DA	chr8	123041391	chr8	126689692	Phe5
+DA	chr8	123041427	chr8	126689728	Phe5
+DA	chr8	123041431	chr8	126689732	Phe5
+DA	chr8	123041457	chr8	126689758	Phe5
+DA	chr8	123041493	chr8	126689794	Phe5
+DA	chr8	123041875	chr8	126690176	Phe5
+DA	chr8	123041888	chr8	126690189	Phe5
+DA	chr8	123041897	chr8	126690198	Phe5
+DA	chr8	123041969	chr8	126690270	Phe5
+DA	chr8	123042065	chr8	126690366	Phe5
+DA	chr8	123042079	chr8	126690380	Phe5
+DA	chr8	123042133	chr8	126690434	Phe5
+DA	chr8	123042168	chr8	126690469	Phe5
+DA	chr8	123042207	chr8	126690508	Phe5
+DA	chr8	125231536	chr8	129270251	Phe5
+DA	chr8	125463450	chr8	129484608	Phe5
+DA	chr8	125461185	chr8	129486873	Phe5
+DA	chr8	125474101	chr8	129545922	Phe5
+DA	chr8	125528707	chr8	129603620	Phe5
+DA	chr8	126007358	chr8	130109392	Phe5
+DA	chr8	126016725	chr8	130118758	Phe5
+DA	chr8	126052219	chr8	130147497	Phe5
+DA	chr8	126067916	chr8	130163193	Phe5
+DA	chr8	126176306	chr8	130284924	Phe5
+DA	chr8	126230162	chr8	130339180	Phe5
+DA	chr8	126264628	chr8	130373640	Phe5
+DA	chr8	126279982	chr8	130388994	Phe5
+DA	chr8	126665037	chr8	130685363	Phe5
+DA	chr8	126710245	chr8	130710267	Phe5
+DA	chr8	126714458	chr8	130714479	Phe5
+DA	chr8	126719431	chr8	130719452	Phe5
+DA	chr8	126675249	chr8	130755005	Phe5
+DA	chr8	126732789	chr8	130765377	Phe5
+DA	chr8	126734893	chr8	130767481	Phe5
+DA	chr8	126735415	chr8	130768003	Phe5
+DA	chr8	126765721	chr8	130792094	Phe5
+DA	chr8	126767281	chr8	130793651	Phe5
+DA	chr8	126795209	chr8	130821581	Phe5
+DA	chr8	126877865	chr8	130889740	Phe5
+DA	chr8	126909962	chr8	130937683	Phe5
+DA	chr8	126910413	chr8	130938134	Phe5
+DA	chr8	126966780	chr8	130986263	Phe5
+DA	chr8	126967472	chr8	130986955	Phe5
+DA	chr8	127018019	chr8	131038940	Phe5
+DA	chr8	127060301	chr8	131081422	Phe5
+DA	chr8	127094206	chr8	131115666	Phe5
+DA	chr8	127102171	chr8	131123630	Phe5
+DA	chr8	127150354	chr8	131163015	Phe5
+DA	chr8	127159015	chr8	131171676	Phe5
+DA	chr8	127308115	chr8	131344115	Phe5
+DA	chr8	127305234	chr8	131346996	Phe5
+DA	chr8	127493106	chr8	131532296	Phe5
+DA	chr8	127778163	chr8	131817939	Phe5
+DA	chr8	127824172	chr8	131869241	Phe5
+DA	chr8	127869676	chr8	131914740	Phe5
+DA	chr8	127871048	chr8	131916112	Phe5
+DA	chr8	127871183	chr8	131916247	Phe5
+DA	chr8	127873036	chr8	131918100	Phe5
+DA	chr8	127902279	chr8	131947345	Phe5
+DA	chr8	127915373	chr8	131960436	Phe5
+DA	chr8	127921564	chr8	131966625	Phe5
+DA	chr8	127921744	chr8	131966805	Phe5
+DA	chr8	127934379	chr8	131979418	Phe5
+DA	chr8	127948375	chr8	131993412	Phe5
+DA	chr8	127962892	chr8	132007927	Phe5
+DA	chr8	127964342	chr8	132009377	Phe5
+DA	chr8	127964546	chr8	132009581	Phe5
+DA	chr8	127965791	chr8	132010826	Phe5
+DA	chr8	127965797	chr8	132010832	Phe5
+DA	chr8	127966815	chr8	132011850	Phe5
+DA	chr8	127967124	chr8	132012159	Phe5
+DA	chr8	127972655	chr8	132017689	Phe5
+DA	chr8	127974346	chr8	132019379	Phe5
+DA	chr8	127974473	chr8	132019506	Phe5
+DA	chr8	127974494	chr8	132019527	Phe5
+DA	chr8	127974638	chr8	132019671	Phe5
+DA	chr8	127974820	chr8	132019853	Phe5
+DA	chr8	127976418	chr8	132021451	Phe5
+DA	chr8	127976511	chr8	132021544	Phe5
+DA	chr8	127976574	chr8	132021607	Phe5
+DA	chr8	127978113	chr8	132023146	Phe5
+DA	chr8	127978849	chr8	132023882	Phe5
+DA	chr8	127979093	chr8	132024126	Phe5
+DA	chr8	127979267	chr8	132024300	Phe5
+DA	chr8	127980234	chr8	132025267	Phe5
+DA	chr8	127980712	chr8	132025744	Phe5
+DA	chr8	127980869	chr8	132025901	Phe5
+DA	chr8	127980962	chr8	132025994	Phe5
+DA	chr8	127981061	chr8	132026093	Phe5
+DA	chr8	127981275	chr8	132026307	Phe5
+DA	chr8	127981649	chr8	132026681	Phe5
+DA	chr8	127981749	chr8	132026781	Phe5
+DA	chr8	127982547	chr8	132027579	Phe5
+DA	chr8	127982695	chr8	132027727	Phe5
+DA	chr8	127982972	chr8	132028004	Phe5
+DA	chr8	127985439	chr8	132030471	Phe5
+DA	chr8	127986293	chr8	132031325	Phe5
+DA	chr8	127986505	chr8	132031537	Phe5
+DA	chr8	127987074	chr8	132032106	Phe5
+DA	chr8	127987688	chr8	132032720	Phe5
+DA	chr8	127987837	chr8	132032869	Phe5
+DA	chr8	127988073	chr8	132033105	Phe5
+DA	chr8	127989537	chr8	132034569	Phe5
+DA	chr8	127990685	chr8	132035717	Phe5
+DA	chr8	127991613	chr8	132036645	Phe5
+DA	chr8	127991782	chr8	132036814	Phe5
+DA	chr8	127992075	chr8	132037107	Phe5
+DA	chr8	127993040	chr8	132038072	Phe5
+DA	chr8	127995859	chr8	132040890	Phe5
+DA	chr8	128013232	chr8	132044632	Phe5
+DA	chr8	128013242	chr8	132044642	Phe5
+DA	chr8	128014900	chr8	132046300	Phe5
+DA	chr8	128017778	chr8	132049178	Phe5
+DA	chr8	128017837	chr8	132049237	Phe5
+DA	chr8	128063945	chr8	132117727	Phe5
+DA	chr8	128075436	chr8	132129218	Phe5
+DA	chr8	128075477	chr8	132129259	Phe5
+DA	chr8	128075544	chr8	132129326	Phe5
+DA	chr8	128075566	chr8	132129348	Phe5
+DA	chr8	128075574	chr8	132129356	Phe5
+DA	chr8	128075655	chr8	132129437	Phe5
+DA	chr8	128075711	chr8	132129493	Phe5
+DA	chr8	128075732	chr8	132129514	Phe5
+DA	chr8	128075737	chr8	132129519	Phe5
+DA	chr8	128076622	chr8	132130404	Phe5
+DA	chr8	128076640	chr8	132130422	Phe5
+DA	chr8	128076673	chr8	132130455	Phe5
+DA	chr8	128076692	chr8	132130474	Phe5
+DA	chr8	128076844	chr8	132130626	Phe5
+DA	chr8	128076849	chr8	132130631	Phe5
+DA	chr8	128076858	chr8	132130640	Phe5
+DA	chr8	128076887	chr8	132130669	Phe5
+DA	chr8	128077074	chr8	132130856	Phe5
+DA	chr8	128077093	chr8	132130875	Phe5
+DA	chr8	128077113	chr8	132130895	Phe5
+DA	chr8	128077195	chr8	132130977	Phe5
+DA	chr8	128077236	chr8	132131018	Phe5
+DA	chr8	128080412	chr8	132134194	Phe5
+DA	chr8	128080431	chr8	132134213	Phe5
+DA	chr8	128080607	chr8	132134389	Phe5
+DA	chr8	128080625	chr8	132134407	Phe5
+DA	chr8	128080630	chr8	132134412	Phe5
+DA	chr8	128081391	chr8	132135173	Phe5
+DA	chr8	128082364	chr8	132136146	Phe5
+DA	chr8	128082463	chr8	132136245	Phe5
+DA	chr8	129682420	chr8	133742966	Phe5
+DA	chr8	130281960	chr8	134344546	Phe5
+DA	chr8	130282422	chr8	134345008	Phe5
+DA	chr8	130282471	chr8	134345057	Phe5
+DA	chr8	130286629	chr8	134349215	Phe5
+DA	chr8	130286638	chr8	134349224	Phe5
+DA	chr8	130286654	chr8	134349240	Phe5
+DA	chr8	130286671	chr8	134349257	Phe5
+DA	chr8	130286807	chr8	134349393	Phe5
+DA	chr8	130286904	chr8	134349490	Phe5
+DA	chr8	130287118	chr8	134349704	Phe5
+DA	chr8	130287454	chr8	134350040	Phe5
+DA	chr8	130288193	chr8	134350779	Phe5
+DA	chr8	130288198	chr8	134350784	Phe5
+DA	chr8	130379937	chr8	134446223	Phe5
+DA	chr8	130423462	chr8	134488806	Phe5
+DA	chr8	130707910	chr8	134761058	Phe5
+DA	chr8	130708009	chr8	134761157	Phe5
+DA	chr8	130708460	chr8	134761608	Phe5
+DA	chr8	131513873	chr8	135587215	Phe5
+DA	chr8	131514094	chr8	135587436	Phe5
+DA	chr8	131514108	chr8	135587450	Phe5
+DA	chr8	131519686	chr8	135593028	Phe5
+DA	chr8	131520154	chr8	135593496	Phe5
+DA	chr8	131521517	chr8	135594857	Phe5
+DA	chr8	131521651	chr8	135594991	Phe5
+DA	chr8	131521656	chr8	135594996	Phe5
+DA	chr8	131521951	chr8	135595289	Phe5
+DA	chr8	131522139	chr8	135595477	Phe5
+DA	chr8	131523211	chr8	135596241	Phe5
+DA	chr8	131533498	chr8	135606527	Phe5
+DA	chr8	131534859	chr8	135607888	Phe5
+DA	chr8	131535587	chr8	135608616	Phe5
+DA	chr8	131538121	chr8	135611150	Phe5
+DA	chr8	131538932	chr8	135611961	Phe5
+DA	chr8	131497504	chr8	135622247	Phe5
+DA	chr8	131577193	chr8	135654401	Phe5
+DA	chr8	131591895	chr8	135668948	Phe5
+DA	chr8	131591896	chr8	135668949	Phe5
+DA	chr8	131591906	chr8	135668959	Phe5
+DA	chr8	131592203	chr8	135669256	Phe5
+DA	chr8	131592209	chr8	135669262	Phe5
+DA	chr8	131592473	chr8	135669526	Phe5
+DA	chr8	131592731	chr8	135669784	Phe5
+DA	chr8	131592753	chr8	135669806	Phe5
+DA	chr8	131592804	chr8	135669857	Phe5
+DA	chr8	131592816	chr8	135669869	Phe5
+DA	chr8	131592832	chr8	135669885	Phe5
+DA	chr8	131592848	chr8	135669901	Phe5
+DA	chr8	131592862	chr8	135669915	Phe5
+DA	chr8	131592885	chr8	135669938	Phe5
+DA	chr8	131593242	chr8	135670295	Phe5
+DA	chr8	131593371	chr8	135670424	Phe5
+DA	chr8	131593502	chr8	135670555	Phe5
+DA	chr8	131593523	chr8	135670576	Phe5
+DA	chr8	131593533	chr8	135670586	Phe5
+DA	chr8	131593566	chr8	135670619	Phe5
+DA	chr8	131593917	chr8	135670970	Phe5
+DA	chr8	131594038	chr8	135671091	Phe5
+DA	chr8	131594427	chr8	135671480	Phe5
+DA	chr8	131594451	chr8	135671504	Phe5
+DA	chr8	131594466	chr8	135671519	Phe5
+DA	chr8	131594509	chr8	135671562	Phe5
+DA	chr8	131594611	chr8	135671664	Phe5
+DA	chr8	131594650	chr8	135671703	Phe5
+DA	chr8	131595433	chr8	135672486	Phe5
+DA	chr8	131595477	chr8	135672530	Phe5
+DA	chr8	131596600	chr8	135673653	Phe5
+DA	chr8	131596908	chr8	135673961	Phe5
+DA	chr8	131597121	chr8	135674174	Phe5
+DA	chr8	131597263	chr8	135674316	Phe5
+DA	chr8	131597419	chr8	135674472	Phe5
+DA	chr8	131597471	chr8	135674524	Phe5
+DA	chr8	131597645	chr8	135674698	Phe5
+DA	chr8	131597702	chr8	135674755	Phe5
+DA	chr8	131597845	chr8	135674898	Phe5
+DA	chr8	131598022	chr8	135675075	Phe5
+DA	chr8	131598079	chr8	135675132	Phe5
+DA	chr8	131598175	chr8	135675228	Phe5
+DA	chr8	131598303	chr8	135675356	Phe5
+DA	chr8	131598476	chr8	135675529	Phe5
+DA	chr8	131598553	chr8	135675606	Phe5
+DA	chr8	131598580	chr8	135675633	Phe5
+DA	chr8	131598668	chr8	135675721	Phe5
+DA	chr8	131598697	chr8	135675750	Phe5
+DA	chr8	131598710	chr8	135675763	Phe5
+DA	chr8	131598941	chr8	135675994	Phe5
+DA	chr8	131598970	chr8	135676023	Phe5
+DA	chr8	131599279	chr8	135676332	Phe5
+DA	chr8	131599392	chr8	135676445	Phe5
+DA	chr8	131599394	chr8	135676447	Phe5
+DA	chr8	131599483	chr8	135676536	Phe5
+DA	chr8	131599699	chr8	135676752	Phe5
+DA	chr8	131599716	chr8	135676769	Phe5
+DA	chr8	131599745	chr8	135676798	Phe5
+DA	chr8	131599752	chr8	135676805	Phe5
+DA	chr8	131599815	chr8	135676868	Phe5
+DA	chr8	131599858	chr8	135676911	Phe5
+DA	chr8	131600172	chr8	135677225	Phe5
+DA	chr8	131600627	chr8	135677680	Phe5
+DA	chr8	131600717	chr8	135677770	Phe5
+DA	chr8	131600718	chr8	135677771	Phe5
+DA	chr8	131625218	chr8	135708541	Phe5
+DA	chr8	131625255	chr8	135708578	Phe5
+DA	chr8	131625334	chr8	135708657	Phe5
+DA	chr8	131636045	chr8	135719359	Phe5
+DA	chr8	131636345	chr8	135719659	Phe5
+DA	chr8	131640316	chr8	135723630	Phe5
+DA	chr8	131640781	chr8	135724095	Phe5
+DA	chr8	131640798	chr8	135724112	Phe5
+DA	chr8	131704149	chr8	135786428	Phe5
+DA	chr8	131704389	chr8	135786668	Phe5
+DA	chr8	131712009	chr8	135794288	Phe5
+DA	chr8	131733727	chr8	135826139	Phe5
+DA	chr8	131733760	chr8	135826172	Phe5
+DA	chr8	131733929	chr8	135826341	Phe5
+DA	chr8	131734037	chr8	135826449	Phe5
+DA	chr8	131734118	chr8	135826530	Phe5
+DA	chr8	131734355	chr8	135826767	Phe5
+DA	chr8	131734562	chr8	135826974	Phe5
+DA	chr8	131735336	chr8	135827748	Phe5
+DA	chr8	131735417	chr8	135827829	Phe5
+DA	chr8	131736690	chr8	135829102	Phe5
+DA	chr8	131736898	chr8	135829310	Phe5
+DA	chr8	131736921	chr8	135829333	Phe5
+DA	chr8	131737028	chr8	135829440	Phe5
+DA	chr8	131737477	chr8	135829889	Phe5
+DA	chr8	131737849	chr8	135830261	Phe5
+DA	chr8	131738037	chr8	135830449	Phe5
+DA	chr8	131738622	chr8	135831034	Phe5
+DA	chr8	131763327	chr8	135855739	Phe5
+DA	chr8	131764891	chr8	135857303	Phe5
+DA	chr8	131764998	chr8	135857410	Phe5
+DA	chr8	131765010	chr8	135857422	Phe5
+DA	chr8	131766499	chr8	135858911	Phe5
+DA	chr8	131770245	chr8	135862657	Phe5
+DA	chr8	131770454	chr8	135862866	Phe5
+DA	chr8	131770509	chr8	135862921	Phe5
+DA	chr8	131770642	chr8	135863054	Phe5
+DA	chr8	131771110	chr8	135863522	Phe5
+DA	chr8	131771159	chr8	135863571	Phe5
+DA	chr8	131782788	chr8	135876597	Phe5
+DA	chr8	131783413	chr8	135877222	Phe5
+DA	chr8	131792728	chr8	135886537	Phe5
+DA	chr8	131793820	chr8	135887629	Phe5
+DA	chr8	131793923	chr8	135887732	Phe5
+DA	chr8	131793950	chr8	135887759	Phe5
+DA	chr8	131806001	chr8	135893398	Phe5
+DA	chr8	131806463	chr8	135893860	Phe5
+DA	chr8	131817077	chr8	135904436	Phe5
+DA	chr8	131860688	chr8	135947685	Phe5
+DA	chr8	131860713	chr8	135947710	Phe5
+DA	chr8	131860922	chr8	135947919	Phe5
+DA	chr8	131861642	chr8	135950914	Phe5
+DA	chr8	131904188	chr8	135993594	Phe5
+DA	chr8	131904285	chr8	135993691	Phe5
+DA	chr8	134208994	chr8	138226813	Phe5
+DA	chr8	134224530	chr8	138242347	Phe5
+DA	chr8	134256418	chr8	138273724	Phe5
+DA	chr8	134261329	chr8	138277979	Phe5
+DA	chr8	135921150	chr8	139999531	Phe5
+DA	chr8	165080478	chr8	172008557	Phe5
+DA	chr8	165082290	chr8	172010369	Phe5
+DA	chr8	165090455	chr8	172018534	Phe5
+DA	chr8	18384268	chr8	18992029	Phe5
+DA	chr8	68636825	chr8	70382864	Phe5
+DA	chr8	76334714	chr8	78441033	Phe5
+DA	chr8	76597297	chr8	78651084	Phe5
+DA	chr8	76897739	chr8	78960694	Phe5
+DA	chr8	77003511	chr8	79067267	Phe5
+DA	chr8	77133925	chr8	79202450	Phe5
+DA	chr8	77285748	chr8	79354906	Phe5
+DA	chr8	77328071	chr8	79397223	Phe5
+DA	chr8	77374877	chr8	79443077	Phe5
+DA	chr8	77389601	chr8	79457793	Phe5
+DA	chr8	77528849	chr8	79606061	Phe5
+DA	chr8	77549504	chr8	79626715	Phe5
+DA	chr8	77576674	chr8	79678057	Phe5
+DA	chr8	77583697	chr8	79685079	Phe5
+DA	chr9	137036618	chr9	142874114	Phe5
+DA	chr9	5584447	chr9	6913248	Phe5
+DS	chr1	98644160	chr1	100058386	Phe5
+DS	chr1	98649210	chr1	100063435	Phe5
+DS	chr1	98649258	chr1	100063483	Phe5
+DS	chr1	98650184	chr1	100064407	Phe5
+DS	chr1	183221126	chr1	187281837	Phe5
+DS	chr1	209364322	chr1	214128055	Phe5
+DS	chr1	209378435	chr1	214151696	Phe5
+DS	chr1	91037851	chr1	92132019	Phe5
+DS	chr10	122481604	chr10	125065309	Phe5
+DS	chr10	56195819	chr10	57190120	Phe5
+DS	chr10	87098554	chr10	88877159	Phe5
+DS	chr10	87098557	chr10	88877162	Phe5
+DS	chr10	89094055	chr10	90903458	Phe5
+DS	chr10	93297409	chr10	95262445	Phe5
+DS	chr10	93346857	chr10	95311497	Phe5
+DS	chr10	94319279	chr10	96224519	Phe5
+DS	chr2	206567619	chr2	212745583	Phe5
+DS	chr2	206582377	chr2	212760341	Phe5
+DS	chr2	206589075	chr2	212767039	Phe5
+DS	chr2	206589100	chr2	212767064	Phe5
+DS	chr2	212392248	chr2	218512053	Phe5
+DS	chr2	54570416	chr2	55902372	Phe5
+DS	chr3	118030268	chr3	119402105	Phe5
+DS	chr3	118030286	chr3	119402123	Phe5
+DS	chr3	151977175	chr3	154066226	Phe5
+DS	chr3	151977188	chr3	154066239	Phe5
+DS	chr3	151977207	chr3	154066258	Phe5
+DS	chr3	151977250	chr3	154066301	Phe5
+DS	chr3	151977584	chr3	154066635	Phe5
+DS	chr3	154146284	chr3	156248064	Phe5
+DS	chr3	211027294	chr3	216537984	Phe5
+DS	chr3	211027331	chr3	216538021	Phe5
+DS	chr3	217821098	chr3	223267040	Phe5
+DS	chr4	90211939	chr4	93719327	Phe5
+DS	chr5	2537910	chr5	2858432	Phe5
+DS	chr5	2805906	chr5	3122501	Phe5
+DS	chr5	3401268	chr5	3661720	Phe5
+DS	chr5	4583764	chr5	4870088	Phe5
+DS	chr5	4690047	chr5	4981666	Phe5
+DS	chr5	4974099	chr5	5280523	Phe5
+DS	chr5	4974126	chr5	5280550	Phe5
+DS	chr5	4974378	chr5	5280802	Phe5
+DS	chr5	659322	chr5	969150	Phe5
+DS	chr5	659346	chr5	969174	Phe5
+DS	chr5	91904587	chr5	93975843	Phe5
+DS	chr6	118023324	chr6	128726234	Phe5
+DS	chr6	121195234	chr6	131805696	Phe5
+DS	chr6	148746580	chr6	159619704	Phe5
+DS	chr6	148746620	chr6	159619744	Phe5
+DS	chr6	82569860	chr6	92032795	Phe5
+DS	chr6	97176531	chr6	106903907	Phe5
+DS	chr7	925715	chr7	907562	Phe5
+DS	chr7	925693	chr7	907584	Phe5
+DS	chr7	923349	chr7	909928	Phe5
+DS	chr8	123038747	chr8	126687048	Phe5
+DS	chr8	123040488	chr8	126688789	Phe5
+DS	chr8	123040987	chr8	126689288	Phe5
+DS	chr8	123041033	chr8	126689334	Phe5
+DS	chr8	123041229	chr8	126689530	Phe5
+DS	chr8	123041235	chr8	126689536	Phe5
+DS	chr8	123041300	chr8	126689601	Phe5
+DS	chr8	123041391	chr8	126689692	Phe5
+DS	chr8	123041427	chr8	126689728	Phe5
+DS	chr8	123041431	chr8	126689732	Phe5
+DS	chr8	123042168	chr8	126690469	Phe5
+DS	chr8	123042207	chr8	126690508	Phe5
+DS	chr8	127305234	chr8	131346996	Phe5
+DS	chr8	127778163	chr8	131817939	Phe5
+DS	chr8	127871048	chr8	131916112	Phe5
+DS	chr8	127915373	chr8	131960436	Phe5
+DS	chr8	127934379	chr8	131979418	Phe5
+DS	chr8	128075711	chr8	132129493	Phe5
+DS	chr8	128075732	chr8	132129514	Phe5
+DS	chr8	128075737	chr8	132129519	Phe5
+DS	chr8	128077195	chr8	132130977	Phe5
+DS	chr8	128077236	chr8	132131018	Phe5
+DS	chr8	130286629	chr8	134349215	Phe5
+DS	chr8	130286638	chr8	134349224	Phe5
+DS	chr8	130288193	chr8	134350779	Phe5
+DS	chr8	130288198	chr8	134350784	Phe5
+DS	chr8	130708009	chr8	134761157	Phe5
+DS	chr8	130708460	chr8	134761608	Phe5
+DS	chr8	131592804	chr8	135669857	Phe5
+DS	chr8	131600627	chr8	135677680	Phe5
+DS	chr8	131736921	chr8	135829333	Phe5
+DS	chr8	131764891	chr8	135857303	Phe5
+DS	chr8	131770454	chr8	135862866	Phe5
+DS	chr8	131771110	chr8	135863522	Phe5
+DS	chr8	131771159	chr8	135863571	Phe5
+DS	chr8	131793820	chr8	135887629	Phe5
+DS	chr8	131793923	chr8	135887732	Phe5
+DS	chr8	165080478	chr8	172008557	Phe5
+DS	chr8	165081568	chr8	172009647	Phe5
+DS	chr8	165082290	chr8	172010369	Phe5
+DS	chr8	165084574	chr8	172012653	Phe5
+DS	chr8	165085391	chr8	172013470	Phe5
+DS	chr8	165086313	chr8	172014392	Phe5
+DS	chr8	165086357	chr8	172014436	Phe5
+DS	chr8	165086876	chr8	172014955	Phe5
+DS	chr8	165090096	chr8	172018175	Phe5
+DS	chr8	165090320	chr8	172018399	Phe5
+DS	chr8	165090455	chr8	172018534	Phe5
+DS	chr8	165090506	chr8	172018585	Phe5
+DS	chr8	165090599	chr8	172018678	Phe5
+DS	chr8	165095060	chr8	172023139	Phe5
+DS	chr8	171784904	chr8	178785746	Phe5
+DS	chr8	18384268	chr8	18992029	Phe5
+DS	chr8	76334714	chr8	78441033	Phe5
+DS	chr9	102018236	chr9	106344614	Phe5
+DS	chr9	137036618	chr9	142874114	Phe5
+DS	chr9	153722869	chr9	159853037	Phe5
+DS	chr9	5584447	chr9	6913248	Phe5
+DS	chr9	70180638	chr9	62855534	Phe5
+ED	chr1	177472322	chr1	181518116	Phe5
+ED	chr1	20801943	chr1	20895902	Phe5
+ED	chr1	4826861	chr1	4903542	Phe5
+ED	chr1	4948358	chr1	5008143	Phe5
+ED	chr1	4999392	chr1	5072817	Phe5
+ED	chr10	144174162	chr10	146924775	Phe5
+ED	chr10	144176346	chr10	146926959	Phe5
+ED	chr10	144219857	chr10	146958297	Phe5
+ED	chr10	144266531	chr10	147005962	Phe5
+ED	chr10	144269191	chr10	147008620	Phe5
+ED	chr10	145831738	chr10	148611982	Phe5
+ED	chr2	35713470	chr2	36625361	Phe5
+ED	chr2	35713496	chr2	36625387	Phe5
+ED	chr4	236433493	chr4	244434894	Phe5
+ED	chr4	236423642	chr4	244443045	Phe5
+ED	chr4	236484073	chr4	244526269	Phe5
+ED	chr4	236484140	chr4	244526336	Phe5
+ED	chr4	236488345	chr4	244530541	Phe5
+ED	chr4	5803270	chr4	6827665	Phe5
+ED	chr5	126330892	chr5	129015211	Phe5
+ED	chr5	199953941	chr5	207842157	Phe5
+ED	chr5	79621644	chr5	81635641	Phe5
+ED	chr7	155173336	chr7	164126221	Phe5
+ED	chr7	162667391	chr7	171691017	Phe5
+ED	chr2	231822180	chr7	23801664	Phe5
+ED	chr2	231822217	chr7	23801701	Phe5
+ED	chr8	170162137	chr8	177106210	Phe5
+ED	chr8	173155967	chr8	180082875	Phe5
+ED	chr8	173155997	chr8	180082905	Phe5
+ED	chr8	22033323	chr8	22622739	Phe5
+ED	chr8	5962210	chr8	6313012	Phe5
+ED	chr9	91956297	chr9	96299959	Phe5
+ED	chr9	91956303	chr9	96299965	Phe5
+ED	chr9	91956331	chr9	96299993	Phe5
+EH	chr1	153462832	chr1	157102380	Phe5
+EH	chr1	199237306	chr1	203553027	Phe5
+EH	chr1	24612217	chr1	24763238	Phe5
+EH	chr1	24642455	chr1	24805349	Phe5
+EH	chr1	26193551	chr1	26188011	Phe5
+EH	chr1	275017424	chr1	281587736	Phe5
+EH	chr1	80096107	chr1	80915621	Phe5
+EH	chr10	122059529	chr10	124657395	Phe5
+EH	chr10	122481604	chr10	125065309	Phe5
+EH	chr10	122709548	chr10	125257289	Phe5
+EH	chr10	122758980	chr10	125346010	Phe5
+EH	chr10	122812785	chr10	125399752	Phe5
+EH	chr2	72484850	chr2	74181008	Phe5
+EH	chr3	158977368	chr3	161127239	Phe5
+EH	chr3	159017444	chr3	161167314	Phe5
+EH	chr3	159144596	chr3	161289135	Phe5
+EH	chr3	159177254	chr3	161318937	Phe5
+EH	chr3	159910726	chr3	162054786	Phe5
+EH	chr3	181826122	chr3	186891401	Phe5
+EH	chr4	119937631	chr4	124718591	Phe5
+EH	chr4	48938213	chr4	51454163	Phe5
+EH	chr4	56788913	chr4	59346246	Phe5
+EH	chr4	90211939	chr4	93719327	Phe5
+EH	chr5	16400009	chr5	17094100	Phe5
+EH	chr5	198014688	chr5	205888142	Phe5
+EH	chr5	198014692	chr5	205888146	Phe5
+EH	chr6	2387403	chr6	7638463	Phe5
+EH	chr6	2387415	chr6	7638475	Phe5
+EH	chr6	64536780	chr6	73742226	Phe5
+EH	chr6	64584007	chr6	73788867	Phe5
+EH	chr6	64630938	chr6	73818558	Phe5
+EH	chr6	72330603	chr6	81590381	Phe5
+EH	chr8	113377095	chr8	116450073	Phe5
+EH	chr8	114953447	chr8	117949433	Phe5
+EH	chr8	116874734	chr8	120067464	Phe5
+EH	chr8	120805808	chr8	124044986	Phe5
+EH	chr8	122580273	chr8	126185353	Phe5
+EH	chr8	122583718	chr8	126188797	Phe5
+EH	chr8	122584103	chr8	126189182	Phe5
+EH	chr8	122677525	chr8	126302665	Phe5
+EH	chr8	122681928	chr8	126307068	Phe5
+EH	chr8	122686943	chr8	126312083	Phe5
+EH	chr8	122752664	chr8	126391949	Phe5
+EH	chr8	122801134	chr8	126447862	Phe5
+EH	chr8	122803761	chr8	126450489	Phe5
+EH	chr8	122811045	chr8	126457772	Phe5
+EH	chr8	122811051	chr8	126457778	Phe5
+EH	chr8	122811060	chr8	126457787	Phe5
+EH	chr8	122843347	chr8	126492063	Phe5
+EH	chr8	122843351	chr8	126492067	Phe5
+EH	chr8	122881959	chr8	126530693	Phe5
+EH	chr8	122882091	chr8	126530825	Phe5
+EH	chr8	122886243	chr8	126534977	Phe5
+EH	chr8	122887223	chr8	126535957	Phe5
+EH	chr8	122887981	chr8	126536715	Phe5
+EH	chr8	122888110	chr8	126536843	Phe5
+EH	chr8	122898134	chr8	126547653	Phe5
+EH	chr8	122906081	chr8	126555599	Phe5
+EH	chr8	122939733	chr8	126589247	Phe5
+EH	chr8	122940745	chr8	126590259	Phe5
+EH	chr8	122947871	chr8	126597386	Phe5
+EH	chr8	122982531	chr8	126630941	Phe5
+EH	chr8	122967707	chr8	126635509	Phe5
+EH	chr8	122996947	chr8	126646079	Phe5
+EH	chr8	122998093	chr8	126647225	Phe5
+EH	chr8	123001068	chr8	126650200	Phe5
+EH	chr8	123034968	chr8	126683269	Phe5
+EH	chr8	123036520	chr8	126684821	Phe5
+EH	chr8	123036564	chr8	126684865	Phe5
+EH	chr8	123036586	chr8	126684887	Phe5
+EH	chr8	123038287	chr8	126686588	Phe5
+EH	chr8	123038675	chr8	126686976	Phe5
+EH	chr8	123039067	chr8	126687368	Phe5
+EH	chr8	123039069	chr8	126687370	Phe5
+EH	chr8	123039129	chr8	126687430	Phe5
+EH	chr8	123039857	chr8	126688158	Phe5
+EH	chr8	123040122	chr8	126688423	Phe5
+EH	chr8	123040274	chr8	126688575	Phe5
+EH	chr8	123040335	chr8	126688636	Phe5
+EH	chr8	123040488	chr8	126688789	Phe5
+EH	chr8	123040552	chr8	126688853	Phe5
+EH	chr8	123040807	chr8	126689108	Phe5
+EH	chr8	123040868	chr8	126689169	Phe5
+EH	chr8	123040933	chr8	126689234	Phe5
+EH	chr8	123040987	chr8	126689288	Phe5
+EH	chr8	123041033	chr8	126689334	Phe5
+EH	chr8	123041067	chr8	126689368	Phe5
+EH	chr8	123041118	chr8	126689419	Phe5
+EH	chr8	123041119	chr8	126689420	Phe5
+EH	chr8	123041174	chr8	126689475	Phe5
+EH	chr8	123041229	chr8	126689530	Phe5
+EH	chr8	123041232	chr8	126689533	Phe5
+EH	chr8	123041235	chr8	126689536	Phe5
+EH	chr8	123041300	chr8	126689601	Phe5
+EH	chr8	123041391	chr8	126689692	Phe5
+EH	chr8	123041427	chr8	126689728	Phe5
+EH	chr8	123041431	chr8	126689732	Phe5
+EH	chr8	123041457	chr8	126689758	Phe5
+EH	chr8	123041493	chr8	126689794	Phe5
+EH	chr8	123041509	chr8	126689810	Phe5
+EH	chr8	123041875	chr8	126690176	Phe5
+EH	chr8	123041888	chr8	126690189	Phe5
+EH	chr8	123042065	chr8	126690366	Phe5
+EH	chr8	123042079	chr8	126690380	Phe5
+EH	chr8	123042133	chr8	126690434	Phe5
+EH	chr8	123042168	chr8	126690469	Phe5
+EH	chr8	123750421	chr8	127396772	Phe5
+EH	chr8	123987805	chr8	127635035	Phe5
+EH	chr8	123989497	chr8	127636727	Phe5
+EH	chr8	123994266	chr8	127641496	Phe5
+EH	chr8	123996338	chr8	127643568	Phe5
+EH	chr8	124007214	chr8	127654436	Phe5
+EH	chr8	124007357	chr8	127654579	Phe5
+EH	chr8	124008460	chr8	127655682	Phe5
+EH	chr8	124009198	chr8	127656420	Phe5
+EH	chr8	124009337	chr8	127656559	Phe5
+EH	chr8	124009457	chr8	127656679	Phe5
+EH	chr8	124175507	chr8	127815026	Phe5
+EH	chr8	124954129	chr8	128622862	Phe5
+EH	chr8	124954151	chr8	128622884	Phe5
+EH	chr8	124955959	chr8	128624692	Phe5
+EH	chr8	124982767	chr8	128651557	Phe5
+EH	chr8	124982773	chr8	128651563	Phe5
+EH	chr8	124982776	chr8	128651566	Phe5
+EH	chr8	124982777	chr8	128651567	Phe5
+EH	chr8	124996674	chr8	128665480	Phe5
+EH	chr8	124997632	chr8	128666438	Phe5
+EH	chr8	125107325	chr8	129119617	Phe5
+EH	chr8	125338481	chr8	129377262	Phe5
+EH	chr8	125339629	chr8	129378410	Phe5
+EH	chr8	125936617	chr8	130040116	Phe5
+EH	chr8	126264776	chr8	130373788	Phe5
+EH	chr8	126582553	chr8	130645873	Phe5
+EH	chr8	126639245	chr8	130659567	Phe5
+EH	chr8	126753454	chr8	130733700	Phe5
+EH	chr8	126775513	chr8	130801883	Phe5
+EH	chr8	126968265	chr8	130987746	Phe5
+EH	chr8	127058942	chr8	131080063	Phe5
+EH	chr8	127771166	chr8	131810942	Phe5
+EH	chr8	127892517	chr8	131937581	Phe5
+EH	chr8	127955792	chr8	132000827	Phe5
+EH	chr8	127965659	chr8	132010694	Phe5
+EH	chr8	127967407	chr8	132012442	Phe5
+EH	chr8	127974638	chr8	132019671	Phe5
+EH	chr8	127982557	chr8	132027589	Phe5
+EH	chr8	127982972	chr8	132028004	Phe5
+EH	chr8	128018353	chr8	132049753	Phe5
+EH	chr8	128022131	chr8	132053531	Phe5
+EH	chr8	128038620	chr8	132093228	Phe5
+EH	chr8	128076844	chr8	132130626	Phe5
+EH	chr8	128076849	chr8	132130631	Phe5
+EH	chr8	128076858	chr8	132130640	Phe5
+EH	chr8	128076887	chr8	132130669	Phe5
+EH	chr8	128076929	chr8	132130711	Phe5
+EH	chr8	128076946	chr8	132130728	Phe5
+EH	chr8	128077093	chr8	132130875	Phe5
+EH	chr8	128077195	chr8	132130977	Phe5
+EH	chr8	128077236	chr8	132131018	Phe5
+EH	chr8	128080412	chr8	132134194	Phe5
+EH	chr8	128080431	chr8	132134213	Phe5
+EH	chr8	128080607	chr8	132134389	Phe5
+EH	chr8	128080625	chr8	132134407	Phe5
+EH	chr8	128080630	chr8	132134412	Phe5
+EH	chr8	128080772	chr8	132134554	Phe5
+EH	chr8	128217503	chr8	132276193	Phe5
+EH	chr8	129472462	chr8	133509852	Phe5
+EH	chr8	129474564	chr8	133511954	Phe5
+EH	chr8	129474786	chr8	133512176	Phe5
+EH	chr8	129476481	chr8	133513871	Phe5
+EH	chr8	129478102	chr8	133515491	Phe5
+EH	chr8	129669140	chr8	133694601	Phe5
+EH	chr8	129682768	chr8	133743314	Phe5
+EH	chr8	129729902	chr8	133792996	Phe5
+EH	chr8	130282760	chr8	134345346	Phe5
+EH	chr8	130283254	chr8	134345840	Phe5
+EH	chr8	130283266	chr8	134345852	Phe5
+EH	chr8	130283272	chr8	134345858	Phe5
+EH	chr8	130284234	chr8	134346820	Phe5
+EH	chr8	130285755	chr8	134348341	Phe5
+EH	chr8	130286442	chr8	134349028	Phe5
+EH	chr8	130286638	chr8	134349224	Phe5
+EH	chr8	130286807	chr8	134349393	Phe5
+EH	chr8	130287118	chr8	134349704	Phe5
+EH	chr8	130287369	chr8	134349955	Phe5
+EH	chr8	130287454	chr8	134350040	Phe5
+EH	chr8	130287657	chr8	134350243	Phe5
+EH	chr8	130287866	chr8	134350452	Phe5
+EH	chr8	130288122	chr8	134350708	Phe5
+EH	chr8	130288151	chr8	134350737	Phe5
+EH	chr8	130291698	chr8	134354284	Phe5
+EH	chr8	130338171	chr8	134404462	Phe5
+EH	chr8	130343439	chr8	134409730	Phe5
+EH	chr8	130367278	chr8	134433565	Phe5
+EH	chr8	130379937	chr8	134446223	Phe5
+EH	chr8	130381256	chr8	134447542	Phe5
+EH	chr8	130708009	chr8	134761157	Phe5
+EH	chr8	131308926	chr8	135381146	Phe5
+EH	chr8	131486732	chr8	135567479	Phe5
+EH	chr8	131514094	chr8	135587436	Phe5
+EH	chr8	131521517	chr8	135594857	Phe5
+EH	chr8	131521651	chr8	135594991	Phe5
+EH	chr8	131521656	chr8	135594996	Phe5
+EH	chr8	131521779	chr8	135595118	Phe5
+EH	chr8	131521785	chr8	135595124	Phe5
+EH	chr8	131521951	chr8	135595289	Phe5
+EH	chr8	131522139	chr8	135595477	Phe5
+EH	chr8	131522430	chr8	135595768	Phe5
+EH	chr8	131522487	chr8	135595825	Phe5
+EH	chr8	131532301	chr8	135605330	Phe5
+EH	chr8	131532332	chr8	135605361	Phe5
+EH	chr8	131533220	chr8	135606249	Phe5
+EH	chr8	131533273	chr8	135606302	Phe5
+EH	chr8	131533386	chr8	135606415	Phe5
+EH	chr8	131533498	chr8	135606527	Phe5
+EH	chr8	131535556	chr8	135608585	Phe5
+EH	chr8	131535587	chr8	135608616	Phe5
+EH	chr8	131538121	chr8	135611150	Phe5
+EH	chr8	131538932	chr8	135611961	Phe5
+EH	chr8	131538988	chr8	135612017	Phe5
+EH	chr8	131539035	chr8	135612064	Phe5
+EH	chr8	131591403	chr8	135668456	Phe5
+EH	chr8	131591411	chr8	135668464	Phe5
+EH	chr8	131591906	chr8	135668959	Phe5
+EH	chr8	131592203	chr8	135669256	Phe5
+EH	chr8	131592204	chr8	135669257	Phe5
+EH	chr8	131592209	chr8	135669262	Phe5
+EH	chr8	131592473	chr8	135669526	Phe5
+EH	chr8	131592484	chr8	135669537	Phe5
+EH	chr8	131592619	chr8	135669672	Phe5
+EH	chr8	131592731	chr8	135669784	Phe5
+EH	chr8	131592804	chr8	135669857	Phe5
+EH	chr8	131592816	chr8	135669869	Phe5
+EH	chr8	131592832	chr8	135669885	Phe5
+EH	chr8	131592848	chr8	135669901	Phe5
+EH	chr8	131592861	chr8	135669914	Phe5
+EH	chr8	131592862	chr8	135669915	Phe5
+EH	chr8	131592885	chr8	135669938	Phe5
+EH	chr8	131592912	chr8	135669965	Phe5
+EH	chr8	131593242	chr8	135670295	Phe5
+EH	chr8	131593502	chr8	135670555	Phe5
+EH	chr8	131593510	chr8	135670563	Phe5
+EH	chr8	131593523	chr8	135670576	Phe5
+EH	chr8	131593533	chr8	135670586	Phe5
+EH	chr8	131593566	chr8	135670619	Phe5
+EH	chr8	131594038	chr8	135671091	Phe5
+EH	chr8	131594047	chr8	135671100	Phe5
+EH	chr8	131594175	chr8	135671228	Phe5
+EH	chr8	131594333	chr8	135671386	Phe5
+EH	chr8	131594355	chr8	135671408	Phe5
+EH	chr8	131594399	chr8	135671452	Phe5
+EH	chr8	131594427	chr8	135671480	Phe5
+EH	chr8	131594451	chr8	135671504	Phe5
+EH	chr8	131594466	chr8	135671519	Phe5
+EH	chr8	131594509	chr8	135671562	Phe5
+EH	chr8	131594578	chr8	135671631	Phe5
+EH	chr8	131595140	chr8	135672193	Phe5
+EH	chr8	131595167	chr8	135672220	Phe5
+EH	chr8	131595433	chr8	135672486	Phe5
+EH	chr8	131595477	chr8	135672530	Phe5
+EH	chr8	131595541	chr8	135672594	Phe5
+EH	chr8	131595641	chr8	135672694	Phe5
+EH	chr8	131596218	chr8	135673271	Phe5
+EH	chr8	131596224	chr8	135673277	Phe5
+EH	chr8	131597045	chr8	135674098	Phe5
+EH	chr8	131597108	chr8	135674161	Phe5
+EH	chr8	131597121	chr8	135674174	Phe5
+EH	chr8	131597128	chr8	135674181	Phe5
+EH	chr8	131597129	chr8	135674182	Phe5
+EH	chr8	131597337	chr8	135674390	Phe5
+EH	chr8	131597419	chr8	135674472	Phe5
+EH	chr8	131597443	chr8	135674496	Phe5
+EH	chr8	131597471	chr8	135674524	Phe5
+EH	chr8	131597702	chr8	135674755	Phe5
+EH	chr8	131597946	chr8	135674999	Phe5
+EH	chr8	131598022	chr8	135675075	Phe5
+EH	chr8	131598079	chr8	135675132	Phe5
+EH	chr8	131598175	chr8	135675228	Phe5
+EH	chr8	131598198	chr8	135675251	Phe5
+EH	chr8	131598303	chr8	135675356	Phe5
+EH	chr8	131598476	chr8	135675529	Phe5
+EH	chr8	131598553	chr8	135675606	Phe5
+EH	chr8	131598580	chr8	135675633	Phe5
+EH	chr8	131598697	chr8	135675750	Phe5
+EH	chr8	131598833	chr8	135675886	Phe5
+EH	chr8	131598941	chr8	135675994	Phe5
+EH	chr8	131598970	chr8	135676023	Phe5
+EH	chr8	131598983	chr8	135676036	Phe5
+EH	chr8	131599063	chr8	135676116	Phe5
+EH	chr8	131599815	chr8	135676868	Phe5
+EH	chr8	131599858	chr8	135676911	Phe5
+EH	chr8	131599982	chr8	135677035	Phe5
+EH	chr8	131599992	chr8	135677045	Phe5
+EH	chr8	131625218	chr8	135708541	Phe5
+EH	chr8	131625255	chr8	135708578	Phe5
+EH	chr8	131625758	chr8	135709081	Phe5
+EH	chr8	131637187	chr8	135720501	Phe5
+EH	chr8	131637602	chr8	135720916	Phe5
+EH	chr8	131640781	chr8	135724095	Phe5
+EH	chr8	131640798	chr8	135724112	Phe5
+EH	chr8	131704149	chr8	135786428	Phe5
+EH	chr8	131704286	chr8	135786565	Phe5
+EH	chr8	131704389	chr8	135786668	Phe5
+EH	chr8	131726695	chr8	135819107	Phe5
+EH	chr8	131734580	chr8	135826992	Phe5
+EH	chr8	131736921	chr8	135829333	Phe5
+EH	chr8	131737028	chr8	135829440	Phe5
+EH	chr8	131737706	chr8	135830118	Phe5
+EH	chr8	131739421	chr8	135831833	Phe5
+EH	chr8	131763327	chr8	135855739	Phe5
+EH	chr8	131764891	chr8	135857303	Phe5
+EH	chr8	131764998	chr8	135857410	Phe5
+EH	chr8	131765601	chr8	135858013	Phe5
+EH	chr8	131766426	chr8	135858838	Phe5
+EH	chr8	131766499	chr8	135858911	Phe5
+EH	chr8	131770245	chr8	135862657	Phe5
+EH	chr8	131770454	chr8	135862866	Phe5
+EH	chr8	131770509	chr8	135862921	Phe5
+EH	chr8	131771110	chr8	135863522	Phe5
+EH	chr8	131771159	chr8	135863571	Phe5
+EH	chr8	131782788	chr8	135876597	Phe5
+EH	chr8	131782954	chr8	135876763	Phe5
+EH	chr8	131782972	chr8	135876781	Phe5
+EH	chr8	131793820	chr8	135887629	Phe5
+EH	chr8	131805941	chr8	135893338	Phe5
+EH	chr8	131806001	chr8	135893398	Phe5
+EH	chr8	131806020	chr8	135893417	Phe5
+EH	chr8	131806128	chr8	135893525	Phe5
+EH	chr8	131806293	chr8	135893690	Phe5
+EH	chr8	131806423	chr8	135893820	Phe5
+EH	chr8	131806987	chr8	135894384	Phe5
+EH	chr8	131807119	chr8	135894516	Phe5
+EH	chr8	131808501	chr8	135895898	Phe5
+EH	chr8	131808858	chr8	135896255	Phe5
+EH	chr8	131861642	chr8	135950914	Phe5
+EH	chr8	131896540	chr8	135985946	Phe5
+EH	chr8	131905114	chr8	135994520	Phe5
+EH	chr8	132015062	chr8	136103515	Phe5
+EH	chr8	132015100	chr8	136103553	Phe5
+EH	chr8	132015188	chr8	136103641	Phe5
+EH	chr8	132015193	chr8	136103646	Phe5
+EH	chr8	132015301	chr8	136103754	Phe5
+EH	chr8	132352805	chr8	136445817	Phe5
+EH	chr8	133648535	chr8	137692702	Phe5
+EH	chr8	133648545	chr8	137692712	Phe5
+EH	chr8	134345069	chr8	138345634	Phe5
+EH	chr8	4407937	chr8	4737055	Phe5
+EH	chr8	76314413	chr8	78362867	Phe5
+EH	chr8	76593425	chr8	78647215	Phe5
+EH	chr8	76786939	chr8	78849066	Phe5
+EH	chr8	76821460	chr8	78883586	Phe5
+EH	chr8	76856481	chr8	78919439	Phe5
+EH	chr8	76883985	chr8	78946940	Phe5
+EH	chr8	77003511	chr8	79067267	Phe5
+EH	chr8	77061504	chr8	79114330	Phe5
+EH	chr8	77133925	chr8	79202450	Phe5
+EH	chr8	77175970	chr8	79244732	Phe5
+EH	chr8	77182400	chr8	79251166	Phe5
+EH	chr8	77227861	chr8	79296471	Phe5
+EH	chr8	77315679	chr8	79384831	Phe5
+EH	chr8	77318632	chr8	79387784	Phe5
+EH	chr8	77389601	chr8	79457793	Phe5
+EH	chr8	77450469	chr8	79518023	Phe5
+EH	chr8	77467735	chr8	79535286	Phe5
+EH	chr8	77509897	chr8	79577460	Phe5
+EH	chr8	77549504	chr8	79626715	Phe5
+EH	chr8	77576674	chr8	79678057	Phe5
+EH	chr8	77584209	chr8	79685591	Phe5
+EH	chr8	77590805	chr8	79692187	Phe5
+EH	chr8	97548514	chr8	99906453	Phe5
+EH	chr9	118116184	chr9	123321880	Phe5
+EL	chr1	16177523	chr1	16310360	Phe5
+EL	chr1	16177527	chr1	16310364	Phe5
+EL	chr1	231387501	chr1	237012531	Phe5
+EL	chr1	231387508	chr1	237012538	Phe5
+EL	chr1	93343575	chr1	94621219	Phe5
+EL	chr10	111382037	chr10	113765153	Phe5
+EL	chr10	78946487	chr10	80211807	Phe5
+EL	chr2	101307837	chr2	103728995	Phe5
+EL	chr2	101385018	chr2	103810391	Phe5
+EL	chr2	149280781	chr2	152984476	Phe5
+EL	chr2	151670923	chr2	155386382	Phe5
+EL	chr4	135002253	chr4	140119805	Phe5
+EL	chr6	158487841	chr6	169779791	Phe5
+EL	chr6	31408536	chr6	39237014	Phe5
+EL	chr7	132225739	chr7	137541844	Phe5
+EL	chr7	132226286	chr7	137542391	Phe5
+EL	chr7	21922095	chr7	22797222	Phe5
+EL	chr8	42664055	chr8	43795130	Phe5
+EL	chr9	35066438	chr9	37381202	Phe5
+EP	chr1	15996744	chr1	16129659	Phe5
+EP	chr1	15998777	chr1	16131692	Phe5
+EP	chr1	15998778	chr1	16131693	Phe5
+EP	chr1	22693935	chr1	22877636	Phe5
+EP	chr1	22835259	chr1	23020377	Phe5
+EP	chr1	22835262	chr1	23020380	Phe5
+EP	chr1	22857011	chr1	23042127	Phe5
+EP	chr1	24612217	chr1	24763238	Phe5
+EP	chr1	24642455	chr1	24805349	Phe5
+EP	chr1	26708237	chr1	26674963	Phe5
+EP	chr1	275017424	chr1	281587736	Phe5
+EP	chr1	300367099	chr1	307334359	Phe5
+EP	chr1	300367414	chr1	307334674	Phe5
+EP	chr2	141135137	chr2	144642375	Phe5
+EP	chr2	14544884	chr2	15237810	Phe5
+EP	chr2	14545157	chr2	15238083	Phe5
+EP	chr2	148642963	chr2	152332926	Phe5
+EP	chr2	148837966	chr2	152550478	Phe5
+EP	chr2	149300288	chr2	153003980	Phe5
+EP	chr2	57876026	chr2	59196388	Phe5
+EP	chr3	158976958	chr3	161126829	Phe5
+EP	chr3	159017392	chr3	161167262	Phe5
+EP	chr3	159017444	chr3	161167314	Phe5
+EP	chr3	159056901	chr3	161206747	Phe5
+EP	chr3	159076976	chr3	161226822	Phe5
+EP	chr3	159135944	chr3	161280485	Phe5
+EP	chr3	159144596	chr3	161289135	Phe5
+EP	chr3	159177254	chr3	161318937	Phe5
+EP	chr3	159559374	chr3	161701232	Phe5
+EP	chr3	159559411	chr3	161701269	Phe5
+EP	chr3	159559476	chr3	161701334	Phe5
+EP	chr3	159598752	chr3	161741030	Phe5
+EP	chr3	159598797	chr3	161741075	Phe5
+EP	chr3	183084020	chr3	188062980	Phe5
+EP	chr3	183001923	chr3	188088535	Phe5
+EP	chr3	32482000	chr3	32579841	Phe5
+EP	chr3	32482044	chr3	32579885	Phe5
+EP	chr4	96367311	chr4	99888718	Phe5
+EP	chr4	165777768	chr4	170825691	Phe5
+EP	chr4	90211939	chr4	93719327	Phe5
+EP	chr5	28780420	chr5	30357849	Phe5
+EP	chr6	103604209	chr6	113705005	Phe5
+EP	chr6	128886419	chr6	139523994	Phe5
+EP	chr6	2387403	chr6	7638463	Phe5
+EP	chr6	2387415	chr6	7638475	Phe5
+EP	chr6	37521458	chr6	45577699	Phe5
+EP	chr8	116060333	chr8	119132115	Phe5
+EP	chr8	116275200	chr8	119336804	Phe5
+EP	chr8	116275317	chr8	119336921	Phe5
+EP	chr8	116701206	chr8	119866253	Phe5
+EP	chr8	116701297	chr8	119866344	Phe5
+EP	chr8	116834778	chr8	119999997	Phe5
+EP	chr8	116834819	chr8	120000038	Phe5
+EP	chr8	116835293	chr8	120000512	Phe5
+EP	chr8	116878868	chr8	120001213	Phe5
+EP	chr8	116878908	chr8	120001253	Phe5
+EP	chr8	116878913	chr8	120001258	Phe5
+EP	chr8	116878920	chr8	120001265	Phe5
+EP	chr8	116878931	chr8	120001276	Phe5
+EP	chr8	116878932	chr8	120001277	Phe5
+EP	chr8	116878960	chr8	120001305	Phe5
+EP	chr8	116878965	chr8	120001310	Phe5
+EP	chr8	116879038	chr8	120001383	Phe5
+EP	chr8	116879069	chr8	120001414	Phe5
+EP	chr8	116879078	chr8	120001423	Phe5
+EP	chr8	116879268	chr8	120001613	Phe5
+EP	chr8	116879351	chr8	120001696	Phe5
+EP	chr8	116879373	chr8	120001718	Phe5
+EP	chr8	116879617	chr8	120001962	Phe5
+EP	chr8	116879635	chr8	120001980	Phe5
+EP	chr8	116879637	chr8	120001982	Phe5
+EP	chr8	116879808	chr8	120002153	Phe5
+EP	chr8	116879822	chr8	120002167	Phe5
+EP	chr8	116879830	chr8	120002175	Phe5
+EP	chr8	116880096	chr8	120002441	Phe5
+EP	chr8	116897628	chr8	120019971	Phe5
+EP	chr8	116897673	chr8	120020016	Phe5
+EP	chr8	116897694	chr8	120020037	Phe5
+EP	chr8	116897935	chr8	120020278	Phe5
+EP	chr8	116898060	chr8	120020403	Phe5
+EP	chr8	116899424	chr8	120021763	Phe5
+EP	chr8	116901772	chr8	120024111	Phe5
+EP	chr8	116901899	chr8	120024238	Phe5
+EP	chr8	116901906	chr8	120024245	Phe5
+EP	chr8	116901954	chr8	120024293	Phe5
+EP	chr8	116902092	chr8	120024431	Phe5
+EP	chr8	116902471	chr8	120024810	Phe5
+EP	chr8	116902477	chr8	120024816	Phe5
+EP	chr8	116902638	chr8	120024977	Phe5
+EP	chr8	116902687	chr8	120025026	Phe5
+EP	chr8	116903651	chr8	120025990	Phe5
+EP	chr8	116903794	chr8	120026133	Phe5
+EP	chr8	116903924	chr8	120026263	Phe5
+EP	chr8	116904937	chr8	120027266	Phe5
+EP	chr8	116905668	chr8	120027995	Phe5
+EP	chr8	116906973	chr8	120029300	Phe5
+EP	chr8	116908879	chr8	120031206	Phe5
+EP	chr8	116909189	chr8	120031515	Phe5
+EP	chr8	116909234	chr8	120031560	Phe5
+EP	chr8	116909238	chr8	120031564	Phe5
+EP	chr8	116910072	chr8	120032398	Phe5
+EP	chr8	116910078	chr8	120032404	Phe5
+EP	chr8	116910155	chr8	120032481	Phe5
+EP	chr8	116910323	chr8	120032649	Phe5
+EP	chr8	116911049	chr8	120033375	Phe5
+EP	chr8	116911055	chr8	120033381	Phe5
+EP	chr8	116911076	chr8	120033402	Phe5
+EP	chr8	116912353	chr8	120034679	Phe5
+EP	chr8	116912652	chr8	120035426	Phe5
+EP	chr8	116912915	chr8	120035689	Phe5
+EP	chr8	116912923	chr8	120035697	Phe5
+EP	chr8	116912966	chr8	120035740	Phe5
+EP	chr8	116913057	chr8	120035831	Phe5
+EP	chr8	116913486	chr8	120036260	Phe5
+EP	chr8	116917299	chr8	120040069	Phe5
+EP	chr8	116937625	chr8	120051495	Phe5
+EP	chr8	116937673	chr8	120051543	Phe5
+EP	chr8	116937702	chr8	120051572	Phe5
+EP	chr8	116937731	chr8	120051601	Phe5
+EP	chr8	116937784	chr8	120051654	Phe5
+EP	chr8	116937830	chr8	120051700	Phe5
+EP	chr8	116937837	chr8	120051707	Phe5
+EP	chr8	116937852	chr8	120051722	Phe5
+EP	chr8	116937861	chr8	120051731	Phe5
+EP	chr8	116937930	chr8	120051800	Phe5
+EP	chr8	116938004	chr8	120051874	Phe5
+EP	chr8	116938013	chr8	120051883	Phe5
+EP	chr8	116940340	chr8	120054210	Phe5
+EP	chr8	116877435	chr8	120064768	Phe5
+EP	chr8	116877230	chr8	120064973	Phe5
+EP	chr8	116875985	chr8	120066218	Phe5
+EP	chr8	116875932	chr8	120066271	Phe5
+EP	chr8	116874734	chr8	120067464	Phe5
+EP	chr8	116874518	chr8	120067680	Phe5
+EP	chr8	116874517	chr8	120067681	Phe5
+EP	chr8	116858629	chr8	120083560	Phe5
+EP	chr8	116857062	chr8	120085127	Phe5
+EP	chr8	116856814	chr8	120085375	Phe5
+EP	chr8	116855014	chr8	120087175	Phe5
+EP	chr8	116855010	chr8	120087179	Phe5
+EP	chr8	116853961	chr8	120088228	Phe5
+EP	chr8	119149896	chr8	122382437	Phe5
+EP	chr8	119664717	chr8	122901154	Phe5
+EP	chr8	119697089	chr8	122909602	Phe5
+EP	chr8	119677224	chr8	122929526	Phe5
+EP	chr8	119677139	chr8	122929611	Phe5
+EP	chr8	119676883	chr8	122929867	Phe5
+EP	chr8	119745465	chr8	122981361	Phe5
+EP	chr8	119930430	chr8	123163864	Phe5
+EP	chr8	120211048	chr8	123436135	Phe5
+EP	chr8	120427328	chr8	123606170	Phe5
+EP	chr8	120383197	chr8	123648055	Phe5
+EP	chr8	120383389	chr8	123648247	Phe5
+EP	chr8	120400175	chr8	123665030	Phe5
+EP	chr8	120580925	chr8	123823715	Phe5
+EP	chr8	120600863	chr8	123843733	Phe5
+EP	chr8	120626793	chr8	123869662	Phe5
+EP	chr8	120674888	chr8	123898133	Phe5
+EP	chr8	120734050	chr8	123973231	Phe5
+EP	chr8	120802363	chr8	124041544	Phe5
+EP	chr8	120805808	chr8	124044986	Phe5
+EP	chr8	121328043	chr8	124679635	Phe5
+EP	chr8	121330074	chr8	124681666	Phe5
+EP	chr8	121334735	chr8	124686327	Phe5
+EP	chr8	121357118	chr8	124709779	Phe5
+EP	chr8	121420470	chr8	124774959	Phe5
+EP	chr8	122575011	chr8	126180092	Phe5
+EP	chr8	122575077	chr8	126180158	Phe5
+EP	chr8	122575080	chr8	126180161	Phe5
+EP	chr8	122575397	chr8	126180478	Phe5
+EP	chr8	122575427	chr8	126180508	Phe5
+EP	chr8	122575438	chr8	126180519	Phe5
+EP	chr8	122575440	chr8	126180521	Phe5
+EP	chr8	122575506	chr8	126180587	Phe5
+EP	chr8	122575535	chr8	126180616	Phe5
+EP	chr8	122575538	chr8	126180619	Phe5
+EP	chr8	122575576	chr8	126180657	Phe5
+EP	chr8	122575601	chr8	126180682	Phe5
+EP	chr8	122575604	chr8	126180685	Phe5
+EP	chr8	122575645	chr8	126180726	Phe5
+EP	chr8	122575647	chr8	126180728	Phe5
+EP	chr8	122575704	chr8	126180785	Phe5
+EP	chr8	122577962	chr8	126183043	Phe5
+EP	chr8	122578996	chr8	126184077	Phe5
+EP	chr8	122579012	chr8	126184093	Phe5
+EP	chr8	122579037	chr8	126184118	Phe5
+EP	chr8	122579074	chr8	126184155	Phe5
+EP	chr8	122579395	chr8	126184476	Phe5
+EP	chr8	122579416	chr8	126184497	Phe5
+EP	chr8	122579443	chr8	126184524	Phe5
+EP	chr8	122579455	chr8	126184536	Phe5
+EP	chr8	122579504	chr8	126184585	Phe5
+EP	chr8	122579551	chr8	126184632	Phe5
+EP	chr8	122579569	chr8	126184650	Phe5
+EP	chr8	122579575	chr8	126184656	Phe5
+EP	chr8	122580182	chr8	126185262	Phe5
+EP	chr8	122580273	chr8	126185353	Phe5
+EP	chr8	122580306	chr8	126185386	Phe5
+EP	chr8	122580314	chr8	126185394	Phe5
+EP	chr8	122580487	chr8	126185566	Phe5
+EP	chr8	122580498	chr8	126185577	Phe5
+EP	chr8	122580500	chr8	126185579	Phe5
+EP	chr8	122581491	chr8	126186570	Phe5
+EP	chr8	122581531	chr8	126186610	Phe5
+EP	chr8	122581869	chr8	126186948	Phe5
+EP	chr8	122581882	chr8	126186961	Phe5
+EP	chr8	122581901	chr8	126186980	Phe5
+EP	chr8	122581927	chr8	126187006	Phe5
+EP	chr8	122581947	chr8	126187026	Phe5
+EP	chr8	122582231	chr8	126187310	Phe5
+EP	chr8	122582237	chr8	126187316	Phe5
+EP	chr8	122582247	chr8	126187326	Phe5
+EP	chr8	122582262	chr8	126187341	Phe5
+EP	chr8	122582985	chr8	126188064	Phe5
+EP	chr8	122582996	chr8	126188075	Phe5
+EP	chr8	122583013	chr8	126188092	Phe5
+EP	chr8	122583107	chr8	126188186	Phe5
+EP	chr8	122583115	chr8	126188194	Phe5
+EP	chr8	122583120	chr8	126188199	Phe5
+EP	chr8	122583184	chr8	126188263	Phe5
+EP	chr8	122583204	chr8	126188283	Phe5
+EP	chr8	122583221	chr8	126188300	Phe5
+EP	chr8	122583223	chr8	126188302	Phe5
+EP	chr8	122583239	chr8	126188318	Phe5
+EP	chr8	122583243	chr8	126188322	Phe5
+EP	chr8	122583277	chr8	126188356	Phe5
+EP	chr8	122583296	chr8	126188375	Phe5
+EP	chr8	122583307	chr8	126188386	Phe5
+EP	chr8	122583368	chr8	126188447	Phe5
+EP	chr8	122583718	chr8	126188797	Phe5
+EP	chr8	122583735	chr8	126188814	Phe5
+EP	chr8	122583837	chr8	126188916	Phe5
+EP	chr8	122583848	chr8	126188927	Phe5
+EP	chr8	122583855	chr8	126188934	Phe5
+EP	chr8	122583868	chr8	126188947	Phe5
+EP	chr8	122583904	chr8	126188983	Phe5
+EP	chr8	122583913	chr8	126188992	Phe5
+EP	chr8	122583916	chr8	126188995	Phe5
+EP	chr8	122583930	chr8	126189009	Phe5
+EP	chr8	122583931	chr8	126189010	Phe5
+EP	chr8	122584001	chr8	126189080	Phe5
+EP	chr8	122584025	chr8	126189104	Phe5
+EP	chr8	122584103	chr8	126189182	Phe5
+EP	chr8	122677525	chr8	126302665	Phe5
+EP	chr8	122681928	chr8	126307068	Phe5
+EP	chr8	122686943	chr8	126312083	Phe5
+EP	chr8	122752664	chr8	126391949	Phe5
+EP	chr8	122787928	chr8	126424839	Phe5
+EP	chr8	122801134	chr8	126447862	Phe5
+EP	chr8	122801786	chr8	126448514	Phe5
+EP	chr8	122803275	chr8	126450003	Phe5
+EP	chr8	122803710	chr8	126450438	Phe5
+EP	chr8	122803733	chr8	126450461	Phe5
+EP	chr8	122803761	chr8	126450489	Phe5
+EP	chr8	122807737	chr8	126454464	Phe5
+EP	chr8	122811045	chr8	126457772	Phe5
+EP	chr8	122811060	chr8	126457787	Phe5
+EP	chr8	122814606	chr8	126461333	Phe5
+EP	chr8	122818066	chr8	126464793	Phe5
+EP	chr8	122826218	chr8	126474934	Phe5
+EP	chr8	122833581	chr8	126482297	Phe5
+EP	chr8	122851809	chr8	126500547	Phe5
+EP	chr8	122853776	chr8	126502514	Phe5
+EP	chr8	122863146	chr8	126511882	Phe5
+EP	chr8	122865165	chr8	126513901	Phe5
+EP	chr8	122866567	chr8	126515303	Phe5
+EP	chr8	122875713	chr8	126524447	Phe5
+EP	chr8	122879750	chr8	126528484	Phe5
+EP	chr8	122881959	chr8	126530693	Phe5
+EP	chr8	122882091	chr8	126530825	Phe5
+EP	chr8	122886351	chr8	126535085	Phe5
+EP	chr8	122887981	chr8	126536715	Phe5
+EP	chr8	122888110	chr8	126536843	Phe5
+EP	chr8	122898134	chr8	126547653	Phe5
+EP	chr8	122900008	chr8	126549527	Phe5
+EP	chr8	122906081	chr8	126555599	Phe5
+EP	chr8	122909897	chr8	126559415	Phe5
+EP	chr8	122911731	chr8	126561248	Phe5
+EP	chr8	122916461	chr8	126565976	Phe5
+EP	chr8	122937257	chr8	126586769	Phe5
+EP	chr8	122939733	chr8	126589247	Phe5
+EP	chr8	122940745	chr8	126590259	Phe5
+EP	chr8	122945006	chr8	126594520	Phe5
+EP	chr8	122945108	chr8	126594622	Phe5
+EP	chr8	122945936	chr8	126595451	Phe5
+EP	chr8	122947871	chr8	126597386	Phe5
+EP	chr8	122948572	chr8	126598087	Phe5
+EP	chr8	122948573	chr8	126598088	Phe5
+EP	chr8	122954036	chr8	126603552	Phe5
+EP	chr8	122960765	chr8	126610281	Phe5
+EP	chr8	122964545	chr8	126614061	Phe5
+EP	chr8	122985004	chr8	126628471	Phe5
+EP	chr8	122967707	chr8	126635509	Phe5
+EP	chr8	122996947	chr8	126646079	Phe5
+EP	chr8	122998093	chr8	126647225	Phe5
+EP	chr8	123000444	chr8	126649576	Phe5
+EP	chr8	123001068	chr8	126650200	Phe5
+EP	chr8	123002898	chr8	126652030	Phe5
+EP	chr8	123034191	chr8	126682492	Phe5
+EP	chr8	123034968	chr8	126683269	Phe5
+EP	chr8	123036520	chr8	126684821	Phe5
+EP	chr8	123036564	chr8	126684865	Phe5
+EP	chr8	123036586	chr8	126684887	Phe5
+EP	chr8	123038287	chr8	126686588	Phe5
+EP	chr8	123038675	chr8	126686976	Phe5
+EP	chr8	123038747	chr8	126687048	Phe5
+EP	chr8	123039067	chr8	126687368	Phe5
+EP	chr8	123039069	chr8	126687370	Phe5
+EP	chr8	123039129	chr8	126687430	Phe5
+EP	chr8	123039857	chr8	126688158	Phe5
+EP	chr8	123040044	chr8	126688345	Phe5
+EP	chr8	123040078	chr8	126688379	Phe5
+EP	chr8	123040122	chr8	126688423	Phe5
+EP	chr8	123040274	chr8	126688575	Phe5
+EP	chr8	123040335	chr8	126688636	Phe5
+EP	chr8	123040425	chr8	126688726	Phe5
+EP	chr8	123040434	chr8	126688735	Phe5
+EP	chr8	123040488	chr8	126688789	Phe5
+EP	chr8	123040552	chr8	126688853	Phe5
+EP	chr8	123040807	chr8	126689108	Phe5
+EP	chr8	123040868	chr8	126689169	Phe5
+EP	chr8	123040933	chr8	126689234	Phe5
+EP	chr8	123040987	chr8	126689288	Phe5
+EP	chr8	123041033	chr8	126689334	Phe5
+EP	chr8	123041067	chr8	126689368	Phe5
+EP	chr8	123041118	chr8	126689419	Phe5
+EP	chr8	123041119	chr8	126689420	Phe5
+EP	chr8	123041174	chr8	126689475	Phe5
+EP	chr8	123041229	chr8	126689530	Phe5
+EP	chr8	123041232	chr8	126689533	Phe5
+EP	chr8	123041235	chr8	126689536	Phe5
+EP	chr8	123041300	chr8	126689601	Phe5
+EP	chr8	123041391	chr8	126689692	Phe5
+EP	chr8	123041427	chr8	126689728	Phe5
+EP	chr8	123041431	chr8	126689732	Phe5
+EP	chr8	123041457	chr8	126689758	Phe5
+EP	chr8	123041493	chr8	126689794	Phe5
+EP	chr8	123041509	chr8	126689810	Phe5
+EP	chr8	123041875	chr8	126690176	Phe5
+EP	chr8	123041888	chr8	126690189	Phe5
+EP	chr8	123041897	chr8	126690198	Phe5
+EP	chr8	123042065	chr8	126690366	Phe5
+EP	chr8	123042079	chr8	126690380	Phe5
+EP	chr8	123042133	chr8	126690434	Phe5
+EP	chr8	123042168	chr8	126690469	Phe5
+EP	chr8	123042207	chr8	126690508	Phe5
+EP	chr8	123443291	chr8	126982914	Phe5
+EP	chr8	123340242	chr8	126986070	Phe5
+EP	chr8	123737591	chr8	127390257	Phe5
+EP	chr8	123737418	chr8	127390430	Phe5
+EP	chr8	123737365	chr8	127390483	Phe5
+EP	chr8	123737080	chr8	127390768	Phe5
+EP	chr8	123733893	chr8	127393955	Phe5
+EP	chr8	123732684	chr8	127395164	Phe5
+EP	chr8	123732626	chr8	127395222	Phe5
+EP	chr8	123732459	chr8	127395389	Phe5
+EP	chr8	123750421	chr8	127396772	Phe5
+EP	chr8	123751338	chr8	127397688	Phe5
+EP	chr8	123752540	chr8	127398892	Phe5
+EP	chr8	123753174	chr8	127399526	Phe5
+EP	chr8	123754534	chr8	127401837	Phe5
+EP	chr8	123754731	chr8	127402034	Phe5
+EP	chr8	123804823	chr8	127452133	Phe5
+EP	chr8	123814610	chr8	127461920	Phe5
+EP	chr8	123987805	chr8	127635035	Phe5
+EP	chr8	123989240	chr8	127636470	Phe5
+EP	chr8	123989280	chr8	127636510	Phe5
+EP	chr8	123989497	chr8	127636727	Phe5
+EP	chr8	123993905	chr8	127641135	Phe5
+EP	chr8	123994266	chr8	127641496	Phe5
+EP	chr8	123996338	chr8	127643568	Phe5
+EP	chr8	123996460	chr8	127643690	Phe5
+EP	chr8	124003390	chr8	127650612	Phe5
+EP	chr8	124003442	chr8	127650664	Phe5
+EP	chr8	124003466	chr8	127650688	Phe5
+EP	chr8	124006140	chr8	127653362	Phe5
+EP	chr8	124007214	chr8	127654436	Phe5
+EP	chr8	124007357	chr8	127654579	Phe5
+EP	chr8	124007812	chr8	127655034	Phe5
+EP	chr8	124008460	chr8	127655682	Phe5
+EP	chr8	124009198	chr8	127656420	Phe5
+EP	chr8	124009337	chr8	127656559	Phe5
+EP	chr8	124009457	chr8	127656679	Phe5
+EP	chr8	124009773	chr8	127656995	Phe5
+EP	chr8	124175507	chr8	127815026	Phe5
+EP	chr8	124307338	chr8	127957445	Phe5
+EP	chr8	124838525	chr8	128506555	Phe5
+EP	chr8	124954129	chr8	128622862	Phe5
+EP	chr8	124954151	chr8	128622884	Phe5
+EP	chr8	124955959	chr8	128624692	Phe5
+EP	chr8	124955969	chr8	128624702	Phe5
+EP	chr8	124955974	chr8	128624707	Phe5
+EP	chr8	124976943	chr8	128645733	Phe5
+EP	chr8	124982767	chr8	128651557	Phe5
+EP	chr8	124982773	chr8	128651563	Phe5
+EP	chr8	124982776	chr8	128651566	Phe5
+EP	chr8	124997632	chr8	128666438	Phe5
+EP	chr8	125339629	chr8	129378410	Phe5
+EP	chr8	126072905	chr8	130168182	Phe5
+EP	chr8	126968265	chr8	130987746	Phe5
+EP	chr8	127955792	chr8	132000827	Phe5
+EP	chr8	127974638	chr8	132019671	Phe5
+EP	chr8	127982557	chr8	132027589	Phe5
+EP	chr8	127982972	chr8	132028004	Phe5
+EP	chr8	128075436	chr8	132129218	Phe5
+EP	chr8	128076844	chr8	132130626	Phe5
+EP	chr8	128076849	chr8	132130631	Phe5
+EP	chr8	128076858	chr8	132130640	Phe5
+EP	chr8	128076887	chr8	132130669	Phe5
+EP	chr8	128077093	chr8	132130875	Phe5
+EP	chr8	128077113	chr8	132130895	Phe5
+EP	chr8	128077195	chr8	132130977	Phe5
+EP	chr8	128077236	chr8	132131018	Phe5
+EP	chr8	128080412	chr8	132134194	Phe5
+EP	chr8	128080431	chr8	132134213	Phe5
+EP	chr8	128080607	chr8	132134389	Phe5
+EP	chr8	128080625	chr8	132134407	Phe5
+EP	chr8	128080772	chr8	132134554	Phe5
+EP	chr8	128082463	chr8	132136245	Phe5
+EP	chr8	128527324	chr8	132585027	Phe5
+EP	chr8	128547022	chr8	132604724	Phe5
+EP	chr8	128587927	chr8	132645393	Phe5
+EP	chr8	129474564	chr8	133511954	Phe5
+EP	chr8	129474786	chr8	133512176	Phe5
+EP	chr8	129478102	chr8	133515491	Phe5
+EP	chr8	129618885	chr8	133688506	Phe5
+EP	chr8	129618228	chr8	133689163	Phe5
+EP	chr8	129618160	chr8	133689231	Phe5
+EP	chr8	129669140	chr8	133694601	Phe5
+EP	chr8	129662844	chr8	133700896	Phe5
+EP	chr8	129662791	chr8	133700949	Phe5
+EP	chr8	129652221	chr8	133716346	Phe5
+EP	chr8	129633303	chr8	133732760	Phe5
+EP	chr8	129678418	chr8	133738892	Phe5
+EP	chr8	129678454	chr8	133738928	Phe5
+EP	chr8	129678657	chr8	133739131	Phe5
+EP	chr8	129682420	chr8	133742966	Phe5
+EP	chr8	129682768	chr8	133743314	Phe5
+EP	chr8	129685424	chr8	133745970	Phe5
+EP	chr8	129692307	chr8	133747813	Phe5
+EP	chr8	129693055	chr8	133748561	Phe5
+EP	chr8	129719942	chr8	133783035	Phe5
+EP	chr8	129721752	chr8	133784845	Phe5
+EP	chr8	129721803	chr8	133784896	Phe5
+EP	chr8	129724288	chr8	133787381	Phe5
+EP	chr8	129727081	chr8	133790175	Phe5
+EP	chr8	129729902	chr8	133792996	Phe5
+EP	chr8	129729922	chr8	133793016	Phe5
+EP	chr8	129730845	chr8	133793939	Phe5
+EP	chr8	129742194	chr8	133805288	Phe5
+EP	chr8	129742561	chr8	133805655	Phe5
+EP	chr8	129742701	chr8	133805795	Phe5
+EP	chr8	129745322	chr8	133808416	Phe5
+EP	chr8	129745342	chr8	133808436	Phe5
+EP	chr8	129889939	chr8	133952626	Phe5
+EP	chr8	129890269	chr8	133952956	Phe5
+EP	chr8	129890286	chr8	133952973	Phe5
+EP	chr8	129891176	chr8	133953863	Phe5
+EP	chr8	129892101	chr8	133954788	Phe5
+EP	chr8	129892258	chr8	133954945	Phe5
+EP	chr8	129902777	chr8	133965462	Phe5
+EP	chr8	129944515	chr8	134017572	Phe5
+EP	chr8	129945239	chr8	134018296	Phe5
+EP	chr8	129945379	chr8	134018436	Phe5
+EP	chr8	130037046	chr8	134106503	Phe5
+EP	chr8	130263853	chr8	134326444	Phe5
+EP	chr8	130283254	chr8	134345840	Phe5
+EP	chr8	130283266	chr8	134345852	Phe5
+EP	chr8	130287369	chr8	134349955	Phe5
+EP	chr8	130288122	chr8	134350708	Phe5
+EP	chr8	130372115	chr8	134438401	Phe5
+EP	chr8	130708009	chr8	134761157	Phe5
+EP	chr8	131521617	chr8	135594957	Phe5
+EP	chr8	131538932	chr8	135611961	Phe5
+EP	chr8	131591403	chr8	135668456	Phe5
+EP	chr8	131591895	chr8	135668948	Phe5
+EP	chr8	131591896	chr8	135668949	Phe5
+EP	chr8	131591906	chr8	135668959	Phe5
+EP	chr8	131591920	chr8	135668973	Phe5
+EP	chr8	131591947	chr8	135669000	Phe5
+EP	chr8	131592203	chr8	135669256	Phe5
+EP	chr8	131592204	chr8	135669257	Phe5
+EP	chr8	131592209	chr8	135669262	Phe5
+EP	chr8	131592266	chr8	135669319	Phe5
+EP	chr8	131592473	chr8	135669526	Phe5
+EP	chr8	131592605	chr8	135669658	Phe5
+EP	chr8	131592637	chr8	135669690	Phe5
+EP	chr8	131592731	chr8	135669784	Phe5
+EP	chr8	131592804	chr8	135669857	Phe5
+EP	chr8	131592816	chr8	135669869	Phe5
+EP	chr8	131592832	chr8	135669885	Phe5
+EP	chr8	131592848	chr8	135669901	Phe5
+EP	chr8	131592862	chr8	135669915	Phe5
+EP	chr8	131592885	chr8	135669938	Phe5
+EP	chr8	131592912	chr8	135669965	Phe5
+EP	chr8	131593242	chr8	135670295	Phe5
+EP	chr8	131593246	chr8	135670299	Phe5
+EP	chr8	131593321	chr8	135670374	Phe5
+EP	chr8	131593523	chr8	135670576	Phe5
+EP	chr8	131593533	chr8	135670586	Phe5
+EP	chr8	131593566	chr8	135670619	Phe5
+EP	chr8	131593917	chr8	135670970	Phe5
+EP	chr8	131594038	chr8	135671091	Phe5
+EP	chr8	131594047	chr8	135671100	Phe5
+EP	chr8	131594092	chr8	135671145	Phe5
+EP	chr8	131594125	chr8	135671178	Phe5
+EP	chr8	131594153	chr8	135671206	Phe5
+EP	chr8	131594175	chr8	135671228	Phe5
+EP	chr8	131594190	chr8	135671243	Phe5
+EP	chr8	131594333	chr8	135671386	Phe5
+EP	chr8	131594335	chr8	135671388	Phe5
+EP	chr8	131594355	chr8	135671408	Phe5
+EP	chr8	131594399	chr8	135671452	Phe5
+EP	chr8	131594427	chr8	135671480	Phe5
+EP	chr8	131594451	chr8	135671504	Phe5
+EP	chr8	131594466	chr8	135671519	Phe5
+EP	chr8	131594509	chr8	135671562	Phe5
+EP	chr8	131594578	chr8	135671631	Phe5
+EP	chr8	131594611	chr8	135671664	Phe5
+EP	chr8	131594650	chr8	135671703	Phe5
+EP	chr8	131594678	chr8	135671731	Phe5
+EP	chr8	131594793	chr8	135671846	Phe5
+EP	chr8	131594997	chr8	135672050	Phe5
+EP	chr8	131595052	chr8	135672105	Phe5
+EP	chr8	131595136	chr8	135672189	Phe5
+EP	chr8	131595140	chr8	135672193	Phe5
+EP	chr8	131595167	chr8	135672220	Phe5
+EP	chr8	131595433	chr8	135672486	Phe5
+EP	chr8	131595471	chr8	135672524	Phe5
+EP	chr8	131595477	chr8	135672530	Phe5
+EP	chr8	131595507	chr8	135672560	Phe5
+EP	chr8	131595519	chr8	135672572	Phe5
+EP	chr8	131595528	chr8	135672581	Phe5
+EP	chr8	131595541	chr8	135672594	Phe5
+EP	chr8	131595579	chr8	135672632	Phe5
+EP	chr8	131595613	chr8	135672666	Phe5
+EP	chr8	131595628	chr8	135672681	Phe5
+EP	chr8	131595629	chr8	135672682	Phe5
+EP	chr8	131595641	chr8	135672694	Phe5
+EP	chr8	131595721	chr8	135672774	Phe5
+EP	chr8	131595741	chr8	135672794	Phe5
+EP	chr8	131596051	chr8	135673104	Phe5
+EP	chr8	131596218	chr8	135673271	Phe5
+EP	chr8	131596224	chr8	135673277	Phe5
+EP	chr8	131596582	chr8	135673635	Phe5
+EP	chr8	131596584	chr8	135673637	Phe5
+EP	chr8	131596600	chr8	135673653	Phe5
+EP	chr8	131596667	chr8	135673720	Phe5
+EP	chr8	131596735	chr8	135673788	Phe5
+EP	chr8	131596766	chr8	135673819	Phe5
+EP	chr8	131596816	chr8	135673869	Phe5
+EP	chr8	131596828	chr8	135673881	Phe5
+EP	chr8	131596877	chr8	135673930	Phe5
+EP	chr8	131596908	chr8	135673961	Phe5
+EP	chr8	131596933	chr8	135673986	Phe5
+EP	chr8	131597045	chr8	135674098	Phe5
+EP	chr8	131597046	chr8	135674099	Phe5
+EP	chr8	131597108	chr8	135674161	Phe5
+EP	chr8	131597121	chr8	135674174	Phe5
+EP	chr8	131597263	chr8	135674316	Phe5
+EP	chr8	131597283	chr8	135674336	Phe5
+EP	chr8	131597337	chr8	135674390	Phe5
+EP	chr8	131597343	chr8	135674396	Phe5
+EP	chr8	131597344	chr8	135674397	Phe5
+EP	chr8	131597363	chr8	135674416	Phe5
+EP	chr8	131597366	chr8	135674419	Phe5
+EP	chr8	131597369	chr8	135674422	Phe5
+EP	chr8	131597419	chr8	135674472	Phe5
+EP	chr8	131597443	chr8	135674496	Phe5
+EP	chr8	131597471	chr8	135674524	Phe5
+EP	chr8	131597702	chr8	135674755	Phe5
+EP	chr8	131597784	chr8	135674837	Phe5
+EP	chr8	131597845	chr8	135674898	Phe5
+EP	chr8	131598022	chr8	135675075	Phe5
+EP	chr8	131598079	chr8	135675132	Phe5
+EP	chr8	131598175	chr8	135675228	Phe5
+EP	chr8	131598198	chr8	135675251	Phe5
+EP	chr8	131598303	chr8	135675356	Phe5
+EP	chr8	131598476	chr8	135675529	Phe5
+EP	chr8	131598553	chr8	135675606	Phe5
+EP	chr8	131598580	chr8	135675633	Phe5
+EP	chr8	131598668	chr8	135675721	Phe5
+EP	chr8	131598697	chr8	135675750	Phe5
+EP	chr8	131598710	chr8	135675763	Phe5
+EP	chr8	131598941	chr8	135675994	Phe5
+EP	chr8	131598970	chr8	135676023	Phe5
+EP	chr8	131599063	chr8	135676116	Phe5
+EP	chr8	131599279	chr8	135676332	Phe5
+EP	chr8	131599392	chr8	135676445	Phe5
+EP	chr8	131599483	chr8	135676536	Phe5
+EP	chr8	131599484	chr8	135676537	Phe5
+EP	chr8	131599495	chr8	135676548	Phe5
+EP	chr8	131599521	chr8	135676574	Phe5
+EP	chr8	131599675	chr8	135676728	Phe5
+EP	chr8	131599699	chr8	135676752	Phe5
+EP	chr8	131599716	chr8	135676769	Phe5
+EP	chr8	131599745	chr8	135676798	Phe5
+EP	chr8	131599752	chr8	135676805	Phe5
+EP	chr8	131599815	chr8	135676868	Phe5
+EP	chr8	131599858	chr8	135676911	Phe5
+EP	chr8	131599929	chr8	135676982	Phe5
+EP	chr8	131599982	chr8	135677035	Phe5
+EP	chr8	131599992	chr8	135677045	Phe5
+EP	chr8	131600015	chr8	135677068	Phe5
+EP	chr8	131600100	chr8	135677153	Phe5
+EP	chr8	131600172	chr8	135677225	Phe5
+EP	chr8	131600718	chr8	135677771	Phe5
+EP	chr8	131625136	chr8	135708459	Phe5
+EP	chr8	131625218	chr8	135708541	Phe5
+EP	chr8	131625255	chr8	135708578	Phe5
+EP	chr8	131625334	chr8	135708657	Phe5
+EP	chr8	131640798	chr8	135724112	Phe5
+EP	chr8	131704149	chr8	135786428	Phe5
+EP	chr8	131704286	chr8	135786565	Phe5
+EP	chr8	131736690	chr8	135829102	Phe5
+EP	chr8	131736898	chr8	135829310	Phe5
+EP	chr8	131736921	chr8	135829333	Phe5
+EP	chr8	131737028	chr8	135829440	Phe5
+EP	chr8	131737477	chr8	135829889	Phe5
+EP	chr8	131737706	chr8	135830118	Phe5
+EP	chr8	131738037	chr8	135830449	Phe5
+EP	chr8	131738622	chr8	135831034	Phe5
+EP	chr8	131739421	chr8	135831833	Phe5
+EP	chr8	131763327	chr8	135855739	Phe5
+EP	chr8	131764891	chr8	135857303	Phe5
+EP	chr8	131764998	chr8	135857410	Phe5
+EP	chr8	131765010	chr8	135857422	Phe5
+EP	chr8	131770245	chr8	135862657	Phe5
+EP	chr8	131770454	chr8	135862866	Phe5
+EP	chr8	131770509	chr8	135862921	Phe5
+EP	chr8	131771110	chr8	135863522	Phe5
+EP	chr8	131782788	chr8	135876597	Phe5
+EP	chr8	131782954	chr8	135876763	Phe5
+EP	chr8	131782972	chr8	135876781	Phe5
+EP	chr8	131793820	chr8	135887629	Phe5
+EP	chr8	131793923	chr8	135887732	Phe5
+EP	chr8	131793950	chr8	135887759	Phe5
+EP	chr8	131806001	chr8	135893398	Phe5
+EP	chr8	131806020	chr8	135893417	Phe5
+EP	chr8	131806128	chr8	135893525	Phe5
+EP	chr8	131806163	chr8	135893560	Phe5
+EP	chr8	131806987	chr8	135894384	Phe5
+EP	chr8	131808501	chr8	135895898	Phe5
+EP	chr8	131817077	chr8	135904436	Phe5
+EP	chr8	131840678	chr8	135928363	Phe5
+EP	chr8	131860688	chr8	135947685	Phe5
+EP	chr8	131861642	chr8	135950914	Phe5
+EP	chr8	131896540	chr8	135985946	Phe5
+EP	chr8	131904188	chr8	135993594	Phe5
+EP	chr8	131905114	chr8	135994520	Phe5
+EP	chr8	132013447	chr8	136101900	Phe5
+EP	chr8	132015062	chr8	136103515	Phe5
+EP	chr8	132277781	chr8	136370543	Phe5
+EP	chr8	132286719	chr8	136379480	Phe5
+EP	chr8	132288139	chr8	136380900	Phe5
+EP	chr8	132352805	chr8	136445817	Phe5
+EP	chr8	132388740	chr8	136481659	Phe5
+EP	chr8	132408063	chr8	136500981	Phe5
+EP	chr8	132408851	chr8	136501769	Phe5
+EP	chr8	135776010	chr8	139825979	Phe5
+EP	chr8	135777261	chr8	139827230	Phe5
+EP	chr8	135777287	chr8	139827256	Phe5
+EP	chr8	135819323	chr8	139872729	Phe5
+EP	chr9	153486419	chr9	159608793	Phe5
+EW	chr1	70730470	chr1	71246763	Phe5
+EW	chr1	70730570	chr1	71246863	Phe5
+EW	chr1	70731866	chr1	71248159	Phe5
+EW	chr1	92289702	chr1	93532822	Phe5
+EW	chr10	122444077	chr10	125027667	Phe5
+EW	chr2	222971551	chr2	228789092	Phe5
+EW	chr2	25540204	chr2	26387125	Phe5
+EW	chr2	25540374	chr2	26387295	Phe5
+EW	chr2	51853215	chr2	53166465	Phe5
+EW	chr2	51853217	chr2	53166467	Phe5
+EW	chr3	225840171	chr3	231431480	Phe5
+EW	chr3	35811260	chr3	36001057	Phe5
+EW	chr4	230742665	chr4	238604752	Phe5
+EW	chr4	60002313	chr4	62617127	Phe5
+EW	chr5	123107162	chr5	125764342	Phe5
+EW	chr6	107007371	chr6	118455206	Phe5
+EW	chr6	884634	chr6	6159103	Phe5
+EW	chr6	95482141	chr6	105117404	Phe5
+EW	chr8	22330512	chr8	22916629	Phe5
+EW	chr8	22331009	chr8	22917126	Phe5
+EW	chr8	22333930	chr8	22920047	Phe5
+EW	chr9	155484494	chr9	161528923	Phe5
+EW	chr9	90520691	chr9	94814430	Phe5
+GYPP	chr1	62346811	chr1	62479272	Phe5
+GYPP	chr2	51853215	chr2	53166465	Phe5
+GYPP	chr2	51853217	chr2	53166467	Phe5
+GYPP	chr3	191918430	chr3	196951108	Phe5
+GYPP	chr4	60002313	chr4	62617127	Phe5
+GYPP	chr4	7078487	chr4	8093706	Phe5
+GYPP	chr4	83678870	chr4	86861606	Phe5
+GYPP	chr5	116234459	chr5	118560789	Phe5
+GYPP	chr5	116234448	chr5	118560800	Phe5
+GYPP	chr5	12559815	chr5	13090883	Phe5
+GYPP	chr5	200491211	chr5	208495826	Phe5
+GYPP	chr5	73576383	chr5	75584323	Phe5
+GYPP	chr6	95482141	chr6	105117404	Phe5
+GYPP	chr8	149905391	chr8	154312433	Phe5
+GYPP	chr8	22330512	chr8	22916629	Phe5
+GYPP	chr8	22333930	chr8	22920047	Phe5
+GYPP	chr9	107071897	chr9	111498326	Phe5
+GYPP	chr9	55335395	chr9	58278625	Phe5
+HKV	chr1	102457138	chr1	104130983	Phe5
+HKV	chr1	124464060	chr1	126350669	Phe5
+HKV	chr1	207320487	chr1	211904140	Phe5
+HKV	chr1	258727630	chr1	265196694	Phe5
+HKV	chr10	124340025	chr10	126875380	Phe5
+HKV	chr10	134228143	chr10	136789142	Phe5
+HKV	chr10	134228146	chr10	136789145	Phe5
+HKV	chr10	134228263	chr10	136789262	Phe5
+HKV	chr10	134459576	chr10	136955278	Phe5
+HKV	chr10	134460125	chr10	136955827	Phe5
+HKV	chr10	134460131	chr10	136955833	Phe5
+HKV	chr10	134460132	chr10	136955834	Phe5
+HKV	chr10	134460146	chr10	136955848	Phe5
+HKV	chr10	134460182	chr10	136955884	Phe5
+HKV	chr10	134460193	chr10	136955895	Phe5
+HKV	chr10	134460501	chr10	136956203	Phe5
+HKV	chr10	134460544	chr10	136956246	Phe5
+HKV	chr10	134461575	chr10	136957277	Phe5
+HKV	chr10	134461761	chr10	136957463	Phe5
+HKV	chr10	134461821	chr10	136957523	Phe5
+HKV	chr10	134461833	chr10	136957535	Phe5
+HKV	chr10	134463150	chr10	136958852	Phe5
+HKV	chr10	134464426	chr10	136960310	Phe5
+HKV	chr10	134464451	chr10	136960334	Phe5
+HKV	chr10	134464686	chr10	136960569	Phe5
+HKV	chr10	134464769	chr10	136960652	Phe5
+HKV	chr10	134464796	chr10	136960679	Phe5
+HKV	chr10	134464803	chr10	136960686	Phe5
+HKV	chr10	134464807	chr10	136960690	Phe5
+HKV	chr10	134464882	chr10	136960765	Phe5
+HKV	chr10	134464887	chr10	136960770	Phe5
+HKV	chr10	134464923	chr10	136960806	Phe5
+HKV	chr10	134465039	chr10	136960922	Phe5
+HKV	chr10	134465091	chr10	136960974	Phe5
+HKV	chr10	134465126	chr10	136961009	Phe5
+HKV	chr10	134465183	chr10	136961066	Phe5
+HKV	chr10	134465298	chr10	136961181	Phe5
+HKV	chr10	134480221	chr10	136976677	Phe5
+HKV	chr10	134480230	chr10	136976686	Phe5
+HKV	chr10	134480308	chr10	136976764	Phe5
+HKV	chr10	134480356	chr10	136976812	Phe5
+HKV	chr10	134480359	chr10	136976815	Phe5
+HKV	chr10	134480381	chr10	136976837	Phe5
+HKV	chr10	134480391	chr10	136976847	Phe5
+HKV	chr10	134480397	chr10	136976853	Phe5
+HKV	chr10	134480402	chr10	136976858	Phe5
+HKV	chr10	134480456	chr10	136976912	Phe5
+HKV	chr10	134424902	chr10	137056611	Phe5
+HKV	chr10	134436331	chr10	137068037	Phe5
+HKV	chr10	134520227	chr10	137124372	Phe5
+HKV	chr10	134520539	chr10	137124684	Phe5
+HKV	chr10	134616211	chr10	137222858	Phe5
+HKV	chr2	104406907	chr2	106896941	Phe5
+HKV	chr2	223695332	chr2	229563945	Phe5
+HKV	chr2	223695395	chr2	229564008	Phe5
+HKV	chr2	224791450	chr2	230672542	Phe5
+HKV	chr2	226280257	chr2	232056962	Phe5
+HKV	chr2	227401256	chr2	233194017	Phe5
+HKV	chr2	227406714	chr2	233199474	Phe5
+HKV	chr2	227451435	chr2	233243433	Phe5
+HKV	chr2	227461924	chr2	233253635	Phe5
+HKV	chr2	227664771	chr2	233463962	Phe5
+HKV	chr2	227704504	chr2	233484157	Phe5
+HKV	chr2	66584106	chr2	68221523	Phe5
+HKV	chr3	65179511	chr3	65798529	Phe5
+HKV	chr4	84182481	chr4	87466157	Phe5
+HKV	chr4	89958553	chr4	93465771	Phe5
+HKV	chr6	130505945	chr6	141215951	Phe5
+HKV	chr6	131545021	chr6	142258844	Phe5
+HKV	chr6	131643949	chr6	142376900	Phe5
+HKV	chr6	142940427	chr6	153890772	Phe5
+HKV	chr8	107323755	chr8	110112088	Phe5
+HKV	chr8	107584265	chr8	110365665	Phe5
+HKV	chr8	62509956	chr8	64054175	Phe5
+HKW	chr1	102457138	chr1	104130983	Phe5
+HKW	chr1	257002775	chr1	263484306	Phe5
+HKW	chr1	258610510	chr1	265075628	Phe5
+HKW	chr10	124340025	chr10	126875380	Phe5
+HKW	chr10	124389739	chr10	126945930	Phe5
+HKW	chr10	124880008	chr10	127424104	Phe5
+HKW	chr10	134460125	chr10	136955827	Phe5
+HKW	chr10	134460193	chr10	136955895	Phe5
+HKW	chr10	134480221	chr10	136976677	Phe5
+HKW	chr10	134480381	chr10	136976837	Phe5
+HKW	chr10	134480456	chr10	136976912	Phe5
+HKW	chr10	49694061	chr10	50473785	Phe5
+HKW	chr10	49694079	chr10	50473803	Phe5
+HKW	chr2	104406907	chr2	106896941	Phe5
+HKW	chr2	322575	chr2	330831	Phe5
+HKW	chr3	65179511	chr3	65798529	Phe5
+HKW	chr6	118622802	chr6	129337206	Phe5
+HKW	chr6	131545021	chr6	142258844	Phe5
+HKW	chr6	142449085	chr6	153390333	Phe5
+HKW	chr6	142940427	chr6	153890772	Phe5
+HKW	chr6	147018353	chr6	157908450	Phe5
+HKW	chr6	164942160	chr6	176205045	Phe5
+HKW	chr6	164942172	chr6	176205057	Phe5
+HKW	chr8	108190521	chr8	110970968	Phe5
+KL	chr1	112472677	chr1	114079849	Phe5
+KL	chr1	182054196	chr1	186099694	Phe5
+KL	chr1	192386093	chr1	196621309	Phe5
+KL	chr1	258610044	chr1	265075162	Phe5
+KL	chr1	73978591	chr1	74621244	Phe5
+KL	chr1	73978595	chr1	74621248	Phe5
+KL	chr1	73978600	chr1	74621253	Phe5
+KL	chr1	73978612	chr1	74621265	Phe5
+KL	chr1	73978629	chr1	74621282	Phe5
+KL	chr1	77480549	chr1	78233327	Phe5
+KL	chr10	145907143	chr10	148701699	Phe5
+KL	chr2	206598305	chr2	212776269	Phe5
+KL	chr2	2505854	chr2	2793357	Phe5
+KL	chr2	2554385	chr2	2842065	Phe5
+KL	chr3	12286217	chr3	12238644	Phe5
+KL	chr3	154140718	chr3	156242500	Phe5
+KL	chr3	154153499	chr3	156255276	Phe5
+KL	chr5	126484018	chr5	129176820	Phe5
+KL	chr5	126484025	chr5	129176827	Phe5
+KL	chr5	206661577	chr5	214948285	Phe5
+KL	chr5	208210940	chr5	216470334	Phe5
+KL	chr5	208210947	chr5	216470341	Phe5
+KL	chr5	208724054	chr5	217020884	Phe5
+KL	chr5	208747555	chr5	217044385	Phe5
+KL	chr5	208868499	chr5	217100244	Phe5
+KL	chr5	208868560	chr5	217100305	Phe5
+KL	chr5	208868564	chr5	217100309	Phe5
+KL	chr5	208868568	chr5	217100313	Phe5
+KL	chr5	70804467	chr5	72787874	Phe5
+KL	chr5	70804487	chr5	72787894	Phe5
+KL	chr5	70804522	chr5	72787929	Phe5
+KL	chr6	50276652	chr6	59350563	Phe5
+KL	chr6	70895415	chr6	80122655	Phe5
+KL	chr8	122000110	chr8	125387934	Phe5
+KL	chr8	122000129	chr8	125387953	Phe5
+KL	chr8	122000144	chr8	125387968	Phe5
+KL	chr9	8978100	chr9	10320582	Phe5
+KL	chr9	91956331	chr9	96299993	Phe5
+KNPR	chr1	60249698	chr1	60388139	Phe5
+KNPR	chr1	66677244	chr1	66199188	Phe5
+KNPR	chr1	66677241	chr1	66199191	Phe5
+KNPR	chr1	66606864	chr1	66281514	Phe5
+KNPR	chr1	66606859	chr1	66281519	Phe5
+KNPR	chr2	101143683	chr2	103569187	Phe5
+KNPR	chr2	223705679	chr2	229574292	Phe5
+KNPR	chr2	223705728	chr2	229574341	Phe5
+KNPR	chr2	51804732	chr2	53119830	Phe5
+KNPR	chr4	153425492	chr4	158781607	Phe5
+KNPR	chr5	115843638	chr5	118204102	Phe5
+KNPR	chr5	115977637	chr5	118341594	Phe5
+KNPR	chr5	133581298	chr5	136271205	Phe5
+KNPR	chr6	31408488	chr6	39236966	Phe5
+KNPR	chr6	31408536	chr6	39237014	Phe5
+KNPR	chr7	97128827	chr7	101593084	Phe5
+KNPR	chr7	11713047	chr7	11941062	Phe5
+KNPR	chr7	11713081	chr7	11941096	Phe5
+KNPR	chr7	155094205	chr7	164010785	Phe5
+KR	chr1	17487846	chr1	17697279	Phe5
+KR	chr1	190726969	chr1	194876557	Phe5
+KR	chr1	222495126	chr1	227728234	Phe5
+KR	chr1	61432448	chr1	61556237	Phe5
+KR	chr1	63627112	chr1	63782505	Phe5
+KR	chr1	64154900	chr1	64280424	Phe5
+KR	chr1	64600804	chr1	64752721	Phe5
+KR	chr10	135649318	chr10	138260430	Phe5
+KR	chr10	140429309	chr10	143126153	Phe5
+KR	chr10	1880753	chr10	1407561	Phe5
+KR	chr10	3904682	chr10	3440000	Phe5
+KR	chr10	45139285	chr10	45953758	Phe5
+KR	chr10	93497811	chr10	95459067	Phe5
+KR	chr2	125580236	chr2	129022958	Phe5
+KR	chr2	127312819	chr2	130767714	Phe5
+KR	chr2	127324135	chr2	130779027	Phe5
+KR	chr2	16560620	chr2	17184896	Phe5
+KR	chr2	207715328	chr2	213907642	Phe5
+KR	chr2	207811886	chr2	214008225	Phe5
+KR	chr2	207813206	chr2	214009545	Phe5
+KR	chr2	39101206	chr2	40045180	Phe5
+KR	chr2	68538317	chr2	70172593	Phe5
+KR	chr3	149794364	chr3	151825378	Phe5
+KR	chr3	178314558	chr3	183290598	Phe5
+KR	chr3	178314573	chr3	183290613	Phe5
+KR	chr3	178314575	chr3	183290615	Phe5
+KR	chr3	205333759	chr3	210739411	Phe5
+KR	chr3	207228481	chr3	212707410	Phe5
+KR	chr3	225843538	chr3	231434847	Phe5
+KR	chr3	7126770	chr3	7057291	Phe5
+KR	chr3	103793983	chr3	91011734	Phe5
+KR	chr4	211693329	chr4	218019252	Phe5
+KR	chr4	226107496	chr4	233974101	Phe5
+KR	chr4	30876610	chr4	32893134	Phe5
+KR	chr4	58740057	chr4	61341322	Phe5
+KR	chr5	120797408	chr5	123165791	Phe5
+KR	chr5	6334238	chr5	6781701	Phe5
+KR	chr6	163077122	chr6	174421509	Phe5
+KR	chr6	163079709	chr6	174424096	Phe5
+KR	chr6	163079710	chr6	174424097	Phe5
+KR	chr6	163079754	chr6	174424141	Phe5
+KR	chr6	163079756	chr6	174424143	Phe5
+KR	chr6	163079759	chr6	174424146	Phe5
+KR	chr6	8849565	chr6	14462867	Phe5
+KR	chr7	147118419	chr7	153495790	Phe5
+KR	chr7	147118432	chr7	153495803	Phe5
+KR	chr7	45061539	chr7	46151326	Phe5
+KR	chr7	45061573	chr7	46151360	Phe5
+KR	chr7	5233363	chr7	5419487	Phe5
+KR	chr7	5239195	chr7	5425319	Phe5
+KR	chr7	70886775	chr7	74688767	Phe5
+KR	chr8	958044	chr8	1273666	Phe5
+KR	chr8	65744671	chr8	67487836	Phe5
+KRN	chr1	33388079	chr1	33374337	Phe5
+KRN	chr1	95970415	chr1	97283704	Phe5
+KRN	chr2	213560630	chr2	219673411	Phe5
+KRN	chr2	213560989	chr2	219673770	Phe5
+KRN	chr2	213684334	chr2	219685138	Phe5
+KRN	chr2	228590201	chr2	234371484	Phe5
+KRN	chr2	75566137	chr2	77377933	Phe5
+KRN	chr3	203008252	chr3	208254298	Phe5
+KRN	chr3	203008265	chr3	208254311	Phe5
+KRN	chr3	221723370	chr3	227255531	Phe5
+KRN	chr3	225705914	chr3	231276759	Phe5
+KRN	chr4	133309683	chr4	138289139	Phe5
+KRN	chr4	198715887	chr4	204649423	Phe5
+KRN	chr4	199253644	chr4	205207839	Phe5
+KRN	chr4	199261699	chr4	205215890	Phe5
+KRN	chr4	199289539	chr4	205242867	Phe5
+KRN	chr4	218636257	chr4	225174678	Phe5
+KRN	chr4	228494508	chr4	236380819	Phe5
+KRN	chr4	228495233	chr4	236381544	Phe5
+KRN	chr4	233984462	chr4	241959069	Phe5
+KRN	chr4	233990033	chr4	241964636	Phe5
+KRN	chr4	234017211	chr4	241991806	Phe5
+KRN	chr4	236433493	chr4	244434894	Phe5
+KRN	chr4	3022842	chr4	3862001	Phe5
+KRN	chr5	2189932	chr5	2471589	Phe5
+KRN	chr5	2323597	chr5	2638076	Phe5
+KRN	chr5	2325168	chr5	2639647	Phe5
+KRN	chr5	2327301	chr5	2641780	Phe5
+KRN	chr5	2333860	chr5	2648339	Phe5
+KRN	chr5	2333989	chr5	2648468	Phe5
+KRN	chr5	2338279	chr5	2652759	Phe5
+KRN	chr5	27869157	chr5	28903767	Phe5
+KRN	chr5	3335020	chr5	3614546	Phe5
+KRN	chr6	151082311	chr6	162048278	Phe5
+KRN	chr6	151291815	chr6	162277372	Phe5
+KRN	chr6	151291849	chr6	162277406	Phe5
+KRN	chr6	151292737	chr6	162278294	Phe5
+KRN	chr6	151319232	chr6	162313163	Phe5
+KRN	chr6	153043466	chr6	163962972	Phe5
+KRN	chr7	26434187	chr7	27317884	Phe5
+KRN	chr9	146954924	chr9	153009140	Phe5
+KRN	chr9	24430246	chr9	26366032	Phe5
+KW	chr1	42365521	chr1	42210246	Phe5
+KW	chr10	134460193	chr10	136955895	Phe5
+KW	chr2	227401293	chr2	233194054	Phe5
+KW	chr2	227555784	chr2	233386690	Phe5
+KW	chr2	227688718	chr2	233414201	Phe5
+KW	chr2	23611359	chr2	24432066	Phe5
+KW	chr2	23611448	chr2	24432155	Phe5
+KW	chr2	51089156	chr2	52382542	Phe5
+KW	chr3	23240491	chr3	23285437	Phe5
+KW	chr3	65179511	chr3	65798529	Phe5
+KW	chr4	162628511	chr4	167736267	Phe5
+KW	chr4	199877447	chr4	205820661	Phe5
+KW	chr4	7330541	chr4	8347068	Phe5
+KW	chr4	7330543	chr4	8347070	Phe5
+KW	chr5	72645281	chr5	74626043	Phe5
+KW	chr5	72654587	chr5	74634629	Phe5
+KW	chr6	130210736	chr6	140929565	Phe5
+KW	chr6	70568464	chr6	79846375	Phe5
+KW	chr9	142039325	chr9	147913533	Phe5
+KWPE	chr1	258610044	chr1	265075162	Phe5
+KWPE	chr1	70731866	chr1	71248159	Phe5
+KWPE	chr1	92289702	chr1	93532822	Phe5
+KWPE	chr10	122444077	chr10	125027667	Phe5
+KWPE	chr2	222971551	chr2	228789092	Phe5
+KWPE	chr2	25540374	chr2	26387295	Phe5
+KWPE	chr2	51817171	chr2	53132267	Phe5
+KWPE	chr2	51817190	chr2	53132286	Phe5
+KWPE	chr2	51817198	chr2	53132294	Phe5
+KWPE	chr2	51817210	chr2	53132306	Phe5
+KWPE	chr2	51853215	chr2	53166465	Phe5
+KWPE	chr2	51853217	chr2	53166467	Phe5
+KWPE	chr2	51853322	chr2	53166572	Phe5
+KWPE	chr3	35811260	chr3	36001057	Phe5
+KWPE	chr4	140497129	chr4	145600571	Phe5
+KWPE	chr4	140641811	chr4	145742862	Phe5
+KWPE	chr4	17793758	chr4	19474419	Phe5
+KWPE	chr4	18748258	chr4	20412433	Phe5
+KWPE	chr4	60002313	chr4	62617127	Phe5
+KWPE	chr5	200491211	chr5	208495826	Phe5
+KWPE	chr6	107007371	chr6	118455206	Phe5
+KWPE	chr6	95482141	chr6	105117404	Phe5
+KWPE	chr8	108736930	chr8	111541618	Phe5
+KWPE	chr8	22330512	chr8	22916629	Phe5
+KWPE	chr8	22331009	chr8	22917126	Phe5
+KWPE	chr8	22333930	chr8	22920047	Phe5
+KWPE	chr9	131676799	chr9	137347705	Phe5
+KWPE	chr9	155484494	chr9	161528923	Phe5
+KWPE	chr9	90520691	chr9	94814430	Phe5
+PH	chr1	144469973	chr1	147887202	Phe5
+PH	chr1	233040732	chr1	238670581	Phe5
+PH	chr1	233214915	chr1	238769747	Phe5
+PH	chr1	233618893	chr1	239259149	Phe5
+PH	chr1	234324512	chr1	239982447	Phe5
+PH	chr1	234356201	chr1	240013324	Phe5
+PH	chr1	234356251	chr1	240013374	Phe5
+PH	chr1	234830173	chr1	240284615	Phe5
+PH	chr1	234878924	chr1	240323069	Phe5
+PH	chr1	250132316	chr1	256227524	Phe5
+PH	chr1	251017552	chr1	257128102	Phe5
+PH	chr1	251031196	chr1	257141746	Phe5
+PH	chr1	251084687	chr1	257198393	Phe5
+PH	chr1	251102119	chr1	257215825	Phe5
+PH	chr1	251139927	chr1	257253289	Phe5
+PH	chr1	27010142	chr1	26906226	Phe5
+PH	chr1	77427447	chr1	78165091	Phe5
+PH	chr1	80084175	chr1	80903689	Phe5
+PH	chr1	83294943	chr1	84129495	Phe5
+PH	chr1	84307579	chr1	85183065	Phe5
+PH	chr1	90114742	chr1	91152300	Phe5
+PH	chr1	95040123	chr1	96380797	Phe5
+PH	chr10	105877905	chr10	108123625	Phe5
+PH	chr2	193434253	chr2	198728747	Phe5
+PH	chr2	193801363	chr2	199183774	Phe5
+PH	chr2	2505091	chr2	2792594	Phe5
+PH	chr3	137043002	chr3	138633232	Phe5
+PH	chr3	81642841	chr3	82307649	Phe5
+PH	chr5	195937048	chr5	203788576	Phe5
+PH	chr5	3987697	chr5	4272278	Phe5
+PH	chr5	3990585	chr5	4275165	Phe5
+PH	chr7	165076559	chr7	174158187	Phe5
+PH	chr8	109642120	chr8	112629020	Phe5
+PH	chr8	131514427	chr8	135587769	Phe5
+PH	chr8	133648535	chr8	137692702	Phe5
+PH	chr8	45100560	chr8	46246572	Phe5
+TBN	chr1	103698861	chr1	105343104	Phe5
+TBN	chr1	14782027	chr1	14886953	Phe5
+TBN	chr1	163787240	chr1	167665942	Phe5
+TBN	chr1	42340665	chr1	42185397	Phe5
+TBN	chr10	105010392	chr10	107254843	Phe5
+TBN	chr10	109535991	chr10	111901881	Phe5
+TBN	chr10	109536007	chr10	111901897	Phe5
+TBN	chr10	121255276	chr10	123875077	Phe5
+TBN	chr10	47992761	chr10	48806313	Phe5
+TBN	chr10	91261346	chr10	93087633	Phe5
+TBN	chr2	113420523	chr2	116104432	Phe5
+TBN	chr2	159322026	chr2	163191854	Phe5
+TBN	chr2	160034877	chr2	163918155	Phe5
+TBN	chr2	172528262	chr2	176359520	Phe5
+TBN	chr2	191590226	chr2	196880450	Phe5
+TBN	chr2	193528823	chr2	198923888	Phe5
+TBN	chr3	87900304	chr3	112446573	Phe5
+TBN	chr3	15289343	chr3	15256540	Phe5
+TBN	chr3	173041763	chr3	177686748	Phe5
+TBN	chr3	173842087	chr3	178518681	Phe5
+TBN	chr3	174379874	chr3	179048748	Phe5
+TBN	chr3	174871246	chr3	179567387	Phe5
+TBN	chr3	174871266	chr3	179567407	Phe5
+TBN	chr3	174871273	chr3	179567414	Phe5
+TBN	chr3	174871291	chr3	179567432	Phe5
+TBN	chr3	177795820	chr3	182741097	Phe5
+TBN	chr3	181191646	chr3	186227816	Phe5
+TBN	chr3	181194704	chr3	186230874	Phe5
+TBN	chr3	181274460	chr3	186291958	Phe5
+TBN	chr3	183307728	chr3	188362771	Phe5
+TBN	chr3	183399038	chr3	188454984	Phe5
+TBN	chr3	183399121	chr3	188455067	Phe5
+TBN	chr3	183403579	chr3	188459525	Phe5
+TBN	chr3	183405697	chr3	188461684	Phe5
+TBN	chr3	183427790	chr3	188483775	Phe5
+TBN	chr3	186581593	chr3	191609087	Phe5
+TBN	chr3	201751979	chr3	206959902	Phe5
+TBN	chr3	218673197	chr3	224130771	Phe5
+TBN	chr3	220935665	chr3	226462466	Phe5
+TBN	chr3	39745853	chr3	39774751	Phe5
+TBN	chr3	39745876	chr3	39774774	Phe5
+TBN	chr3	45567458	chr3	45552379	Phe5
+TBN	chr3	57663777	chr3	58190673	Phe5
+TBN	chr3	75585807	chr3	76223819	Phe5
+TBN	chr4	179741491	chr4	184660053	Phe5
+TBN	chr4	186843855	chr4	192091812	Phe5
+TBN	chr4	8447034	chr4	9475240	Phe5
+TBN	chr4	8447088	chr4	9475294	Phe5
+TBN	chr4	8447140	chr4	9475346	Phe5
+TBN	chr4	8455553	chr4	9483768	Phe5
+TBN	chr4	8455570	chr4	9483785	Phe5
+TBN	chr4	8455578	chr4	9483793	Phe5
+TBN	chr4	8455634	chr4	9483849	Phe5
+TBN	chr4	8455638	chr4	9483853	Phe5
+TBN	chr4	8455689	chr4	9483904	Phe5
+TBN	chr4	8455693	chr4	9483908	Phe5
+TBN	chr4	92401591	chr4	95915482	Phe5
+TBN	chr5	9672326	chr5	10183867	Phe5
+TBN	chr5	115942304	chr5	118301521	Phe5
+TBN	chr5	115942335	chr5	118301552	Phe5
+TBN	chr5	12286935	chr5	12866836	Phe5
+TBN	chr5	153369200	chr5	156514731	Phe5
+TBN	chr5	160648418	chr5	163794392	Phe5
+TBN	chr5	203092704	chr5	211062003	Phe5
+TBN	chr6	104718362	chr6	114877348	Phe5
+TBN	chr6	108104180	chr6	119471045	Phe5
+TBN	chr6	108104160	chr6	119471065	Phe5
+TBN	chr6	108104155	chr6	119471070	Phe5
+TBN	chr6	108104151	chr6	119471074	Phe5
+TBN	chr6	108297299	chr6	119683906	Phe5
+TBN	chr6	108297311	chr6	119683918	Phe5
+TBN	chr6	121206947	chr6	131817392	Phe5
+TBN	chr6	48366877	chr6	56148098	Phe5
+TBN	chr6	69277426	chr6	78573085	Phe5
+TBN	chr7	112665131	chr7	117277873	Phe5
+TBN	chr7	131223335	chr7	136531017	Phe5
+TBN	chr7	144753624	chr7	150823976	Phe5
+TBN	chr7	150509998	chr7	159397538	Phe5
+TBN	chr7	150620114	chr7	159514721	Phe5
+TBN	chr7	36986470	chr7	37966917	Phe5
+TBN	chr7	37251509	chr7	38182631	Phe5
+TBN	chr7	54483763	chr7	55831066	Phe5
+TBN	chr7	59775739	chr7	61144860	Phe5
+TBN	chr7	56278410	chr7	64676691	Phe5
+TBN	chr8	19271032	chr8	19918529	Phe5
+TBN	chr8	19295194	chr8	19943752	Phe5
+TBN	chr8	19684725	chr8	20293752	Phe5
+TBN	chr8	19977105	chr8	20584264	Phe5
+TBN	chr8	20005006	chr8	20612158	Phe5
+TBN	chr8	20012891	chr8	20620043	Phe5
+TBN	chr8	20035641	chr8	20643544	Phe5
+TBN	chr8	20313402	chr8	20925138	Phe5
+TBN	chr8	20561172	chr8	21186845	Phe5
+TBN	chr8	21166864	chr8	21759342	Phe5
+TBN	chr8	21394385	chr8	21986732	Phe5
+TBN	chr8	21394419	chr8	21986766	Phe5
+TBN	chr8	21395301	chr8	21987648	Phe5
+TBN	chr8	21395306	chr8	21987653	Phe5
+TBN	chr8	21425502	chr8	22017848	Phe5
+TBN	chr8	21425521	chr8	22017867	Phe5
+TBN	chr8	21444799	chr8	22030609	Phe5
+TBN	chr8	21586148	chr8	22168046	Phe5
+TBN	chr8	25129154	chr8	25775190	Phe5
+TBN	chr8	27852091	chr8	28611347	Phe5
+TBN	chr8	36767540	chr8	37682524	Phe5
+TBN	chr8	39901133	chr8	40982717	Phe5
+TBN	chr8	45256316	chr8	46421737	Phe5
+TBN	chr8	5116490	chr8	5452402	Phe5
+TBN	chr8	5116593	chr8	5452505	Phe5
+TBN	chr8	5117630	chr8	5453542	Phe5
+TBN	chr8	5117738	chr8	5453650	Phe5
+TBN	chr8	5117751	chr8	5453663	Phe5
+TBN	chr8	58602930	chr8	60129118	Phe5
+TBN	chr8	64698682	chr8	66445473	Phe5
+TBN	chr8	65083077	chr8	66881049	Phe5
+TBN	chr8	65211719	chr8	66924600	Phe5
+TBN	chr8	65265315	chr8	67004378	Phe5
+TBN	chr8	65441355	chr8	67168934	Phe5
+TBN	chr8	69833466	chr8	71590828	Phe5
+TBN	chr8	70579805	chr8	72354605	Phe5
+TBN	chr8	70681933	chr8	72462825	Phe5
+TBN	chr8	70681937	chr8	72462829	Phe5
+TBN	chr8	70688790	chr8	72469682	Phe5
+TBN	chr8	70688891	chr8	72469783	Phe5
+TBN	chr8	70688923	chr8	72469815	Phe5
+TBN	chr8	70688938	chr8	72469830	Phe5
+TBN	chr8	70688961	chr8	72469853	Phe5
+TBN	chr8	70693795	chr8	72474687	Phe5
+TBN	chr8	71813904	chr8	73627313	Phe5
+TBN	chr8	97092007	chr8	99467652	Phe5
+TBN	chr9	18910120	chr9	20716679	Phe5
+TBN	chr9	20839004	chr9	22685612	Phe5
+TBN	chr9	20839340	chr9	22685948	Phe5
+TBN	chr9	20842710	chr9	22689318	Phe5
+TBN	chr9	20842715	chr9	22689323	Phe5
+TBN	chr9	20842771	chr9	22689379	Phe5
+TBN	chr9	20842774	chr9	22689382	Phe5
+TBN	chr9	20842944	chr9	22689552	Phe5
+TBN	chr9	20842963	chr9	22689571	Phe5
+TBN	chr9	20842991	chr9	22689599	Phe5
+TBN	chr9	20843050	chr9	22689658	Phe5
+TBN	chr9	20843114	chr9	22689722	Phe5
+TBN	chr9	20843118	chr9	22689726	Phe5
+TBN	chr9	20843201	chr9	22689809	Phe5
+TBN	chr9	20843552	chr9	22690158	Phe5
+TBN	chr9	20843616	chr9	22690222	Phe5
+TBN	chr9	20862869	chr9	22713934	Phe5
+TBN	chr9	20862872	chr9	22713937	Phe5
+TBN	chr9	23522674	chr9	25402029	Phe5
+TBN	chr9	26523251	chr9	28460456	Phe5
+TBN	chr9	50292414	chr9	53088285	Phe5
+TBN	chr9	72346110	chr9	60748371	Phe5
+TBN	chr9	70505626	chr9	62527519	Phe5
+TBN	chr9	69268987	chr9	63813675	Phe5
+TBN	chr9	65302833	chr9	67809500	Phe5
+TBN	chr9	58477382	chr9	74811722	Phe5
+TL	chr1	118465247	chr1	120258101	Phe5
+TL	chr1	195152049	chr1	199435179	Phe5
+TL	chr1	195154649	chr1	199437779	Phe5
+TL	chr1	270314049	chr1	276782603	Phe5
+TL	chr1	276397212	chr1	282984555	Phe5
+TL	chr2	214697974	chr2	220816962	Phe5
+TL	chr2	219679868	chr2	225737475	Phe5
+TL	chr2	27676172	chr2	28555666	Phe5
+TL	chr2	27676173	chr2	28555667	Phe5
+TL	chr2	27676193	chr2	28555687	Phe5
+TL	chr3	211348952	chr3	216849874	Phe5
+TL	chr3	211348954	chr3	216849876	Phe5
+TL	chr3	212058489	chr3	217603632	Phe5
+TL	chr3	213103568	chr3	218649600	Phe5
+TL	chr3	213112428	chr3	218658456	Phe5
+TL	chr3	213283650	chr3	218789311	Phe5
+TL	chr3	213324371	chr3	218830027	Phe5
+TL	chr3	217071108	chr3	222493524	Phe5
+TL	chr4	161236109	chr4	166381251	Phe5
+TL	chr4	222818767	chr4	229522754	Phe5
+TL	chr5	200353857	chr5	208361634	Phe5
+TL	chr5	7351061	chr5	7781555	Phe5
+TL	chr6	147917830	chr6	158874498	Phe5
+TL	chr6	147917844	chr6	158874512	Phe5
+TL	chr6	148783279	chr6	159650544	Phe5
+TL	chr6	150330055	chr6	161269625	Phe5
+TL	chr6	150418852	chr6	161350926	Phe5
+TL	chr6	150854005	chr6	161819143	Phe5
+TL	chr6	151920746	chr6	162886018	Phe5
+TL	chr6	154387265	chr6	165398070	Phe5
+TL	chr6	160191887	chr6	171475952	Phe5
+TL	chr6	160191891	chr6	171475956	Phe5
+TL	chr6	160207300	chr6	171491365	Phe5
+TL	chr6	160207307	chr6	171491372	Phe5
+TL	chr6	160207399	chr6	171491464	Phe5
+TL	chr8	113300675	chr8	116367258	Phe5
+TL	chr9	98045227	chr9	102353991	Phe5
+TL	chr9	103564529	chr9	107930534	Phe5
+TL	chr9	103570383	chr9	107936387	Phe5
+TL	chr9	103624200	chr9	107990352	Phe5
+TL	chr9	109203012	chr9	113655183	Phe5
+dT3/（gT3+aT3）	chr5	133167347	chr5	135870038	GWAS
+aT	chr5	200490842	chr5	208495457	GWAS
+gT/（gT+aT）	chr5	200490842	chr5	208495457	GWAS
+Total.Tocopherols/Total.Tocotrienols	chr9	93558250	chr9	97885417	GWAS
+Tetrahydrolycopene	chr7	151014661	chr7	159996497	GWAS
+Zeinoxanthin/Lutein	chr1	86775549	chr1	87808526	GWAS
+Zeinoxanthin	chr1	86775549	chr1	87808526	GWAS
+α-Carotene/Zeinoxanthin	chr1	86775549	chr1	87808526	GWAS
+β-Carotenes/α-Carotenes	chr8	138416368	chr8	142586917	GWAS
+β-Xanthophylls/α-Xanthophylls	chr8	138416368	chr8	142586917	GWAS
+EarRowNumber	chr7	133800308	chr7	139151000	GWAS
+NIROil	chr6	121252082	chr6	131863423	GWAS
+Spikelets.MainSpike	chr8	1719011	chr8	2026877	GWAS
+Spikelets.MainSpike	chr8	1725292	chr8	2033158	GWAS
+Spikelets.PrimaryBranch	chr5	169406846	chr5	172673984	GWAS
+20KernelWeight	chr3	106425347	chr3	93656276	GWAS
+note: phe1: Liu et al., 2021. phe2: Jin et al., 2022. phe3: Liu et al., 2020. phe4: Wang et al., 2020. phe5: Li et al., 2022.					

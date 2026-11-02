@@ -1,0 +1,78 @@
+run	tissue	genotype	variant	fastp_args	salmon_index	reads_in	reads_kept	reads_mapped	pct_mapped_of_input	libtype	SF	SR
+SRR5909624	GRoot	A556	A_raw	none	transcripts	200000	200000	89975	45.0	SF	89603	1136
+SRR5909625	L3Base	A556	A_raw	none	transcripts	200000	200000	96556	48.3	SF	95912	1946
+SRR5909626	LMAD	CI21E	A_raw	none	transcripts	200000	200000	69309	34.7	SF	67680	2716
+SRR5909627	LMAN	CI21E	A_raw	none	transcripts	200000	200000	72429	36.2	SF	70955	2387
+SRR5909628	L3Tip	B73Htrhm	A_raw	none	transcripts	200000	200000	77386	38.7	SF	75363	3113
+SRR5909629	Kern	B73Htrhm	A_raw	none	transcripts	200000	200000	96358	48.2	SF	96168	1257
+SRR5909638	GShoot	B109	A_raw	none	transcripts	200000	200000	105081	52.5	SF	104759	1279
+SRR5909658	L3Mid	CI187-2	A_raw	none	transcripts	200000	200000	90008	45.0	SF	89078	2415
+SRR5909674	L3Tip	B73	A_raw	none	transcripts	200000	200000	73054	36.5	SF	71109	3011
+SRR5909879	LMid	CML108	A_raw	none	transcripts	200000	200000	80678	40.3	SF	79645	2702
+SRR5909880	L3Base	CML108	A_raw	none	transcripts	200000	200000	95448	47.7	SF	94956	1485
+SRR5909624	GRoot	A556	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	180723	95166	47.6	SF	94770	1181
+SRR5909625	L3Base	A556	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	179452	99481	49.7	SF	98712	2088
+SRR5909626	LMAD	CI21E	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	177289	74156	37.1	SF	72156	3083
+SRR5909627	LMAN	CI21E	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	171246	72917	36.5	SF	71075	2772
+SRR5909628	L3Tip	B73Htrhm	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	182277	82460	41.2	SF	80009	3529
+SRR5909629	Kern	B73Htrhm	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	185648	106570	53.3	SF	106372	1265
+SRR5909638	GShoot	B109	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	188184	114645	57.3	SF	114321	1286
+SRR5909658	L3Mid	CI187-2	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	183284	96689	48.3	SF	95625	2573
+SRR5909674	L3Tip	B73	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	180564	78408	39.2	SF	76012	3483
+SRR5909879	LMid	CML108	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	184819	85885	42.9	SF	84737	2831
+SRR5909880	L3Base	CML108	B_xue2021	--trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	182448	101350	50.7	SF	100815	1538
+SRR5909624	GRoot	A556	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	178677	95545	47.8	SF	95154	1179
+SRR5909625	L3Base	A556	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	178145	99706	49.9	SF	98938	2089
+SRR5909626	LMAD	CI21E	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	176606	74215	37.1	SF	72227	3057
+SRR5909627	LMAN	CI21E	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	171208	73012	36.5	SF	71182	2765
+SRR5909628	L3Tip	B73Htrhm	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	180983	82818	41.4	SF	80350	3550
+SRR5909629	Kern	B73Htrhm	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	182065	107810	53.9	SF	107612	1273
+SRR5909638	GShoot	B109	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	185297	114996	57.5	SF	114672	1291
+SRR5909658	L3Mid	CI187-2	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	180840	97063	48.5	SF	95987	2580
+SRR5909674	L3Tip	B73	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	179208	78798	39.4	SF	76430	3455
+SRR5909879	LMid	CML108	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	183530	86139	43.1	SF	84970	2911
+SRR5909880	L3Base	CML108	C_xue_polyg	--trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	180558	101614	50.8	SF	101081	1551
+SRR5909624	GRoot	A556	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	174905	104676	52.3	SF	104272	1197
+SRR5909625	L3Base	A556	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	175172	105349	52.7	SF	104570	2104
+SRR5909626	LMAD	CI21E	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	171719	78733	39.4	SF	76776	3057
+SRR5909627	LMAN	CI21E	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	169930	79629	39.8	SF	77852	2721
+SRR5909628	L3Tip	B73Htrhm	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	174620	90482	45.2	SF	88147	3416
+SRR5909629	Kern	B73Htrhm	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	174195	126068	63.0	SF	125876	1241
+SRR5909638	GShoot	B109	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	179379	122021	61.0	SF	121674	1329
+SRR5909658	L3Mid	CI187-2	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	174493	105757	52.9	SF	104697	2572
+SRR5909674	L3Tip	B73	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	172712	87594	43.8	SF	85298	3396
+SRR5909879	LMid	CML108	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	173983	94298	47.1	SF	93186	2781
+SRR5909880	L3Base	CML108	D_polyA_adapter	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --trim_front1 12 --length_required 20	transcripts	200000	175282	107558	53.8	SF	107001	1570
+SRR5909624	GRoot	A556	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183643	112141	56.1	SF	111732	1213
+SRR5909625	L3Base	A556	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	182814	111240	55.6	SF	110567	2003
+SRR5909626	LMAD	CI21E	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	181142	83490	41.7	SF	81958	2622
+SRR5909627	LMAN	CI21E	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	180126	84805	42.4	SF	83429	2332
+SRR5909628	L3Tip	B73Htrhm	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183963	95566	47.8	SF	93621	3055
+SRR5909629	Kern	B73Htrhm	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183564	136135	68.1	SF	135943	1209
+SRR5909638	GShoot	B109	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	186932	128317	64.2	SF	127983	1289
+SRR5909658	L3Mid	CI187-2	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183394	112390	56.2	SF	111390	2476
+SRR5909674	L3Tip	B73	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183147	92681	46.3	SF	90818	2965
+SRR5909879	LMid	CML108	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183742	101695	50.8	SF	100711	2652
+SRR5909880	L3Base	CML108	E_polyA_no_front	--adapter_sequence AAAAAAAAAAAAAAAAAA --trim_poly_g --trim_poly_x --length_required 20	transcripts	200000	183688	113986	57.0	SF	113446	1551
+SRR5909624	GRoot	A556	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183643	123999	62.0	SF	123596	1959
+SRR5909625	L3Base	A556	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	182814	122441	61.2	SF	121873	2711
+SRR5909626	LMAD	CI21E	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	181142	96338	48.2	SF	94878	3234
+SRR5909627	LMAN	CI21E	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	180126	98789	49.4	SF	97434	2923
+SRR5909628	L3Tip	B73Htrhm	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183963	110276	55.1	SF	108548	3703
+SRR5909629	Kern	B73Htrhm	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183564	146062	73.0	SF	145858	1801
+SRR5909638	GShoot	B109	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	186932	137946	69.0	SF	137610	1972
+SRR5909658	L3Mid	CI187-2	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183394	123643	61.8	SF	122720	3264
+SRR5909674	L3Tip	B73	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183147	107418	53.7	SF	105725	3590
+SRR5909879	LMid	CML108	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183742	113546	56.8	SF	112580	3238
+SRR5909880	L3Base	CML108	E_ext500	as E	transcripts + up to 500 bp downstream (stops at the next gene on the strand)	200000	183688	124415	62.2	SF	123928	2260
+SRR5909624	GRoot	A556	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183643	120704	60.4	SF	120308	1981
+SRR5909625	L3Base	A556	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	182814	119877	59.9	SF	119287	2798
+SRR5909626	LMAD	CI21E	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	181142	93371	46.7	SF	91852	3370
+SRR5909627	LMAN	CI21E	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	180126	93519	46.8	SF	92116	3076
+SRR5909628	L3Tip	B73Htrhm	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183963	108061	54.0	SF	106279	3805
+SRR5909629	Kern	B73Htrhm	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183564	144928	72.5	SF	144726	1803
+SRR5909638	GShoot	B109	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	186932	136650	68.3	SF	136320	2003
+SRR5909658	L3Mid	CI187-2	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183394	121037	60.5	SF	120094	3338
+SRR5909674	L3Tip	B73	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183147	105323	52.7	SF	103556	3734
+SRR5909879	LMid	CML108	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183742	110271	55.1	SF	109221	3469
+SRR5909880	L3Base	CML108	E_ext500chr	as E	as E_ext500, chromosomes 1-10 only	200000	183688	122669	61.3	SF	122180	2281

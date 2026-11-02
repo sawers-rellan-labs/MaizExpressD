@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds
+Kremling2018_leaf_stage_LMAD_vs_L3Tip_B73	leaf_stage	B73	~ tissue		6	25	1	16600	2610	2704	10827	0	20

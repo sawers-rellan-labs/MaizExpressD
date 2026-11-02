@@ -1,0 +1,13 @@
+eqtl_v3	eqtl_v5	qtl_v3	qtl_v5	gene_v3	tissue_lei	trait	gene_pos_v3	gene_pos_v5	rho	pvalue	cubic_pvalue	role_reference
+-		-		GRMZM2G171650(MADS69)	SH	DTA	Chromosome 3 159022118-159050063bp	Chromosome 3 161171989..161199903	-0.41	4.6999999999999998E-12		Maize/ Flowering time (Liang et al., 2019)
+-		-		GRMZM2G093210	LD	ASI	Chromosome 1 294010123-294012577bp	Chromosome 1 300932003..300934302	0.33	3.7000000000000002E-6	2.8700670000000001E-2	Arabidopsis/ pollen development (Wan et al., 2008)
+Chromosome 1: 7184838bp	Chromosome 1: 7129144bp	Chromosome 1: 7395467bp	Chromosome 1: 7341326bp	GRMZM2G090738(RPL5)	SH	EH	Chromosome 1 7157855-7162079bp	Chromosome 1 7101492..7105728	0.11	0.09		Rice/ Plant development(Moin et al., 2016)
+					LN	PE			-0.25	7.1000000000000005E-5	0.21914253	
+Chromosome 8: 131596242bp	Chromosome 8: 135673295bp	Chromosome 8: 131596224bp	Chromosome 8: 135673277bp	GRMZM2G700665(Rap2.7)	RT	EH	Chromosome 8 131576888-131580316bp	Chromosome 8 135653765..135657689	0.1	0.09		Maize/ Brace roots development (Li et al., 2019)
+		Chromosome 8: 131596218bp	Chromosome 8: 135673271bp			EP			0.11	7.0000000000000007E-2		
+Chromosome 8: 130707896bp	Chromosome 8: 134761044bp	Chromosome 8: 130707910bp	Chromosome 8: 134761058bp	AC214648.3_FG003	SH	DA	Chromosome 8 131331978-131336706 bp	Chromosome 8 135404540..135408909	0.05	0.41		Arabidopsis thaliana/ Plant growth and development (Wang et al., 2015)
+Chromosome 3: 229990404bp	Chromosome 3: 235699762bp	Chromosome 3: 229990451bp	Chromosome 3: 235699809bp	GRMZM2G458888	RT	EP	Chromosome 3 229953661-229956054bp	Chromosome 3 235697178..235701618	0.02	0.79		Rice/ Plant height (Gao et al., 2012)
+Chromosome 3: 229990404bp	Chromosome 3: 235699762bp	Chromosome3: 229990451bp	Chromosome 3: 235699809bp	GRMZM2G075884	LD	EP	Chromosome 3 229953661-229956054bp	Chromosome 3 235658288..235660725	-0.02	0.73	3.81914E-2	Arabidopsis thaliana/ Reduced height (Bouwmeester et al., 2011)
+Chromosome 3: 229959791bp	Chromosome 3: 235664421bp	Chromosome 3: 229990451bp	Chromosome 3: 235699809bp	GRMZM2G075594	RT	EP	chromosome 3 229959369-229964565bp	chromosome 3 235663877..235669190	0.08	0.21		Potato/ Plant height and  leaf chlorophyll content (Klaassen et al., 2020)
+					SH				5.0200000000000002E-3	0.91		
+-		-		GRMZM2G103666	LN	LeafLengh		chromosome 3 202794887..202796715			2.0935240000000001E-2	Maize/ Plant development(Danilevskaya et al., 2008)

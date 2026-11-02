@@ -1,0 +1,5 @@
+# data folders hold no R code: keep renv from scanning their files for dependencies
+app/data/
+results/
+annotation/source/
+metadata/build/cache/

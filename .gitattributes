@@ -1,0 +1,4 @@
+*.parquet filter=lfs diff=lfs merge=lfs -text
+annotation/source/** filter=lfs diff=lfs merge=lfs -text
+annotation/*.tsv.gz filter=lfs diff=lfs merge=lfs -text
+results/Kremling2018/*/*.tsv filter=lfs diff=lfs merge=lfs -text

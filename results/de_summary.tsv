@@ -1,0 +1,13 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds	note
+Kremling2018_leaf_maturation_L3Tip_vs_L3Base_panel	leaf_maturation	panel	edgeR QL ~ pair + tissue	243	245	245	35	19396	4813	6210	18295	53	53963	prior QL df median 6.0
+Kremling2018_leaf_maturation_L3Tip_vs_L3Base_B73	leaf_maturation	B73	DESeq2 ~ tissue		25	22	4	18886	4829	6520	16720	1	18	
+Kremling2018_leaf_maturation_L3Mid_vs_L3Base_panel	leaf_maturation	panel	edgeR QL ~ pair + tissue	24	24	24	4	18987	4057	5273	15323	10	34	prior QL df median 6.0
+Kremling2018_leaf_maturation_L3Tip_vs_L3Mid_panel	leaf_maturation	panel	edgeR QL ~ pair + tissue	25	25	25	2	16910	924	1618	9349	20	39	prior QL df median 9.1
+Kremling2018_day_night_LMAN_vs_LMAD_panel	day_night	panel	edgeR QL ~ pair + tissue	185	185	185	36	17961	1295	1427	15015	32	19541	prior QL df median 8.5
+Kremling2018_day_night_LMAN_vs_LMAD_B73	day_night	B73	DESeq2 ~ tissue		6	6	1	17388	1295	1430	5748	1	28	
+Kremling2018_day_night_LMAN_vs_LMAD_panel_group8	day_night	panel	edgeR QL ~ pair + tissue	70	70	70	20	17570	1425	1433	13270	16	329	prior QL df median 9.5
+Kremling2018_day_night_LMAN_vs_LMAD_panel_group26	day_night	panel	edgeR QL ~ pair + tissue	115	115	115	16	18123	1309	1570	14698	18	1448	prior QL df median 9.1
+Kremling2018_leaf_stage_LMAD_vs_L3Tip_panel	leaf_stage	panel	edgeR QL ~ pair + tissue	180	180	182	30	17356	2524	2274	15185	32	19178	prior QL df median 6.9
+Kremling2018_leaf_stage_LMAD_vs_L3Tip_B73	leaf_stage	B73	DESeq2 ~ tissue		6	25	1	16600	2610	2704	10827	0	20	
+Kremling2018_organ_GShoot_vs_GRoot_panel	organ	panel	edgeR QL ~ pair + tissue	217	218	217	92	20634	4112	4173	19278	21	48578	prior QL df median 5.9
+Kremling2018_organ_GShoot_vs_GRoot_B73	organ	B73	DESeq2 ~ tissue		8	17	0	19755	4466	3580	14957	2	18	

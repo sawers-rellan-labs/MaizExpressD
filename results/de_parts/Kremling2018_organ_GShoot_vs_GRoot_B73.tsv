@@ -1,0 +1,2 @@
+contrast_id	contrast_class	design	model	n_pairs	n_numerator	n_denominator	excluded_libraries	genes_tested	n_up	n_down	n_padj	n_single_library	fit_seconds
+Kremling2018_organ_GShoot_vs_GRoot_B73	organ	B73	~ tissue		8	17	0	19755	4466	3580	14957	2	18
