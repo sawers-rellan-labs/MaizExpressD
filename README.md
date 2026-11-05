@@ -9,9 +9,9 @@ Sibling of [MaizExpressN](https://github.com/sawers-rellan-labs/MaizExpressN) (n
 [MaizExpressC](https://github.com/sawers-rellan-labs/MaizExpressC) (cold), whose pipeline, gene annotation and app
 it reuses. The plan is in `HANDOFF.md`; working notes and every decision taken are in `CLAUDE.md`.
 
-**Status:** milestones 1-7 complete (sample sheet, quantification, library QC, analysis, annotation and Lei
-results, co-expression partners, app); milestone 8 (tests, repository, deployment) in progress: tests pass, the app
-is not yet deployed.
+**Status:** milestones 1-8 complete (sample sheet, quantification, library QC, analysis, annotation and Lei
+results, co-expression partners, app, tests and deployment). Live app:
+<https://01a1ab72-cb13-5f3b-83ac-eed2f6967ef8.share.connect.posit.cloud/>.
 
 Large files (Parquet tables, the per-tissue gene count tables, annotation sources) are stored with
 [Git LFS](https://git-lfs.com). Install it before cloning (`brew install git-lfs`, then `git lfs install`), or clone
@@ -46,6 +46,9 @@ Run from the project root (the renv library activates there). The app reads `app
 Lines, Co-expression, Rank genes, Gene list, Data, Methods.
 
 ## Deploy to Posit Connect Cloud
+
+Live app: <https://01a1ab72-cb13-5f3b-83ac-eed2f6967ef8.share.connect.posit.cloud/> (public link; managed at
+<https://connect.posit.cloud/gemmalab/content/01a1ab72-cb13-5f3b-83ac-eed2f6967ef8>, account `gemmalab`).
 
 Same route as MaizExpressN and C. From an R session started in the project root:
 
