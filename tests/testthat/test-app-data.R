@@ -69,3 +69,10 @@ test_that("nothing in the app says why a library or line was left out", {
     expect_false(grepl(PILOT_FC, txt, fixed = TRUE), label = basename(f))
   }
 })
+
+test_that("p-values that underflowed show as < 1e-300 and sort first", {
+  e <- app_env()
+  expect_true(any(pq("results", "de.parquet")$padj == 0, na.rm = TRUE))   # the strongest panel results reach exactly 0
+  expect_equal(e$fmtp(c(0, 4e-317, 1e-300, 2e-5, 0.0123, NA)), c("< 1e-300", "< 1e-300", "1.0e-300", "2.0e-05", "0.0123", "–"))
+  expect_equal(e$p_tab(c(0, 4e-317, 3.456e-30, 0.0123, NA)), c(0, 0, 3.46e-30, 0.0123, NA))
+})

@@ -8,7 +8,11 @@ base_layout <- function(p, ...) {
          ...) |> config(displaylogo = FALSE, modeBarButtonsToRemove = c("lasso2d", "select2d", "autoScale2d"))
 }
 fmt <- function(x, d = 2) ifelse(is.na(x), "–", formatC(x, format = "f", digits = d, flag = "+"))
-fmtp <- function(p) ifelse(is.na(p), "–", ifelse(p < 1e-4, formatC(p, format = "e", digits = 1), formatC(p, format = "f", digits = 4)))
+# p-values below 1e-300 have underflowed (the strongest ones to exactly 0): shown as "< 1e-300" in hover text and tables
+P_MIN <- 1e-300; P_MIN_TXT <- "< 1e-300"
+fmtp <- function(p) ifelse(is.na(p), "–", ifelse(p < P_MIN, P_MIN_TXT,
+                                                 ifelse(p < 1e-4, formatC(p, format = "e", digits = 1), formatC(p, format = "f", digits = 4))))
+p_tab <- function(p) fifelse(p < P_MIN, 0, signif(p, 3))   # table column: 0 prints as P_MIN_TXT (formatSignif zero.print), sorts first
 cpm_txt <- function(x) ifelse(x >= 100, formatC(x, format = "f", digits = 0, big.mark = ","), as.character(signif(x, 3)))
 empty_plot <- function(msg) {
   plot_ly(type = "scatter", mode = "markers") |>

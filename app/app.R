@@ -269,8 +269,9 @@ server <- function(input, output, session) {
           `log2FC (shrunk)` = round(log2fc_shrunk, 3), padj = signif(padj, 3), `CPM first` = round(cpm_numerator_mean, 2),
           `CPM second` = round(cpm_denominator_mean, 2), `one library` = single_library %in% TRUE, contrast_id)]
   })
-  output$restable <- renderDT(datatable(res_tab()[, !"contrast_id"], rownames = FALSE, class = "compact stripe", options = dt_opts(pageLength = 12)) |>
-                                formatSignif("padj", 3))
+  output$restable <- renderDT(datatable(res_tab()[, !"contrast_id"][, padj := p_tab(padj)], rownames = FALSE, class = "compact stripe",
+                                        options = dt_opts(pageLength = 12)) |>
+                                formatSignif("padj", 3, zero.print = P_MIN_TXT))
   output$dl_gene <- downloadHandler(filename = function() paste0("MaizExpressD_", gene(), "_contrasts.csv"),
                                     content = function(f) fwrite(res_tab(), f))
 
@@ -299,8 +300,9 @@ server <- function(input, output, session) {
     g <- GENES[.(gene())]
     eq[, cis := fifelse(eqtl_chrom_v5 == g$chrom & abs(eqtl_pos_v5 - (g$start + g$end) / 2) < 1e6, "cis", "trans", na = "–")]
     datatable(eq[order(match(tissue, TISSUES), pvalue), .(tissue, `eQTL (v5)` = ifelse(is.na(eqtl_pos_v5), "–", sprintf("%s:%s", eqtl_chrom_v5, format(eqtl_pos_v5, big.mark = ","))),
-                     `cis/trans` = cis, p = signif(pvalue, 3), `Lei gene` = gene_v3, match = map)],
-              rownames = FALSE, selection = "none", class = "compact stripe", options = dt_opts(pageLength = 8)) |> formatSignif("p", 3)
+                     `cis/trans` = cis, p = p_tab(pvalue), `Lei gene` = gene_v3, match = map)],
+              rownames = FALSE, selection = "none", class = "compact stripe", options = dt_opts(pageLength = 8)) |>
+      formatSignif("p", 3, zero.print = P_MIN_TXT)
   })
   output$tr_twas <- renderDT({
     tw <- LEI_TWAS[.(gene()), nomatch = 0]
@@ -403,11 +405,11 @@ server <- function(input, output, session) {
   rank_tab <- reactive({
     m <- rank_data()[!is.na(padj) & padj < 0.05 & abs(log2fc) >= input$rk_lfc]
     m <- switch(input$rk_sort, padj = m[order(padj, -abs(log2fc))], up = m[order(-log2fc)], down = m[order(log2fc)])
-    m[, .(gene_id, symbol, description = substr(description, 1, 60), log2FC = round(log2fc, 2), SE = round(lfc_se, 3), padj = signif(padj, 3),
+    m[, .(gene_id, symbol, description = substr(description, 1, 60), log2FC = round(log2fc, 2), SE = round(lfc_se, 3), padj = p_tab(padj),
           `CPM first` = round(cpm_numerator_mean, 1), `CPM second` = round(cpm_denominator_mean, 1))]
   })
   output$rk_table <- renderDT(datatable(rank_tab(), rownames = FALSE, selection = "single", class = "compact stripe hover", options = dt_opts(pageLength = 15)) |>
-                                formatSignif("padj", 3))
+                                formatSignif("padj", 3, zero.print = P_MIN_TXT))
   observeEvent(input$rk_table_rows_selected, go_gene(rank_tab()$gene_id[input$rk_table_rows_selected]))
   observeEvent(event_data("plotly_click", source = "volcano"), { k <- event_data("plotly_click", source = "volcano")$key; if (length(k)) go_gene(k[[1]]) })
   sp_tab <- reactive({
